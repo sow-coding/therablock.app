@@ -1,0 +1,56 @@
+Starting blockApps script at 06/30/2024 11:11:04
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock
+Apps to block: steam
+Attempting to block app: steam at 06/30/2024 11:11:04
+App blocked: steam at 06/30/2024 11:11:04
+Starting blockApps script at 06/30/2024 11:12:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock
+Apps to block: Steam
+Attempting to block app: Steam at 06/30/2024 11:12:00
+App blocked: Steam at 06/30/2024 11:12:00
+Starting blockApps script at 06/30/2024 11:18:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock
+Apps to block: Steam.exe
+Attempting to block app: Steam.exe at 06/30/2024 11:18:00
+App blocked: Steam.exe at 06/30/2024 11:18:00
+Starting blockApps script at 06/30/2024 11:19:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock
+Apps to block: steam.exe
+Attempting to block app: steam.exe at 06/30/2024 11:19:00
+App blocked: steam.exe at 06/30/2024 11:19:00
+Starting blockApps script at 06/30/2024 11:20:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock
+Apps to block: steam
+Attempting to block app: steam at 06/30/2024 11:20:01
+App blocked: steam at 06/30/2024 11:20:01
+Starting blockApps script at 06/30/2024 11:27:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock
+Apps to block: steam.exe
+Attempting to block app: steam.exe at 06/30/2024 11:27:00
+App blocked: steam.exe at 06/30/2024 11:27:00
+Starting blockApps script at 06/30/2024 11:30:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock
+Apps to block: steam.exe
+Attempting to block app: steam.exe at 06/30/2024 11:30:01
+Outbound traffic blocked for app: steam.exe at 06/30/2024 11:30:01
+Inbound traffic blocked for app: steam.exe at 06/30/2024 11:30:01
+Starting blockApps script at 06/30/2024 11:48:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock
+Apps to block: Xbox.exe
+Attempting to block app: Xbox.exe at 06/30/2024 11:48:00
+Application Xbox.exe non trouvée. Vérifiez le nom et réessayez.
+Starting blockApps script at 06/30/2024 11:50:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock
+Apps to block: xbox.exe
+Attempting to block app: xbox.exe at 06/30/2024 11:50:00
+Application xbox.exe non trouvée. Vérifiez le nom et réessayez.
+Starting blockApps script at 06/30/2024 11:52:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock
+Apps to block: steam.exe
+Attempting to block app: steam.exe at 06/30/2024 11:52:00
+Application steam.exe non trouvée. Vérifiez le nom et réessayez.
+Starting blockApps script at 06/30/2024 12:13:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock
+Apps to block: steam,tiktok
+Attempting to block app: steam,tiktok at 06/30/2024 12:13:01
+Application steam,tiktok blocked at 06/30/2024 12:13:01

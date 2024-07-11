@@ -1,0 +1,1009 @@
+Starting blockSites script at 07/05/2024 20:18:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: kio.com
+Attempting to block site: kio.com at 07/05/2024 20:18:01
+Site blocked: 127.0.0.1 kio.com at 07/05/2024 20:18:01
+Site blocked: 127.0.0.1 www.kio.com at 07/05/2024 20:18:01
+Starting blockSites script at 07/05/2024 20:30:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: saikou.com
+Attempting to block site: saikou.com at 07/05/2024 20:30:01
+Site blocked: 127.0.0.1 saikou.com at 07/05/2024 20:30:01
+Site blocked: 127.0.0.1 www.saikou.com at 07/05/2024 20:30:01
+Starting blockSites script at 07/05/2024 20:33:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: oumou.com
+Attempting to block site: oumou.com at 07/05/2024 20:33:01
+Site blocked: 127.0.0.1 oumou.com at 07/05/2024 20:33:01
+Site blocked: 127.0.0.1 www.oumou.com at 07/05/2024 20:33:01
+Starting blockSites script at 07/05/2024 20:44:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: aicha.com
+Attempting to block site: aicha.com at 07/05/2024 20:44:00
+Site blocked: 127.0.0.1 aicha.com at 07/05/2024 20:44:00
+Site blocked: 127.0.0.1 www.aicha.com at 07/05/2024 20:44:00
+Starting blockSites script at 07/05/2024 20:46:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: amadou.com
+Attempting to block site: amadou.com at 07/05/2024 20:46:00
+Site blocked: 127.0.0.1 amadou.com at 07/05/2024 20:46:01
+Site blocked: 127.0.0.1 www.amadou.com at 07/05/2024 20:46:01
+Starting blockSites script at 07/05/2024 21:12:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: t.com,e.com
+Attempting to block site: t.com,e.com at 07/05/2024 21:12:01
+Site blocked: 127.0.0.1 t.com,e.com at 07/05/2024 21:12:01
+Site blocked: 127.0.0.1 www.t.com,e.com at 07/05/2024 21:12:01
+Starting blockSites script at 07/05/2024 21:16:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: tiktok.com,facebook.com
+Attempting to block site: tiktok.com,facebook.com at 07/05/2024 21:16:01
+Site blocked: 127.0.0.1 www.tiktok.com,facebook.com at 07/05/2024 21:16:01
+Starting blockSites script at 07/05/2024 21:53:21
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: arabic.com
+Attempting to block site: arabic.com at 07/05/2024 21:53:21
+Site blocked: 127.0.0.1 arabic.com at 07/05/2024 21:53:21
+Site blocked: 127.0.0.1 www.arabic.com at 07/05/2024 21:53:21
+Starting blockSites script at 07/05/2024 21:54:35
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: arr.be, ko.coco
+Attempting to block site: arr.be, ko.coco at 07/05/2024 21:54:35
+Site blocked: 127.0.0.1 arr.be, ko.coco at 07/05/2024 21:54:35
+Site blocked: 127.0.0.1 www.arr.be, ko.coco at 07/05/2024 21:54:35
+Starting blockSites script at 07/05/2024 21:56:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: hadji.be, diallo.com
+hadji.be, diallo.com voici ce que ca donne ton fameux foreach
+Attempting to block site: hadji.be, diallo.com at 07/05/2024 21:56:00
+Site blocked: 127.0.0.1 hadji.be, diallo.com at 07/05/2024 21:56:00
+Starting blockSites script at 07/05/2024 21:57:16
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: hadji.be, diallo.com
+hadji.be, diallo.com voici ce que ca donne ton fameux foreach
+Attempting to block site: hadji.be, diallo.com at 07/05/2024 21:57:16
+Site is already blocked: 127.0.0.1 hadji.be, diallo.com at 07/05/2024 21:57:16
+Site is already blocked: 127.0.0.1 www.hadji.be, diallo.com at 07/05/2024 21:57:16
+Starting blockSites script at 07/05/2024 22:46:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: x.com,snapchat.com
+Attempting to block site: x.com at 07/05/2024 22:46:01
+Site blocked: 127.0.0.1 x.com at 07/05/2024 22:46:01
+Site blocked: 127.0.0.1 www.x.com at 07/05/2024 22:46:01
+Attempting to block site: snapchat.com at 07/05/2024 22:46:01
+Site blocked: 127.0.0.1 snapchat.com at 07/05/2024 22:46:01
+Site blocked: 127.0.0.1 www.snapchat.com at 07/05/2024 22:46:01
+Starting blockSites script at 07/05/2024 23:06:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: snap.com,chat.com
+Attempting to block site: snap.com at 07/05/2024 23:06:00
+Site blocked: 127.0.0.1 snap.com at 07/05/2024 23:06:00
+Site blocked: 127.0.0.1 www.snap.com at 07/05/2024 23:06:00
+Attempting to block site: chat.com at 07/05/2024 23:06:00
+Site blocked: 127.0.0.1 chat.com at 07/05/2024 23:06:00
+Site blocked: 127.0.0.1 www.chat.com at 07/05/2024 23:06:01
+Completed blockSites script at 07/05/2024 23:06:01
+Starting blockSites script at 07/05/2024 23:17:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: twi.com,ter.com
+Attempting to block site: twi.com at 07/05/2024 23:17:00
+Adding entry: 127.0.0.1 twi.com
+Site blocked: 127.0.0.1 twi.com at 07/05/2024 23:17:00
+Adding entry: 127.0.0.1 www.twi.com
+Site blocked: 127.0.0.1 www.twi.com at 07/05/2024 23:17:00
+Attempting to block site: ter.com at 07/05/2024 23:17:00
+Adding entry: 127.0.0.1 ter.com
+Site blocked: 127.0.0.1 ter.com at 07/05/2024 23:17:00
+Adding entry: 127.0.0.1 www.ter.com
+Site blocked: 127.0.0.1 www.ter.com at 07/05/2024 23:17:00
+Starting blockSites script at 07/05/2024 23:22:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: tiktok.com,youtube.com
+Attempting to block site: tiktok.com at 07/05/2024 23:22:00
+Site blocked: 127.0.0.1 tiktok.com at 07/05/2024 23:22:00
+Site blocked: 127.0.0.1 www.tiktok.com at 07/05/2024 23:22:01
+Attempting to block site: youtube.com at 07/05/2024 23:22:01
+Site blocked: 127.0.0.1 youtube.com at 07/05/2024 23:22:01
+Site blocked: 127.0.0.1 www.youtube.com at 07/05/2024 23:22:01
+Completed blockSites script at 07/05/2024 23:22:01
+Starting blockSites script at 07/05/2024 23:51:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: twitch.tv,instagram.com
+Attempting to block site: twitch.tv at 07/05/2024 23:51:01
+Adding entry: 127.0.0.1 twitch.tv
+Site blocked: 127.0.0.1 twitch.tv at 07/05/2024 23:51:01
+Adding entry: 127.0.0.1 www.twitch.tv
+Site blocked: 127.0.0.1 www.twitch.tv at 07/05/2024 23:51:01
+Attempting to block site: instagram.com at 07/05/2024 23:51:01
+Adding entry: 127.0.0.1 instagram.com
+Site blocked: 127.0.0.1 instagram.com at 07/05/2024 23:51:01
+Adding entry: 127.0.0.1 www.instagram.com
+Site blocked: 127.0.0.1 www.instagram.com at 07/05/2024 23:51:01
+Starting blockSites script at 07/06/2024 08:41:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: tiktok.com,instagram.com
+Frero voici sitesToBlock normalement c array: 127.0.0.1 tiktok.com 127.0.0.1 www.tiktok.com 
+Attempting to block site: tiktok.com at 07/06/2024 08:41:01
+Adding entry: 127.0.0.1 tiktok.com
+Site blocked: 127.0.0.1 tiktok.com at 07/06/2024 08:41:01
+Adding entry: 127.0.0.1 www.tiktok.com
+Site blocked: 127.0.0.1 www.tiktok.com at 07/06/2024 08:41:01
+Frero voici sitesToBlock normalement c array: 127.0.0.1 instagram.com 127.0.0.1 www.instagram.com 
+Attempting to block site: instagram.com at 07/06/2024 08:41:01
+Site is already blocked: 127.0.0.1 instagram.com at 07/06/2024 08:41:01
+Adding entry: 127.0.0.1 www.instagram.com
+Site blocked: 127.0.0.1 www.instagram.com at 07/06/2024 08:41:01
+Starting blockSites script at 07/06/2024 09:04:49
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: youtube.com, facebook.com
+Attempting to block site: youtube.com at 07/06/2024 09:04:49
+Adding entry: 127.0.0.1 youtube.com
+Site blocked: 127.0.0.1 youtube.com at 07/06/2024 09:04:49
+Adding entry: 127.0.0.1 www.youtube.com
+Site blocked: 127.0.0.1 www.youtube.com at 07/06/2024 09:04:49
+Value du hosts: 
+Attempting to block site: facebook.com at 07/06/2024 09:04:49
+Adding entry: 127.0.0.1 facebook.com
+Site blocked: 127.0.0.1 facebook.com at 07/06/2024 09:04:49
+Adding entry: 127.0.0.1 www.facebook.com
+Site blocked: 127.0.0.1 www.facebook.com at 07/06/2024 09:04:49
+Value du hosts: 127.0.0.1 youtube.com
+Starting blockSites script at 07/06/2024 09:06:06
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: youtube.com, facebook.com
+Attempting to block site: youtube.com at 07/06/2024 09:06:06
+Site is already blocked: 127.0.0.1 youtube.com at 07/06/2024 09:06:06
+Adding entry: 127.0.0.1 www.youtube.com
+Site blocked: 127.0.0.1 www.youtube.com at 07/06/2024 09:06:06
+Value du hosts: 127.0.0.1 youtube.com 127.0.0.1 facebook.com
+Attempting to block site: facebook.com at 07/06/2024 09:06:06
+Site is already blocked: 127.0.0.1 facebook.com at 07/06/2024 09:06:06
+Adding entry: 127.0.0.1 www.facebook.com
+Site blocked: 127.0.0.1 www.facebook.com at 07/06/2024 09:06:06
+Value du hosts: 127.0.0.1 youtube.com 127.0.0.1 facebook.com 127.0.0.1 www.youtube.com
+Starting blockSites script at 07/06/2024 09:07:10
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: youtube.com, facebook.com
+Attempting to block site: youtube.com at 07/06/2024 09:07:10
+Site is already blocked: 127.0.0.1 youtube.com at 07/06/2024 09:07:10
+Site is already blocked: 127.0.0.1 www.youtube.com at 07/06/2024 09:07:10
+Value du hosts: 127.0.0.1 youtube.com 127.0.0.1 facebook.com 127.0.0.1 www.youtube.com
+Attempting to block site: facebook.com at 07/06/2024 09:07:10
+Site is already blocked: 127.0.0.1 facebook.com at 07/06/2024 09:07:10
+Adding entry: 127.0.0.1 www.facebook.com
+Site blocked: 127.0.0.1 www.facebook.com at 07/06/2024 09:07:10
+Value du hosts: 127.0.0.1 youtube.com 127.0.0.1 facebook.com 127.0.0.1 www.youtube.com
+Starting blockSites script at 07/06/2024 09:13:27
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: tiktok.com,instagram.com
+Attempting to block site: tiktok.com at 07/06/2024 09:13:27
+Adding entry: 127.0.0.1 tiktok.com
+Site blocked: 127.0.0.1 tiktok.com at 07/06/2024 09:13:27
+Adding entry: 127.0.0.1 www.tiktok.com
+Site blocked: 127.0.0.1 www.tiktok.com at 07/06/2024 09:13:27
+Value du hosts: 127.0.0.1 youtube.com 127.0.0.1 facebook.com 127.0.0.1 www.youtube.com 127.0.0.1 www.facebook.com
+Attempting to block site: instagram.com at 07/06/2024 09:13:27
+Adding entry: 127.0.0.1 instagram.com
+Site blocked: 127.0.0.1 instagram.com at 07/06/2024 09:13:27
+Adding entry: 127.0.0.1 www.instagram.com
+Site blocked: 127.0.0.1 www.instagram.com at 07/06/2024 09:13:27
+Value du hosts: 127.0.0.1 youtube.com 127.0.0.1 facebook.com 127.0.0.1 www.youtube.com 127.0.0.1 www.facebook.com 127.0.0.1 tiktok.com
+Starting blockSites script at 07/06/2024 09:14:02
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: tiktok.com,instagram.com
+Attempting to block site: tiktok.com at 07/06/2024 09:14:02
+Site is already blocked: 127.0.0.1 tiktok.com at 07/06/2024 09:14:02
+Adding entry: 127.0.0.1 www.tiktok.com
+Site blocked: 127.0.0.1 www.tiktok.com at 07/06/2024 09:14:02
+Value du hosts: 127.0.0.1 youtube.com 127.0.0.1 facebook.com 127.0.0.1 www.youtube.com 127.0.0.1 www.facebook.com 127.0.0.1 tiktok.com 127.0.0.1 instagram.com
+Attempting to block site: instagram.com at 07/06/2024 09:14:02
+Site is already blocked: 127.0.0.1 instagram.com at 07/06/2024 09:14:02
+Adding entry: 127.0.0.1 www.instagram.com
+Site blocked: 127.0.0.1 www.instagram.com at 07/06/2024 09:14:02
+Value du hosts: 127.0.0.1 youtube.com 127.0.0.1 facebook.com 127.0.0.1 www.youtube.com 127.0.0.1 www.facebook.com 127.0.0.1 tiktok.com 127.0.0.1 instagram.com 127.0.0.1 www.tiktok.com
+Starting blockSites script at 07/06/2024 09:19:07
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: instagram.com,tiktok.com
+Attempting to block site: instagram.com at 07/06/2024 09:19:07
+Adding entry: 127.0.0.1 instagram.com
+Site blocked: 127.0.0.1 instagram.com at 07/06/2024 09:19:08
+Adding entry: 127.0.0.1 www.instagram.com
+Site blocked: 127.0.0.1 www.instagram.com at 07/06/2024 09:19:08
+Value du hosts: 
+Attempting to block site: tiktok.com at 07/06/2024 09:19:08
+Adding entry: 127.0.0.1 tiktok.com
+Site blocked: 127.0.0.1 tiktok.com at 07/06/2024 09:19:08
+Adding entry: 127.0.0.1 www.tiktok.com
+Site blocked: 127.0.0.1 www.tiktok.com at 07/06/2024 09:19:08
+Value du hosts: 
+Starting blockSites script at 07/06/2024 09:22:17
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: instagram.com,tiktok.com
+Attempting to block site: instagram.com at 07/06/2024 09:22:17
+Adding entry: 127.0.0.1 instagram.com
+Site blocked: 127.0.0.1 instagram.com at 07/06/2024 09:22:17
+Adding entry: 127.0.0.1 www.instagram.com
+Site blocked: 127.0.0.1 www.instagram.com at 07/06/2024 09:22:17
+Value du hosts: 
+Attempting to block site: tiktok.com at 07/06/2024 09:22:17
+Adding entry: 127.0.0.1 tiktok.com
+Site blocked: 127.0.0.1 tiktok.com at 07/06/2024 09:22:17
+Adding entry: 127.0.0.1 www.tiktok.com
+Site blocked: 127.0.0.1 www.tiktok.com at 07/06/2024 09:22:17
+Starting blockSites script at 07/06/2024 09:45:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: facebook.com,instagram.com
+Attempting to block site: facebook.com at 07/06/2024 09:45:01
+Adding entry: 127.0.0.1 facebook.com
+Site blocked: 127.0.0.1 facebook.com at 07/06/2024 09:45:01
+Adding entry: 127.0.0.1 www.facebook.com
+Site blocked: 127.0.0.1 www.facebook.com at 07/06/2024 09:45:01
+Value du hosts: 
+Attempting to block site: instagram.com at 07/06/2024 09:45:01
+Adding entry: 127.0.0.1 instagram.com
+Site blocked: 127.0.0.1 instagram.com at 07/06/2024 09:45:01
+Adding entry: 127.0.0.1 www.instagram.com
+Site blocked: 127.0.0.1 www.instagram.com at 07/06/2024 09:45:01
+Value du hosts: 127.0.0.1 facebook.com
+Starting blockSites script at 07/06/2024 09:55:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: instagram.com,tiktok.com
+Attempting to block site: instagram.com at 07/06/2024 09:55:00
+Site is already blocked: 127.0.0.1 instagram.com at 07/06/2024 09:55:00
+Adding entry: 127.0.0.1 www.instagram.com
+Site blocked: 127.0.0.1 www.instagram.com at 07/06/2024 09:55:00
+Value du hosts: 127.0.0.1 facebook.com 127.0.0.1 instagram.com
+Attempting to block site: tiktok.com at 07/06/2024 09:55:00
+Adding entry: 127.0.0.1 tiktok.com
+Site blocked: 127.0.0.1 tiktok.com at 07/06/2024 09:55:00
+Adding entry: 127.0.0.1 www.tiktok.com
+Site blocked: 127.0.0.1 www.tiktok.com at 07/06/2024 09:55:00
+Value du hosts: 127.0.0.1 facebook.com 127.0.0.1 instagram.com 127.0.0.1 www.instagram.com
+Starting blockSites script at 07/06/2024 10:18:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: instagram.com,youtube.com
+Attempting to block site: instagram.com at 07/06/2024 10:18:00
+Adding entry: 127.0.0.1 instagram.com
+Site blocked: 127.0.0.1 instagram.com at 07/06/2024 10:18:00
+Adding entry: 127.0.0.1 www.instagram.com
+Site blocked: 127.0.0.1 www.instagram.com at 07/06/2024 10:18:00
+Value du hosts: 
+Attempting to block site: youtube.com at 07/06/2024 10:18:00
+Adding entry: 127.0.0.1 youtube.com
+Site blocked: 127.0.0.1 youtube.com at 07/06/2024 10:18:00
+Adding entry: 127.0.0.1 www.youtube.com
+Site blocked: 127.0.0.1 www.youtube.com at 07/06/2024 10:18:00
+Value du hosts: 127.0.0.1 instagram.com
+Starting blockSites script at 07/06/2024 10:29:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: tiktok.com,instagram.com
+Attempting to block site: tiktok.com at 07/06/2024 10:29:00
+Adding entry: 127.0.0.1 tiktok.com
+Site blocked: 127.0.0.1 tiktok.com at 07/06/2024 10:29:00
+Adding entry: 127.0.0.1 www.tiktok.com
+Site blocked: 127.0.0.1 www.tiktok.com at 07/06/2024 10:29:00
+Value du hosts: 
+Attempting to block site: instagram.com at 07/06/2024 10:29:00
+Adding entry: 127.0.0.1 instagram.com
+Site blocked: 127.0.0.1 instagram.com at 07/06/2024 10:29:00
+Adding entry: 127.0.0.1 www.instagram.com
+Site blocked: 127.0.0.1 www.instagram.com at 07/06/2024 10:29:00
+Value du hosts: 127.0.0.1 tiktok.com
+Starting blockSites script at 07/06/2024 10:31:32
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: x.com, to.com
+Attempting to block site: x.com at 07/06/2024 10:31:32
+Adding entry: 127.0.0.1 x.com
+Site blocked: 127.0.0.1 x.com at 07/06/2024 10:31:32
+Adding entry: 127.0.0.1 www.x.com
+Site blocked: 127.0.0.1 www.x.com at 07/06/2024 10:31:32
+Value du hosts: 127.0.0.1 tiktok.com 127.0.0.1 instagram.com
+Attempting to block site: to.com at 07/06/2024 10:31:32
+Adding entry: 127.0.0.1 to.com
+Site blocked: 127.0.0.1 to.com at 07/06/2024 10:31:32
+Adding entry: 127.0.0.1 www.to.com
+Value du hosts: 127.0.0.1 tiktok.com 127.0.0.1 instagram.com 127.0.0.1 x.com
+Starting blockSites script at 07/06/2024 10:32:02
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: x.com, to.com
+Attempting to block site: x.com at 07/06/2024 10:32:02
+Site is already blocked: 127.0.0.1 x.com at 07/06/2024 10:32:02
+Adding entry: 127.0.0.1 www.x.com
+Site blocked: 127.0.0.1 www.x.com at 07/06/2024 10:32:02
+Value du hosts: 127.0.0.1 tiktok.com 127.0.0.1 instagram.com 127.0.0.1 x.com 127.0.0.1 to.com
+Attempting to block site: to.com at 07/06/2024 10:32:02
+Site is already blocked: 127.0.0.1 to.com at 07/06/2024 10:32:02
+Adding entry: 127.0.0.1 www.to.com
+Site blocked: 127.0.0.1 www.to.com at 07/06/2024 10:32:02
+Value du hosts: 127.0.0.1 tiktok.com 127.0.0.1 instagram.com 127.0.0.1 x.com 127.0.0.1 to.com 127.0.0.1 www.x.com
+Starting blockSites script at 07/06/2024 10:38:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: k.com,p.com
+Attempting to block site: k.com at 07/06/2024 10:38:00
+Adding entry: 127.0.0.1 k.com
+Site blocked: 127.0.0.1 k.com at 07/06/2024 10:38:00
+Adding entry: 127.0.0.1 www.k.com
+Site blocked: 127.0.0.1 www.k.com at 07/06/2024 10:38:01
+Value du hosts: 127.0.0.1 tiktok.com 127.0.0.1 instagram.com 127.0.0.1 x.com 127.0.0.1 to.com 127.0.0.1 www.x.com 127.0.0.1 www.to.com
+Attempting to block site: p.com at 07/06/2024 10:38:01
+Adding entry: 127.0.0.1 p.com
+Site blocked: 127.0.0.1 p.com at 07/06/2024 10:38:01
+Adding entry: 127.0.0.1 www.p.com
+Site blocked: 127.0.0.1 www.p.com at 07/06/2024 10:38:01
+Value du hosts: 127.0.0.1 tiktok.com 127.0.0.1 instagram.com 127.0.0.1 x.com 127.0.0.1 to.com 127.0.0.1 www.x.com 127.0.0.1 www.to.com 127.0.0.1 k.com
+Starting blockSites script at 07/07/2024 08:00:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: tiktok.com,snap.com
+Attempting to block site: tiktok.com at 07/07/2024 08:00:01
+Adding entry: 127.0.0.1 tiktok.com
+Site blocked: 127.0.0.1 tiktok.com at 07/07/2024 08:00:01
+Adding entry: 127.0.0.1 www.tiktok.com
+Site blocked: 127.0.0.1 www.tiktok.com at 07/07/2024 08:00:01
+Value du hosts: 
+Attempting to block site: snap.com at 07/07/2024 08:00:01
+Adding entry: 127.0.0.1 snap.com
+Site blocked: 127.0.0.1 snap.com at 07/07/2024 08:00:01
+Adding entry: 127.0.0.1 www.snap.com
+Site blocked: 127.0.0.1 www.snap.com at 07/07/2024 08:00:01
+Value du hosts: 127.0.0.1 tiktok.com
+Starting blockSites script at 07/07/2024 08:01:19
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: go.com,end.com
+Attempting to block site: go.com at 07/07/2024 08:01:19
+Adding entry: 127.0.0.1 go.com
+Site blocked: 127.0.0.1 go.com at 07/07/2024 08:01:19
+Adding entry: 127.0.0.1 www.go.com
+Site blocked: 127.0.0.1 www.go.com at 07/07/2024 08:01:19
+Value du hosts: 127.0.0.1 tiktok.com 127.0.0.1 snap.com
+Attempting to block site: end.com at 07/07/2024 08:01:19
+Adding entry: 127.0.0.1 end.com
+Site blocked: 127.0.0.1 end.com at 07/07/2024 08:01:19
+Adding entry: 127.0.0.1 www.end.com
+Site blocked: 127.0.0.1 www.end.com at 07/07/2024 08:01:19
+Value du hosts: 127.0.0.1 tiktok.com 127.0.0.1 snap.com 127.0.0.1 go.com
+Starting blockSites script at 07/07/2024 08:01:46
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: go.com,end.com
+Attempting to block site: go.com at 07/07/2024 08:01:46
+Site is already blocked: 127.0.0.1 go.com at 07/07/2024 08:01:46
+Adding entry: 127.0.0.1 www.go.com
+Site blocked: 127.0.0.1 www.go.com at 07/07/2024 08:01:46
+Value du hosts: 127.0.0.1 tiktok.com 127.0.0.1 snap.com 127.0.0.1 go.com 127.0.0.1 end.com
+Attempting to block site: end.com at 07/07/2024 08:01:46
+Site is already blocked: 127.0.0.1 end.com at 07/07/2024 08:01:46
+Adding entry: 127.0.0.1 www.end.com
+Site blocked: 127.0.0.1 www.end.com at 07/07/2024 08:01:46
+Value du hosts: 127.0.0.1 tiktok.com 127.0.0.1 snap.com 127.0.0.1 go.com 127.0.0.1 end.com 127.0.0.1 www.go.com
+Starting blockSites script at 07/07/2024 08:06:08
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: tiktok.com,snap.com
+Attempting to block site: tiktok.com at 07/07/2024 08:06:08
+Adding entry: 127.0.0.1 tiktok.com
+Site blocked: 127.0.0.1 tiktok.com at 07/07/2024 08:06:08
+Adding entry: 127.0.0.1 www.tiktok.com
+Site blocked: 127.0.0.1 www.tiktok.com at 07/07/2024 08:06:08
+Attempting to block site: snap.com at 07/07/2024 08:06:08
+Adding entry: 127.0.0.1 snap.com
+Site blocked: 127.0.0.1 snap.com at 07/07/2024 08:06:08
+Adding entry: 127.0.0.1 www.snap.com
+Site blocked: 127.0.0.1 www.snap.com at 07/07/2024 08:06:08
+Starting blockSites script at 07/07/2024 08:06:21
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: tiktok.com,snap.com
+Attempting to block site: tiktok.com at 07/07/2024 08:06:21
+Site is already blocked: 127.0.0.1 tiktok.com at 07/07/2024 08:06:21
+Adding entry: 127.0.0.1 www.tiktok.com
+Site blocked: 127.0.0.1 www.tiktok.com at 07/07/2024 08:06:21
+Attempting to block site: snap.com at 07/07/2024 08:06:21
+Site is already blocked: 127.0.0.1 snap.com at 07/07/2024 08:06:21
+Adding entry: 127.0.0.1 www.snap.com
+Site blocked: 127.0.0.1 www.snap.com at 07/07/2024 08:06:21
+Starting blockSites script at 07/07/2024 08:14:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: instagram.com,facebook.com
+Attempting to block site: instagram.com at 07/07/2024 08:14:00
+Adding entry: 127.0.0.1 instagram.com
+Site blocked: 127.0.0.1 instagram.com at 07/07/2024 08:14:00
+Adding entry: 127.0.0.1 www.instagram.com
+Site blocked: 127.0.0.1 www.instagram.com at 07/07/2024 08:14:00
+Attempting to block site: facebook.com at 07/07/2024 08:14:00
+Adding entry: 127.0.0.1 facebook.com
+Site blocked: 127.0.0.1 facebook.com at 07/07/2024 08:14:00
+Adding entry: 127.0.0.1 www.facebook.com
+Site blocked: 127.0.0.1 www.facebook.com at 07/07/2024 08:14:00
+Completed blockSites script at 07/07/2024 08:14:00
+Starting blockSites script at 07/07/2024 08:15:08
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: tikktok.com,snapp.com
+Attempting to block site: tikktok.com at 07/07/2024 08:15:08
+Adding entry: 127.0.0.1 tikktok.com
+Site blocked: 127.0.0.1 tikktok.com at 07/07/2024 08:15:08
+Adding entry: 127.0.0.1 www.tikktok.com
+Site blocked: 127.0.0.1 www.tikktok.com at 07/07/2024 08:15:08
+Attempting to block site: snapp.com at 07/07/2024 08:15:08
+Adding entry: 127.0.0.1 snapp.com
+Site blocked: 127.0.0.1 snapp.com at 07/07/2024 08:15:08
+Adding entry: 127.0.0.1 www.snapp.com
+Site blocked: 127.0.0.1 www.snapp.com at 07/07/2024 08:15:09
+Completed blockSites script at 07/07/2024 08:15:09
+Starting blockSites script at 07/07/2024 08:15:24
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: tikktok.com,snapp.com
+Attempting to block site: tikktok.com at 07/07/2024 08:15:24
+Adding entry: 127.0.0.1 tikktok.com
+Site blocked: 127.0.0.1 tikktok.com at 07/07/2024 08:15:24
+Adding entry: 127.0.0.1 www.tikktok.com
+Site blocked: 127.0.0.1 www.tikktok.com at 07/07/2024 08:15:25
+Attempting to block site: snapp.com at 07/07/2024 08:15:25
+Adding entry: 127.0.0.1 snapp.com
+Site blocked: 127.0.0.1 snapp.com at 07/07/2024 08:15:25
+Adding entry: 127.0.0.1 www.snapp.com
+Site blocked: 127.0.0.1 www.snapp.com at 07/07/2024 08:15:25
+Completed blockSites script at 07/07/2024 08:15:25
+Starting blockSites script at 07/07/2024 08:15:39
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: tikktok.com,snapp.com
+Attempting to block site: tikktok.com at 07/07/2024 08:15:39
+Adding entry: 127.0.0.1 tikktok.com
+Site blocked: 127.0.0.1 tikktok.com at 07/07/2024 08:15:39
+Adding entry: 127.0.0.1 www.tikktok.com
+Site blocked: 127.0.0.1 www.tikktok.com at 07/07/2024 08:15:39
+Attempting to block site: snapp.com at 07/07/2024 08:15:39
+Adding entry: 127.0.0.1 snapp.com
+Site blocked: 127.0.0.1 snapp.com at 07/07/2024 08:15:39
+Adding entry: 127.0.0.1 www.snapp.com
+Site blocked: 127.0.0.1 www.snapp.com at 07/07/2024 08:15:39
+Completed blockSites script at 07/07/2024 08:15:39
+Starting blockSites script at 07/07/2024 08:16:07
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: tikktok.com,snapp.com
+Attempting to block site: tikktok.com at 07/07/2024 08:16:07
+Adding entry: 127.0.0.1 tikktok.com
+Site blocked: 127.0.0.1 tikktok.com at 07/07/2024 08:16:07
+Adding entry: 127.0.0.1 www.tikktok.com
+Site blocked: 127.0.0.1 www.tikktok.com at 07/07/2024 08:16:07
+Attempting to block site: snapp.com at 07/07/2024 08:16:07
+Adding entry: 127.0.0.1 snapp.com
+Site blocked: 127.0.0.1 snapp.com at 07/07/2024 08:16:07
+Adding entry: 127.0.0.1 www.snapp.com
+Site blocked: 127.0.0.1 www.snapp.com at 07/07/2024 08:16:07
+Completed blockSites script at 07/07/2024 08:16:07
+Starting blockSites script at 07/07/2024 08:16:20
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: tikktok.com,snapp.com
+Attempting to block site: tikktok.com at 07/07/2024 08:16:20
+Adding entry: 127.0.0.1 tikktok.com
+Site blocked: 127.0.0.1 tikktok.com at 07/07/2024 08:16:20
+Adding entry: 127.0.0.1 www.tikktok.com
+Site blocked: 127.0.0.1 www.tikktok.com at 07/07/2024 08:16:20
+Attempting to block site: snapp.com at 07/07/2024 08:16:20
+Adding entry: 127.0.0.1 snapp.com
+Site blocked: 127.0.0.1 snapp.com at 07/07/2024 08:16:20
+Adding entry: 127.0.0.1 www.snapp.com
+Site blocked: 127.0.0.1 www.snapp.com at 07/07/2024 08:16:20
+Completed blockSites script at 07/07/2024 08:16:20
+Starting blockSites script at 07/07/2024 08:27:53
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: tikktok.com,snapp.com
+Attempting to block site: tikktok.com at 07/07/2024 08:27:53
+Adding entry: 127.0.0.1 tikktok.com
+Site blocked: 127.0.0.1 tikktok.com at 07/07/2024 08:27:53
+Adding entry: 127.0.0.1 www.tikktok.com
+Site blocked: 127.0.0.1 www.tikktok.com at 07/07/2024 08:27:53
+Attempting to block site: snapp.com at 07/07/2024 08:27:53
+Adding entry: 127.0.0.1 snapp.com
+Site blocked: 127.0.0.1 snapp.com at 07/07/2024 08:27:53
+Adding entry: 127.0.0.1 www.snapp.com
+Site blocked: 127.0.0.1 www.snapp.com at 07/07/2024 08:27:53
+Completed blockSites script at 07/07/2024 08:27:53
+Starting blockSites script at 07/07/2024 08:37:19
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: pitie.com,whynot.com
+Attempting to block site: pitie.com at 07/07/2024 08:37:19
+Adding entry: 127.0.0.1 pitie.com
+Site blocked: 127.0.0.1 pitie.com at 07/07/2024 08:37:19
+Attempting to block site: whynot.com at 07/07/2024 08:37:19
+Adding entry: 127.0.0.1 whynot.com
+Site blocked: 127.0.0.1 whynot.com at 07/07/2024 08:37:19
+Completed blockSites script at 07/07/2024 08:37:19
+Starting blockSites script at 07/07/2024 08:42:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: kp.com,www.kp.com,kl.com,www.kl.com
+Attempting to block site: kp.com at 07/07/2024 08:42:01
+Adding entry: 127.0.0.1 kp.com
+Site blocked: 127.0.0.1 kp.com at 07/07/2024 08:42:01
+Attempting to block site: www.kp.com at 07/07/2024 08:42:01
+Adding entry: 127.0.0.1 www.kp.com
+Site blocked: 127.0.0.1 www.kp.com at 07/07/2024 08:42:01
+Attempting to block site: kl.com at 07/07/2024 08:42:01
+Adding entry: 127.0.0.1 kl.com
+Site blocked: 127.0.0.1 kl.com at 07/07/2024 08:42:01
+Attempting to block site: www.kl.com at 07/07/2024 08:42:01
+Adding entry: 127.0.0.1 www.kl.com
+Site blocked: 127.0.0.1 www.kl.com at 07/07/2024 08:42:01
+Completed blockSites script at 07/07/2024 08:42:01
+Starting blockSites script at 07/07/2024 08:52:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: kp.com,www.kp.com,kl.com,www.kl.com
+Attempting to block site: kp.com at 07/07/2024 08:52:01
+Adding entry: 127.0.0.1 kp.com
+Site blocked: 127.0.0.1 kp.com at 07/07/2024 08:52:01
+Attempting to block site: www.kp.com at 07/07/2024 08:52:01
+Adding entry: 127.0.0.1 www.kp.com
+Site blocked: 127.0.0.1 www.kp.com at 07/07/2024 08:52:01
+Attempting to block site: kl.com at 07/07/2024 08:52:01
+Adding entry: 127.0.0.1 kl.com
+Site blocked: 127.0.0.1 kl.com at 07/07/2024 08:52:01
+Attempting to block site: www.kl.com at 07/07/2024 08:52:01
+Adding entry: 127.0.0.1 www.kl.com
+Site blocked: 127.0.0.1 www.kl.com at 07/07/2024 08:52:01
+Completed blockSites script at 07/07/2024 08:52:01
+Starting blockSites script at 07/07/2024 08:56:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: uk.com,www.uk.com,usa.com,www.usa.com
+Attempting to block site: uk.com at 07/07/2024 08:56:00
+Adding entry: 127.0.0.1 uk.com
+Site blocked: 127.0.0.1 uk.com at 07/07/2024 08:56:00
+Attempting to block site: www.uk.com at 07/07/2024 08:56:00
+Adding entry: 127.0.0.1 www.uk.com
+Site blocked: 127.0.0.1 www.uk.com at 07/07/2024 08:56:00
+Attempting to block site: usa.com at 07/07/2024 08:56:00
+Adding entry: 127.0.0.1 usa.com
+Site blocked: 127.0.0.1 usa.com at 07/07/2024 08:56:00
+Attempting to block site: www.usa.com at 07/07/2024 08:56:00
+Adding entry: 127.0.0.1 www.usa.com
+Site blocked: 127.0.0.1 www.usa.com at 07/07/2024 08:56:00
+Completed blockSites script at 07/07/2024 08:56:00
+Starting blockSites script at 07/07/2024 08:57:47
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: uk.com,www.uk.com,usa.com,www.usa.com
+Attempting to block site: uk.com at 07/07/2024 08:57:47
+Adding entry: 127.0.0.1 uk.com
+Site blocked: 127.0.0.1 uk.com at 07/07/2024 08:57:47
+Attempting to block site: www.uk.com at 07/07/2024 08:57:47
+Adding entry: 127.0.0.1 www.uk.com
+Site blocked: 127.0.0.1 www.uk.com at 07/07/2024 08:57:47
+Attempting to block site: usa.com at 07/07/2024 08:57:47
+Adding entry: 127.0.0.1 usa.com
+Site blocked: 127.0.0.1 usa.com at 07/07/2024 08:57:47
+Attempting to block site: www.usa.com at 07/07/2024 08:57:47
+Adding entry: 127.0.0.1 www.usa.com
+Site blocked: 127.0.0.1 www.usa.com at 07/07/2024 08:57:47
+Completed blockSites script at 07/07/2024 08:57:47
+Starting blockSites script at 07/07/2024 08:59:26
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: uk.com,www.uk.com,usa.com,www.usa.com
+Attempting to block site: uk.com at 07/07/2024 08:59:26
+Adding entry: 127.0.0.1 uk.com
+Site blocked: 127.0.0.1 uk.com at 07/07/2024 08:59:26
+Attempting to block site: www.uk.com at 07/07/2024 08:59:26
+Adding entry: 127.0.0.1 www.uk.com
+Site blocked: 127.0.0.1 www.uk.com at 07/07/2024 08:59:26
+Attempting to block site: usa.com at 07/07/2024 08:59:26
+Adding entry: 127.0.0.1 usa.com
+Site blocked: 127.0.0.1 usa.com at 07/07/2024 08:59:26
+Attempting to block site: www.usa.com at 07/07/2024 08:59:26
+Adding entry: 127.0.0.1 www.usa.com
+Site blocked: 127.0.0.1 www.usa.com at 07/07/2024 08:59:26
+Completed blockSites script at 07/07/2024 08:59:26
+Starting blockSites script at 07/07/2024 09:06:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: t.com,t.comkkk,l.com,l.comkkk
+Attempting to block site: t.com at 07/07/2024 09:06:01
+Adding entry: 127.0.0.1 t.com
+Site blocked: 127.0.0.1 t.com at 07/07/2024 09:06:01
+Attempting to block site: t.comkkk at 07/07/2024 09:06:01
+Adding entry: 127.0.0.1 t.comkkk
+Site blocked: 127.0.0.1 t.comkkk at 07/07/2024 09:06:01
+Attempting to block site: l.com at 07/07/2024 09:06:01
+Adding entry: 127.0.0.1 l.com
+Site blocked: 127.0.0.1 l.com at 07/07/2024 09:06:01
+Attempting to block site: l.comkkk at 07/07/2024 09:06:01
+Adding entry: 127.0.0.1 l.comkkk
+Site blocked: 127.0.0.1 l.comkkk at 07/07/2024 09:06:01
+Completed blockSites script at 07/07/2024 09:06:01
+Starting blockSites script at 07/07/2024 09:09:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: www.justine.com
+Attempting to block site: www.justine.com at 07/07/2024 09:09:00
+Adding entry: 127.0.0.1 www.justine.com
+Site blocked: 127.0.0.1 www.justine.com at 07/07/2024 09:09:00
+Completed blockSites script at 07/07/2024 09:09:00
+Starting blockSites script at 07/07/2024 09:13:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: www.fatou.com,www.amadou.com,www.saikou.com
+Attempting to block site: www.fatou.com at 07/07/2024 09:13:00
+Adding entry: 127.0.0.1 www.fatou.com
+Site blocked: 127.0.0.1 www.fatou.com at 07/07/2024 09:13:00
+Attempting to block site: www.amadou.com at 07/07/2024 09:13:00
+Adding entry: 127.0.0.1 www.amadou.com
+Site blocked: 127.0.0.1 www.amadou.com at 07/07/2024 09:13:00
+Attempting to block site: www.saikou.com at 07/07/2024 09:13:00
+Adding entry: 127.0.0.1 www.saikou.com
+Site blocked: 127.0.0.1 www.saikou.com at 07/07/2024 09:13:00
+Completed blockSites script at 07/07/2024 09:13:00
+Starting blockSites script at 07/07/2024 09:18:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: www.fatou.com,www.amadou.com,www.saikou.com
+Attempting to block site: www.fatou.com at 07/07/2024 09:18:00
+Adding entry: 127.0.0.1 www.fatou.com
+Site blocked: 127.0.0.1 www.fatou.com at 07/07/2024 09:18:00
+Attempting to block site: www.amadou.com at 07/07/2024 09:18:00
+Adding entry: 127.0.0.1 www.amadou.com
+Site blocked: 127.0.0.1 www.amadou.com at 07/07/2024 09:18:00
+Attempting to block site: www.saikou.com at 07/07/2024 09:18:00
+Adding entry: 127.0.0.1 www.saikou.com
+Site blocked: 127.0.0.1 www.saikou.com at 07/07/2024 09:18:00
+Completed blockSites script at 07/07/2024 09:18:00
+Starting blockSites script at 07/07/2024 09:20:16
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: aicha.com
+Attempting to block site: aicha.com at 07/07/2024 09:20:16
+Adding entry: 127.0.0.1 aicha.com
+Site blocked: 127.0.0.1 aicha.com at 07/07/2024 09:20:16
+Completed blockSites script at 07/07/2024 09:20:16
+Starting blockSites script at 07/07/2024 09:21:22
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: oumou.com,hadji.com
+Attempting to block site: oumou.com at 07/07/2024 09:21:22
+Adding entry: 127.0.0.1 oumou.com
+Site blocked: 127.0.0.1 oumou.com at 07/07/2024 09:21:22
+Attempting to block site: hadji.com at 07/07/2024 09:21:22
+Adding entry: 127.0.0.1 hadji.com
+Site blocked: 127.0.0.1 hadji.com at 07/07/2024 09:21:22
+Completed blockSites script at 07/07/2024 09:21:22
+Starting blockSites script at 07/07/2024 09:22:36
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: thierno.com,collette.com,leni.com,stephane.com
+Attempting to block site: thierno.com at 07/07/2024 09:22:36
+Adding entry: 127.0.0.1 thierno.com
+Site blocked: 127.0.0.1 thierno.com at 07/07/2024 09:22:36
+Attempting to block site: collette.com at 07/07/2024 09:22:36
+Adding entry: 127.0.0.1 collette.com
+Site blocked: 127.0.0.1 collette.com at 07/07/2024 09:22:36
+Attempting to block site: leni.com at 07/07/2024 09:22:36
+Adding entry: 127.0.0.1 leni.com
+Site blocked: 127.0.0.1 leni.com at 07/07/2024 09:22:36
+Attempting to block site: stephane.com at 07/07/2024 09:22:36
+Adding entry: 127.0.0.1 stephane.com
+Site blocked: 127.0.0.1 stephane.com at 07/07/2024 09:22:36
+Completed blockSites script at 07/07/2024 09:22:36
+Starting blockSites script at 07/07/2024 09:23:40
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: thiernom.com,collette.com,mleni.com,stephane.com, oliver.com, stan.com
+Attempting to block site: thiernom.com at 07/07/2024 09:23:40
+Adding entry: 127.0.0.1 thiernom.com
+Site blocked: 127.0.0.1 thiernom.com at 07/07/2024 09:23:40
+Attempting to block site: collette.com at 07/07/2024 09:23:40
+Adding entry: 127.0.0.1 collette.com
+Site blocked: 127.0.0.1 collette.com at 07/07/2024 09:23:40
+Attempting to block site: mleni.com at 07/07/2024 09:23:40
+Adding entry: 127.0.0.1 mleni.com
+Site blocked: 127.0.0.1 mleni.com at 07/07/2024 09:23:40
+Attempting to block site: stephane.com at 07/07/2024 09:23:40
+Adding entry: 127.0.0.1 stephane.com
+Site blocked: 127.0.0.1 stephane.com at 07/07/2024 09:23:40
+Attempting to block site:  oliver.com at 07/07/2024 09:23:40
+Adding entry: 127.0.0.1  oliver.com
+Site blocked: 127.0.0.1  oliver.com at 07/07/2024 09:23:40
+Attempting to block site:  stan.com at 07/07/2024 09:23:40
+Adding entry: 127.0.0.1  stan.com
+Site blocked: 127.0.0.1  stan.com at 07/07/2024 09:23:41
+Completed blockSites script at 07/07/2024 09:23:41
+Starting blockSites script at 07/07/2024 09:24:16
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: thiernom.com,collette.com,mleni.com,stephane.com, oliver.com, stan.com
+Attempting to block site: thiernom.com at 07/07/2024 09:24:16
+Adding entry: 127.0.0.1 thiernom.com
+Site blocked: 127.0.0.1 thiernom.com at 07/07/2024 09:24:16
+Attempting to block site: collette.com at 07/07/2024 09:24:16
+Adding entry: 127.0.0.1 collette.com
+Site blocked: 127.0.0.1 collette.com at 07/07/2024 09:24:16
+Attempting to block site: mleni.com at 07/07/2024 09:24:16
+Adding entry: 127.0.0.1 mleni.com
+Site blocked: 127.0.0.1 mleni.com at 07/07/2024 09:24:16
+Attempting to block site: stephane.com at 07/07/2024 09:24:16
+Adding entry: 127.0.0.1 stephane.com
+Site blocked: 127.0.0.1 stephane.com at 07/07/2024 09:24:16
+Attempting to block site:  oliver.com at 07/07/2024 09:24:16
+Adding entry: 127.0.0.1  oliver.com
+Site blocked: 127.0.0.1  oliver.com at 07/07/2024 09:24:16
+Attempting to block site:  stan.com at 07/07/2024 09:24:16
+Adding entry: 127.0.0.1  stan.com
+Site blocked: 127.0.0.1  stan.com at 07/07/2024 09:24:16
+Completed blockSites script at 07/07/2024 09:24:16
+Starting blockSites script at 07/07/2024 09:35:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to block: www.maman.com
+Adding entry: 127.0.0.1 www.maman.com
+Site blocked: 127.0.0.1 www.maman.com at 07/07/2024 09:35:00
+Completed blockSites script at 07/07/2024 09:35:00
+Starting blockSites script at 07/07/2024 09:35:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to block: www.papa.com
+Adding entry: 127.0.0.1 www.papa.com
+Site blocked: 127.0.0.1 www.papa.com at 07/07/2024 09:35:00
+Completed blockSites script at 07/07/2024 09:35:00
+Starting blockSites script at 07/07/2024 16:38:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to block: www.facebook.com
+Adding entry: 127.0.0.1 www.facebook.com
+Site blocked: 127.0.0.1 www.facebook.com at 07/07/2024 16:38:00
+Completed blockSites script at 07/07/2024 16:38:00
+Starting blockSites script at 07/07/2024 16:38:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to block: www.tiktok.com
+Adding entry: 127.0.0.1 www.tiktok.com
+Site blocked: 127.0.0.1 www.tiktok.com at 07/07/2024 16:38:01
+Completed blockSites script at 07/07/2024 16:38:01
+Starting blockSites script at 07/07/2024 16:49:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to block: www.facebook.com
+Adding entry: 127.0.0.1 www.facebook.com
+Site blocked: 127.0.0.1 www.facebook.com at 07/07/2024 16:49:01
+Completed blockSites script at 07/07/2024 16:49:01
+Starting blockSites script at 07/07/2024 16:49:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to block: www.tiktok.com
+Adding entry: 127.0.0.1 www.tiktok.com
+Site blocked: 127.0.0.1 www.tiktok.com at 07/07/2024 16:49:01
+Completed blockSites script at 07/07/2024 16:49:01
+Starting blockSites script at 07/07/2024 17:06:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to block: www.facebook.com
+Adding entry: 127.0.0.1 www.facebook.com
+Site blocked: 127.0.0.1 www.facebook.com at 07/07/2024 17:06:00
+Completed blockSites script at 07/07/2024 17:06:00
+Starting blockSites script at 07/07/2024 17:06:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to block: www.tiktok.com
+Adding entry: 127.0.0.1 www.tiktok.com
+Site blocked: 127.0.0.1 www.tiktok.com at 07/07/2024 17:06:01
+Completed blockSites script at 07/07/2024 17:06:01
+Starting blockSites script at 07/07/2024 17:14:41
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to block: 
+Adding entry: 127.0.0.1 
+Site blocked: 127.0.0.1  at 07/07/2024 17:14:41
+Completed blockSites script at 07/07/2024 17:14:41
+Starting blockSites script at 07/07/2024 17:14:54
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to block: 
+Adding entry: 127.0.0.1 
+Site blocked: 127.0.0.1  at 07/07/2024 17:14:54
+Completed blockSites script at 07/07/2024 17:14:54
+Starting blockSites script at 07/07/2024 17:16:51
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to block: www.tiktok.com
+Adding entry: 127.0.0.1 www.tiktok.com
+Site blocked: 127.0.0.1 www.tiktok.com at 07/07/2024 17:16:52
+Completed blockSites script at 07/07/2024 17:16:52
+Starting blockSites script at 07/07/2024 17:17:06
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to block: www.facebook.com
+Adding entry: 127.0.0.1 www.facebook.com
+Site blocked: 127.0.0.1 www.facebook.com at 07/07/2024 17:17:06
+Completed blockSites script at 07/07/2024 17:17:06
+Starting blockSites script at 07/07/2024 17:21:07
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to block: www.facebook.com
+Adding entry: 127.0.0.1 www.facebook.com
+Site blocked: 127.0.0.1 www.facebook.com at 07/07/2024 17:21:07
+Completed blockSites script at 07/07/2024 17:21:07
+Starting blockSites script at 07/07/2024 17:21:23
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to block: www.tiktok.com
+Adding entry: 127.0.0.1 www.tiktok.com
+Site blocked: 127.0.0.1 www.tiktok.com at 07/07/2024 17:21:23
+Completed blockSites script at 07/07/2024 17:21:23
+Starting blockSites script at 07/07/2024 17:26:51
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to block: www.facebook.com
+Adding entry: 127.0.0.1 www.facebook.com
+Site blocked: 127.0.0.1 www.facebook.com at 07/07/2024 17:26:51
+Completed blockSites script at 07/07/2024 17:26:51
+Starting blockSites script at 07/07/2024 17:27:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to block: www.tiktok.com
+Adding entry: 127.0.0.1 www.tiktok.com
+Site blocked: 127.0.0.1 www.tiktok.com at 07/07/2024 17:27:01
+Completed blockSites script at 07/07/2024 17:27:01
+Starting blockSites script at 07/07/2024 17:28:51
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to block: www.facebook.com
+Adding entry: 127.0.0.1 www.facebook.com
+Site blocked: 127.0.0.1 www.facebook.com at 07/07/2024 17:28:51
+Completed blockSites script at 07/07/2024 17:28:51
+Starting blockSites script at 07/07/2024 17:28:59
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to block: www.tiktok.com
+Adding entry: 127.0.0.1 www.tiktok.com
+Site blocked: 127.0.0.1 www.tiktok.com at 07/07/2024 17:28:59
+Completed blockSites script at 07/07/2024 17:28:59
+Starting blockSites script at 07/07/2024 17:32:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to block: www.snapchat.com
+Adding entry: 127.0.0.1 www.snapchat.com
+Site blocked: 127.0.0.1 www.snapchat.com at 07/07/2024 17:32:00
+Completed blockSites script at 07/07/2024 17:32:00
+Starting blockSites script at 07/07/2024 17:38:56
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to block: www.facebook.com
+Adding entry: 127.0.0.1 www.facebook.com
+Site blocked: 127.0.0.1 www.facebook.com at 07/07/2024 17:38:56
+Completed blockSites script at 07/07/2024 17:38:56
+Starting blockSites script at 07/07/2024 17:39:11
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to block: www.instagram.com
+Adding entry: 127.0.0.1 www.instagram.com
+Site blocked: 127.0.0.1 www.instagram.com at 07/07/2024 17:39:11
+Completed blockSites script at 07/07/2024 17:39:11
+Starting blockSites script at 07/07/2024 17:39:29
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to block: www.tiktok.com
+Adding entry: 127.0.0.1 www.tiktok.com
+Site blocked: 127.0.0.1 www.tiktok.com at 07/07/2024 17:39:29
+Completed blockSites script at 07/07/2024 17:39:29
+Starting blockSites script at 07/07/2024 17:41:37
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to block: www.tiktok.com
+Adding entry: 127.0.0.1 www.tiktok.com
+Site blocked: 127.0.0.1 www.tiktok.com at 07/07/2024 17:41:37
+Completed blockSites script at 07/07/2024 17:41:37
+Starting blockSites script at 07/07/2024 17:42:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to block: www.facebook.com
+Adding entry: 127.0.0.1 www.facebook.com
+Site blocked: 127.0.0.1 www.facebook.com at 07/07/2024 17:42:00
+Completed blockSites script at 07/07/2024 17:42:00
+Starting blockSites script at 07/07/2024 17:43:11
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to block: www.facebook.com
+Adding entry: 127.0.0.1 www.facebook.com
+Site blocked: 127.0.0.1 www.facebook.com at 07/07/2024 17:43:11
+Completed blockSites script at 07/07/2024 17:43:11
+Starting blockSites script at 07/07/2024 17:43:33
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to block: www.tiktok.com
+Adding entry: 127.0.0.1 www.tiktok.com
+Site blocked: 127.0.0.1 www.tiktok.com at 07/07/2024 17:43:33
+Completed blockSites script at 07/07/2024 17:43:33
+Starting blockSites script at 07/07/2024 17:49:40
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to block: www.tiktok.com
+Adding entry: 127.0.0.1 www.tiktok.com
+Site blocked: 127.0.0.1 www.tiktok.com at 07/07/2024 17:49:40
+Completed blockSites script at 07/07/2024 17:49:40
+Starting blockSites script at 07/07/2024 17:51:25
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to block: www.facebook.com
+Adding entry: 127.0.0.1 www.facebook.com
+Site blocked: 127.0.0.1 www.facebook.com at 07/07/2024 17:51:25
+Completed blockSites script at 07/07/2024 17:51:25
+Starting blockSites script at 07/07/2024 18:00:36
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to block: www.facebook.com
+Entry already exists: 127.0.0.1 www.facebook.com
+Completed blockSites script at 07/07/2024 18:00:36
+Starting blockSites script at 07/07/2024 18:00:50
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to block: www.facebookkk.com
+Adding entry: 127.0.0.1 www.facebookkk.com
+Site blocked: 127.0.0.1 www.facebookkk.com at 07/07/2024 18:00:50
+Completed blockSites script at 07/07/2024 18:00:50
+Starting blockSites script at 07/07/2024 18:07:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to block: www.tiktok.com
+Adding entry: 127.0.0.1 www.tiktok.com
+Site blocked: 127.0.0.1 www.tiktok.com at 07/07/2024 18:07:00
+Completed blockSites script at 07/07/2024 18:07:00
+Starting blockSites script at 07/07/2024 18:07:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to block: www.facebook.com
+Adding entry: 127.0.0.1 www.facebook.com
+Site blocked: 127.0.0.1 www.facebook.com at 07/07/2024 18:07:01
+Completed blockSites script at 07/07/2024 18:07:01
+Starting blockSites script at 07/07/2024 18:10:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to block: www.facebook.com
+Adding entry: 127.0.0.1 www.facebook.com
+Site blocked: 127.0.0.1 www.facebook.com at 07/07/2024 18:10:00
+Completed blockSites script at 07/07/2024 18:10:00
+Starting blockSites script at 07/07/2024 18:10:11
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to block: www.tiktok.com
+Adding entry: 127.0.0.1 www.tiktok.com
+Site blocked: 127.0.0.1 www.tiktok.com at 07/07/2024 18:10:11
+Completed blockSites script at 07/07/2024 18:10:11

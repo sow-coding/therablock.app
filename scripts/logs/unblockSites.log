@@ -1,0 +1,341 @@
+Starting unblockSites script at 07/05/2024 20:20:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to unblock: kio.com
+Attempting to unblock site: kio.com at 07/05/2024 20:20:01
+Site unblocked: kio.com at 07/05/2024 20:20:01
+Starting unblockSites script at 07/05/2024 20:36:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to unblock: oumou.com
+Attempting to unblock site: oumou.com at 07/05/2024 20:36:01
+Site unblocked: oumou.com at 07/05/2024 20:36:01
+Starting unblockSites script at 07/05/2024 20:50:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to unblock: aicha.com
+Attempting to unblock site: aicha.com at 07/05/2024 20:50:00
+Site unblocked: aicha.com at 07/05/2024 20:50:01
+Starting unblockSites script at 07/05/2024 21:15:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to unblock: t.com,e.com
+Attempting to unblock site: t.com,e.com at 07/05/2024 21:15:01
+Site unblocked: t.com,e.com at 07/05/2024 21:15:01
+Starting unblockSites script at 07/05/2024 21:18:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to unblock: tiktok.com,facebook.com
+Attempting to unblock site: tiktok.com,facebook.com at 07/05/2024 21:18:01
+Site unblocked: tiktok.com,facebook.com at 07/05/2024 21:18:01
+Starting unblockSites script at 07/05/2024 22:33:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to unblock: youtube.com
+Attempting to unblock site: youtube.com at 07/05/2024 22:33:00
+Site unblocked: youtube.com at 07/05/2024 22:33:00
+Starting unblockSites script at 07/05/2024 22:50:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to unblock: x.com,snapchat.com
+Removing entry: 127.0.0.1 x.com at 07/05/2024 22:50:01
+Removing entry: 127.0.0.1 snapchat.com at 07/05/2024 22:50:01
+Completed unblockSites script at 07/05/2024 22:50:01
+Starting unblockSites script at 07/05/2024 23:09:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to unblock: snap.com,chat.com
+Removing entry: 127.0.0.1 snap.com at 07/05/2024 23:09:00
+Removing entry: 127.0.0.1 chat.com at 07/05/2024 23:09:00
+Completed unblockSites script at 07/05/2024 23:09:01
+Starting unblockSites script at 07/05/2024 23:20:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to unblock: twi.com,ter.com
+Removing entry: 127.0.0.1 twi.com at 07/05/2024 23:20:00
+Completed unblockSites script at 07/05/2024 23:20:00
+Starting unblockSites script at 07/05/2024 23:26:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to unblock: tiktok.com,youtube.com
+Removing entry: 127.0.0.1 tiktok.com at 07/05/2024 23:26:00
+Removing entry: 127.0.0.1 youtube.com at 07/05/2024 23:26:00
+Completed unblockSites script at 07/05/2024 23:26:00
+Starting unblockSites script at 07/06/2024 08:46:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to unblock: tiktok.com,instagram.com
+Removing entry: 127.0.0.1 instagram.com at 07/06/2024 08:46:01
+Removing entry: 127.0.0.1 tiktok.com at 07/06/2024 08:46:01
+Removing entry: 127.0.0.1 www.instagram.com at 07/06/2024 08:46:01
+Completed unblockSites script at 07/06/2024 08:46:01
+Starting unblockSites script at 07/06/2024 09:15:51
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to unblock: tiktok.com,instagram.com
+Removing entry: 127.0.0.1 tiktok.com at 07/06/2024 09:15:51
+Removing entry: 127.0.0.1 instagram.com at 07/06/2024 09:15:51
+Removing entry: 127.0.0.1 www.tiktok.com at 07/06/2024 09:15:51
+Removing entry: 127.0.0.1 www.instagram.com at 07/06/2024 09:15:51
+Completed unblockSites script at 07/06/2024 09:15:51
+Starting unblockSites script at 07/06/2024 09:16:32
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to unblock: tiktok.com,instagram.com
+Completed unblockSites script at 07/06/2024 09:16:32
+Starting unblockSites script at 07/06/2024 09:59:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to unblock: instagram.com,tiktok.com
+Removing entry: 127.0.0.1 instagram.com at 07/06/2024 09:59:00
+Removing entry: 127.0.0.1 www.instagram.com at 07/06/2024 09:59:00
+Removing entry: 127.0.0.1 tiktok.com at 07/06/2024 09:59:00
+Completed unblockSites script at 07/06/2024 09:59:00
+Starting unblockSites script at 07/06/2024 10:20:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to unblock: instagram.com,youtube.com
+Removing entry: 127.0.0.1 instagram.com at 07/06/2024 10:20:00
+Removing entry: 127.0.0.1 youtube.com at 07/06/2024 10:20:00
+Completed unblockSites script at 07/06/2024 10:20:00
+Starting unblockSites script at 07/06/2024 10:41:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to unblock: k.com,p.com
+Removing entry: 127.0.0.1 k.com at 07/06/2024 10:41:01
+Removing entry: 127.0.0.1 p.com at 07/06/2024 10:41:01
+Completed unblockSites script at 07/06/2024 10:41:01
+Starting unblockSites script at 07/07/2024 08:04:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to unblock: tiktok.com,snap.com
+Removing entry: 127.0.0.1 tiktok.com at 07/07/2024 08:04:01
+Removing entry: 127.0.0.1 snap.com at 07/07/2024 08:04:01
+Completed unblockSites script at 07/07/2024 08:04:01
+Starting unblockSites script at 07/07/2024 08:27:18
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to unblock: tikktok.com,snapp.com
+Removing entry: 127.0.0.1 tikktok.com at 07/07/2024 08:27:18
+Removing entry: 127.0.0.1 snapp.com at 07/07/2024 08:27:18
+Removing entry: 127.0.0.1 tikktok.com at 07/07/2024 08:27:18
+Removing entry: 127.0.0.1 snapp.com at 07/07/2024 08:27:18
+Removing entry: 127.0.0.1 tikktok.com at 07/07/2024 08:27:18
+Removing entry: 127.0.0.1 snapp.com at 07/07/2024 08:27:18
+Removing entry: 127.0.0.1 tikktok.com at 07/07/2024 08:27:18
+Removing entry: 127.0.0.1 snapp.com at 07/07/2024 08:27:18
+Removing entry: 127.0.0.1 tikktok.com at 07/07/2024 08:27:18
+Removing entry: 127.0.0.1 snapp.com at 07/07/2024 08:27:18
+Completed unblockSites script at 07/07/2024 08:27:18
+Starting unblockSites script at 07/07/2024 08:46:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to unblock: kp.com,www.kp.com,kl.com,www.kl.com
+Removing entry: 127.0.0.1 kp.com at 07/07/2024 08:46:00
+Removing entry: 127.0.0.1 kl.com at 07/07/2024 08:46:00
+Completed unblockSites script at 07/07/2024 08:46:00
+Starting unblockSites script at 07/07/2024 08:55:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to unblock: kp.com,www.kp.com,kl.com,www.kl.com
+Removing entry: 127.0.0.1 kp.com at 07/07/2024 08:55:01
+Removing entry: 127.0.0.1 kl.com at 07/07/2024 08:55:01
+Completed unblockSites script at 07/07/2024 08:55:01
+Starting unblockSites script at 07/07/2024 08:59:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to unblock: uk.com,www.uk.com,usa.com,www.usa.com
+Removing entry: 127.0.0.1 uk.com at 07/07/2024 08:59:00
+Removing entry: 127.0.0.1 usa.com at 07/07/2024 08:59:00
+Removing entry: 127.0.0.1 uk.com at 07/07/2024 08:59:00
+Removing entry: 127.0.0.1 usa.com at 07/07/2024 08:59:00
+Completed unblockSites script at 07/07/2024 08:59:00
+Starting unblockSites script at 07/07/2024 09:10:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to unblock: t.com,t.comkkk,l.com,l.comkkk
+Removing entry: 127.0.0.1 t.com at 07/07/2024 09:10:00
+Removing entry: 127.0.0.1 l.com at 07/07/2024 09:10:01
+Completed unblockSites script at 07/07/2024 09:10:01
+Starting unblockSites script at 07/07/2024 09:12:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to unblock: www.justine.com
+Removing entry: 127.0.0.1 www.justine.com at 07/07/2024 09:12:00
+Completed unblockSites script at 07/07/2024 09:12:00
+Starting unblockSites script at 07/07/2024 09:16:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to unblock: www.fatou.com,www.amadou.com,www.saikou.com
+Removing entry: 127.0.0.1 www.fatou.com at 07/07/2024 09:16:00
+Removing entry: 127.0.0.1 www.saikou.com at 07/07/2024 09:16:00
+Completed unblockSites script at 07/07/2024 09:16:00
+Starting unblockSites script at 07/07/2024 16:44:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to unblock: www.tiktok.com
+Completed unblockSites script at 07/07/2024 16:44:00
+Starting unblockSites script at 07/07/2024 16:44:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to unblock: www.facebook.com
+Completed unblockSites script at 07/07/2024 16:44:01
+Starting unblockSites script at 07/07/2024 16:53:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to unblock: www.tiktok.com
+Removing entry: 127.0.0.1 www.tiktok.com at 07/07/2024 16:53:00
+Removing entry: 127.0.0.1 www.tiktok.com at 07/07/2024 16:53:00
+Completed unblockSites script at 07/07/2024 16:53:00
+Starting unblockSites script at 07/07/2024 16:53:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to unblock: www.facebook.com
+Removing entry: 127.0.0.1 www.facebook.com at 07/07/2024 16:53:01
+Removing entry: 127.0.0.1 www.facebook.com at 07/07/2024 16:53:01
+Completed unblockSites script at 07/07/2024 16:53:01
+Starting unblockSites script at 07/07/2024 17:09:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to unblock: www.tiktok.com
+Completed unblockSites script at 07/07/2024 17:09:01
+Starting unblockSites script at 07/07/2024 17:17:52
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to unblock: www.tiktok.com
+Fichier hosts actuel: 127.0.0.1  127.0.0.1  127.0.0.1 www.tiktok.com 127.0.0.1 www.facebook.com
+Checking line: 127.0.0.1 
+Checking line: 127.0.0.1 
+Checking line: 127.0.0.1 www.tiktok.com
+Removing entry: 127.0.0.1 www.tiktok.com at 07/07/2024 17:17:52
+Checking line: 127.0.0.1 www.facebook.com
+Completed unblockSites script at 07/07/2024 17:17:52
+Starting unblockSites script at 07/07/2024 17:22:06
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to unblock: www.tiktok.com
+Fichier hosts actuel: 127.0.0.1 www.facebook.com 127.0.0.1 www.tiktok.com
+Checking line: 127.0.0.1 www.facebook.com
+Checking line: 127.0.0.1 www.tiktok.com
+Removing entry: 127.0.0.1 www.tiktok.com at 07/07/2024 17:22:06
+Nouveau fichier hosts: 127.0.0.1 www.facebook.com
+Completed unblockSites script at 07/07/2024 17:22:06
+Starting unblockSites script at 07/07/2024 17:27:31
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to unblock: www.tiktok.com
+Fichier hosts actuel: 127.0.0.1 www.facebook.com`n127.0.0.1 www.tiktok.com
+Checking line: 127.0.0.1 www.facebook.com
+Checking line: 127.0.0.1 www.tiktok.com
+Removing entry: 127.0.0.1 www.tiktok.com at 07/07/2024 17:27:31
+Nouveau fichier hosts: 127.0.0.1 www.facebook.com
+Completed unblockSites script at 07/07/2024 17:27:31
+Starting unblockSites script at 07/07/2024 17:36:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to unblock: www.snapchat.com
+Fichier hosts actuel: 127.0.0.1 www.facebook.com`n127.0.0.1 www.tiktok.com`n127.0.0.1 www.snapchat.com
+Checking line: 127.0.0.1 www.facebook.com
+Checking line: 127.0.0.1 www.tiktok.com
+Checking line: 127.0.0.1 www.snapchat.com
+Removing entry: 127.0.0.1 www.snapchat.com at 07/07/2024 17:36:00
+Nouveau fichier hosts: 127.0.0.1 www.facebook.com`n127.0.0.1 www.tiktok.com
+Completed unblockSites script at 07/07/2024 17:36:00
+Starting unblockSites script at 07/07/2024 17:40:30
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to unblock: www.tiktok.com
+Fichier hosts actuel: 127.0.0.1 www.facebook.com`n127.0.0.1 www.instagram.com`n127.0.0.1 www.tiktok.com
+Checking line: 127.0.0.1 www.facebook.com
+Checking line: 127.0.0.1 www.instagram.com
+Checking line: 127.0.0.1 www.tiktok.com
+Removing entry: 127.0.0.1 www.tiktok.com at 07/07/2024 17:40:30
+Nouveau fichier hosts: 127.0.0.1 www.facebook.com`n127.0.0.1 www.instagram.com
+Starting unblockSites script at 07/07/2024 17:42:30
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to unblock: www.facebook.com
+Fichier hosts actuel: 127.0.0.1 www.tiktok.com`n127.0.0.1 www.facebook.com
+Checking line: 127.0.0.1 www.tiktok.com
+Checking line: 127.0.0.1 www.facebook.com
+Removing entry: 127.0.0.1 www.facebook.com at 07/07/2024 17:42:30
+Nouveau fichier hosts: 127.0.0.1 www.tiktok.com
+Completed unblockSites script at 07/07/2024 17:42:30
+Starting unblockSites script at 07/07/2024 17:46:02
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to unblock: www.tiktok.com
+Fichier hosts actuel: 127.0.0.1 www.facebook.com`n127.0.0.1 www.tiktok.com
+Checking line: 127.0.0.1 www.facebook.com
+Checking line: 127.0.0.1 www.tiktok.com
+Removing entry: 127.0.0.1 www.tiktok.com at 07/07/2024 17:46:02
+Nouveau fichier hosts: 127.0.0.1 www.facebook.com
+Completed unblockSites script at 07/07/2024 17:46:02
+Starting unblockSites script at 07/07/2024 17:50:05
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to unblock: www.facebook.com
+Fichier hosts actuel: 127.0.0.1 www.tiktok.com
+Checking line: 127.0.0.1 www.tiktok.com
+Nouveau fichier hosts: 127.0.0.1 www.tiktok.com
+Completed unblockSites script at 07/07/2024 17:50:05
+Starting unblockSites script at 07/07/2024 17:51:44
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to unblock: www.tiktok.com
+Fichier hosts actuel: 127.0.0.1 www.tiktok.com`n127.0.0.1 www.tiktok.com`n127.0.0.1 www.facebook.com
+Checking line: 127.0.0.1 www.tiktok.com
+Removing entry: 127.0.0.1 www.tiktok.com at 07/07/2024 17:51:44
+Checking line: 127.0.0.1 www.tiktok.com
+Removing entry: 127.0.0.1 www.tiktok.com at 07/07/2024 17:51:44
+Checking line: 127.0.0.1 www.facebook.com
+Nouveau fichier hosts: 127.0.0.1 www.facebook.com
+Completed unblockSites script at 07/07/2024 17:51:44
+Starting unblockSites script at 07/07/2024 17:52:27
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to unblock: www.tiktok.com
+Fichier hosts actuel: 127.0.0.1 www.tiktok.com`n127.0.0.1 www.tiktok.com`n127.0.0.1 www.facebook.com`n127.0.0.1 www.facebook.com
+Checking line: 127.0.0.1 www.tiktok.com
+Removing entry: 127.0.0.1 www.tiktok.com at 07/07/2024 17:52:27
+Checking line: 127.0.0.1 www.tiktok.com
+Removing entry: 127.0.0.1 www.tiktok.com at 07/07/2024 17:52:27
+Checking line: 127.0.0.1 www.facebook.com
+Checking line: 127.0.0.1 www.facebook.com
+Nouveau fichier hosts: 127.0.0.1 www.facebook.com`n127.0.0.1 www.facebook.com
+Completed unblockSites script at 07/07/2024 17:52:27
+Starting unblockSites script at 07/07/2024 18:01:37
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to unblock: www.facebookkk.com
+Fichier hosts actuel: 127.0.0.1 www.tiktok.com`n127.0.0.1 www.tiktok.com`n127.0.0.1 www.facebook.com`n127.0.0.1 www.facebook.com`n127.0.0.1 www.facebook.com`n127.0.0.1 www.facebook.com`n127.0.0.1 www.facebookkk.com
+Checking line: 127.0.0.1 www.tiktok.com
+Checking line: 127.0.0.1 www.tiktok.com
+Checking line: 127.0.0.1 www.facebook.com
+Checking line: 127.0.0.1 www.facebook.com
+Checking line: 127.0.0.1 www.facebook.com
+Checking line: 127.0.0.1 www.facebook.com
+Checking line: 127.0.0.1 www.facebookkk.com
+Removing entry: 127.0.0.1 www.facebookkk.com at 07/07/2024 18:01:37
+Nouveau fichier hosts: 127.0.0.1 www.tiktok.com`n127.0.0.1 www.facebook.com
+Completed unblockSites script at 07/07/2024 18:01:37
+Starting unblockSites script at 07/07/2024 18:07:32
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to unblock: www.facebook.com
+Fichier hosts actuel: 127.0.0.1 www.tiktok.com`n127.0.0.1 www.facebook.com
+Checking line: 127.0.0.1 www.tiktok.com
+Checking line: 127.0.0.1 www.facebook.com
+Removing entry: 127.0.0.1 www.facebook.com at 07/07/2024 18:07:32
+Nouveau fichier hosts: 127.0.0.1 www.tiktok.com
+Completed unblockSites script at 07/07/2024 18:07:32
+Starting unblockSites script at 07/07/2024 18:10:50
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to unblock: www.facebook.com
+Fichier hosts actuel: 127.0.0.1 www.facebook.com`n127.0.0.1 www.tiktok.com
+Checking line: 127.0.0.1 www.facebook.com
+Removing entry: 127.0.0.1 www.facebook.com at 07/07/2024 18:10:50
+Checking line: 127.0.0.1 www.tiktok.com
+Nouveau fichier hosts: 127.0.0.1 www.tiktok.com
+Completed unblockSites script at 07/07/2024 18:10:50

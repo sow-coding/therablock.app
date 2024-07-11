@@ -1,0 +1,1146 @@
+Starting task setup for site: x.com at 06/25/2024 09:02:04
+Created actionBlock for site: x.com
+Created actionUnblock for site: x.com
+Created triggerBlock for site: x.com at 8:50
+Created triggerUnblock for site: x.com at 8:52
+Registered scheduled task for blocking site: x.com
+Registered scheduled task for unblocking site: x.com
+Scheduled tasks set up successfully for site: x.com at 06/25/2024 09:02:05
+Starting task setup for site: x.com at 06/25/2024 09:09:21
+Created actionBlock for site: x.com
+Created actionUnblock for site: x.com
+Created triggerBlock for site: x.com at 9:11
+Created triggerUnblock for site: x.com at 9:15
+Registered scheduled task for blocking site: x.com
+Registered scheduled task for unblocking site: x.com
+Scheduled tasks set up successfully for site: x.com at 06/25/2024 09:09:21
+Starting task setup for site: x.com at 06/25/2024 09:24:17
+Created actionBlock for site: x.com
+Created actionUnblock for site: x.com
+Created triggerBlock for site: x.com at 9:26
+Created triggerUnblock for site: x.com at 9:29
+Registered scheduled task for blocking site: x.com
+Registered scheduled task for unblocking site: x.com
+Scheduled tasks set up successfully for site: x.com at 06/25/2024 09:24:17
+Starting task setup for site: x.com at 06/25/2024 09:32:36
+Created actionBlock for site: x.com
+Created actionUnblock for site: x.com
+Created triggerBlock for site: x.com at 9:34
+Created triggerUnblock for site: x.com at 9:37
+Registered scheduled task for blocking site: x.com
+Registered scheduled task for unblocking site: x.com
+Scheduled tasks set up successfully for site: x.com at 06/25/2024 09:32:36
+Starting task setup for site: x.com at 06/25/2024 09:40:53
+Created actionBlock for site: x.com
+Created actionUnblock for site: x.com
+Created triggerBlock for site: x.com at 06/25/2024 09:42:00
+Created triggerUnblock for site: x.com at 06/25/2024 09:45:00
+Registered scheduled task for blocking site: x.com
+Registered scheduled task for unblocking site: x.com
+Scheduled tasks set up successfully for site: x.com at 06/25/2024 09:40:53
+Invalid end minute: 4550. Must be between 0 and 59.
+Starting task setup for site: tiktok.com at 06/25/2024 09:47:22
+Created actionBlock for site: tiktok.com
+Created actionUnblock for site: tiktok.com
+Created triggerBlock for site: tiktok.com at 06/25/2024 09:49:00
+Created triggerUnblock for site: tiktok.com at 06/25/2024 09:53:00
+Registered scheduled task for blocking site: tiktok.com
+Registered scheduled task for unblocking site: tiktok.com
+Scheduled tasks set up successfully for site: tiktok.com at 06/25/2024 09:47:23
+Starting task setup for site: tiktok.com at 06/25/2024 09:57:44
+Created actionBlock for site: tiktok.com
+Created actionUnblock for site: tiktok.com
+Created triggerBlock for site: tiktok.com at 06/25/2024 09:59:00
+Created triggerUnblock for site: tiktok.com at 06/25/2024 10:02:00
+Registered scheduled task for blocking site: tiktok.com
+Registered scheduled task for unblocking site: tiktok.com
+Scheduled tasks set up successfully for site: tiktok.com at 06/25/2024 09:57:44
+Starting task setup for site: tiktok.com at 06/25/2024 11:27:42
+Created actionBlock for site: tiktok.com
+Created actionUnblock for site: tiktok.com
+Error setting up scheduled tasks: ï¿½chec lors de lï¿½appel de la mï¿½thode, car [System.DayOfWeek] ne contient pas de mï¿½thode nommï¿½e ï¿½ï¿½GetEnumValuesï¿½ï¿½. at 06/25/2024 11:27:42
+Starting task setup for site: tiktok.com at 06/25/2024 11:33:05
+Created actionBlock for site: tiktok.com
+Created actionUnblock for site: tiktok.com
+Created triggerBlock for site: tiktok.com at 11:34 on Monday,Tuesday,Wednesday
+Created triggerUnblock for site: tiktok.com at 11:37 on Monday,Tuesday,Wednesday
+Registered scheduled task for blocking site: tiktok.com
+Registered scheduled task for unblocking site: tiktok.com
+Scheduled tasks set up successfully for site: tiktok.com at 06/25/2024 11:33:05
+Starting task setup for site: tiktok.com at 06/25/2024 11:42:50
+Created actionBlock for site: tiktok.com
+Created actionUnblock for site: tiktok.com
+Created triggerBlock for site: tiktok.com at 11:44 on Monday,Tuesday,Wednesday
+Created triggerUnblock for site: tiktok.com at 11:46 on Monday,Tuesday,Wednesday
+Registered scheduled task for blocking site: tiktok.com
+Registered scheduled task for unblocking site: tiktok.com
+Scheduled tasks set up successfully for site: tiktok.com at 06/25/2024 11:42:50
+Starting task setup for site: tiktok.com at 06/25/2024 15:54:51
+Created actionBlock for site: tiktok.com
+Created actionUnblock for site: tiktok.com
+Created triggerBlock for site: tiktok.com at 13:22 on Friday
+Created triggerUnblock for site: tiktok.com at 15:44 on Friday
+Registered scheduled task for blocking site: tiktok.com
+Registered scheduled task for unblocking site: tiktok.com
+Scheduled tasks set up successfully for site: tiktok.com at 06/25/2024 15:54:52
+Starting task setup for site: tiktok.com at 06/25/2024 15:57:16
+Created actionBlock for site: tiktok.com
+Created actionUnblock for site: tiktok.com
+Created triggerBlock for site: tiktok.com at 15:59 on Tuesday
+Created triggerUnblock for site: tiktok.com at 16:4 on Tuesday
+Registered scheduled task for blocking site: tiktok.com
+Registered scheduled task for unblocking site: tiktok.com
+Scheduled tasks set up successfully for site: tiktok.com at 06/25/2024 15:57:17
+Starting task setup for site: tiktok.com at 06/25/2024 16:07:32
+Created actionBlock for site: tiktok.com
+Created actionUnblock for site: tiktok.com
+Error setting up scheduled tasks: Impossible de traiter la transformation d'argument sur le paramï¿½tre ï¿½ï¿½DaysOfWeekï¿½ï¿½. Impossible de convertir la valeur Null en type ï¿½ï¿½System.DayOfWeekï¿½ï¿½ en raison de valeurs dï¿½ï¿½numï¿½ration non valides. Spï¿½cifiez lï¿½une des valeurs dï¿½ï¿½numï¿½ration suivantes et rï¿½essayez. Les valeurs dï¿½ï¿½numï¿½ration possibles sont ï¿½ï¿½Sunday;Monday;Tuesday;Wednesday;Thursday;Friday;Saturdayï¿½ï¿½. at 06/25/2024 16:07:32
+Starting task setup for site: tiktok.com at 06/25/2024 16:11:20
+Created actionBlock for site: tiktok.com
+Created actionUnblock for site: tiktok.com
+Created triggerBlock for site: tiktok.com at 16:13 on Wednesday
+Created triggerUnblock for site: tiktok.com at 16:16 on Wednesday
+Registered scheduled task for blocking site: tiktok.com
+Registered scheduled task for unblocking site: tiktok.com
+Scheduled tasks set up successfully for site: tiktok.com at 06/25/2024 16:11:21
+Starting task setup for site: tiktok.com at 06/25/2024 16:17:55
+Created actionBlock for site: tiktok.com
+Created actionUnblock for site: tiktok.com
+Created triggerBlock for site: tiktok.com at 16:19 on Wednesday
+Created triggerUnblock for site: tiktok.com at 16:18 on Wednesday
+Registered scheduled task for blocking site: tiktok.com
+Registered scheduled task for unblocking site: tiktok.com
+Scheduled tasks set up successfully for site: tiktok.com at 06/25/2024 16:17:55
+Starting task setup for site: tiktok.com at 06/25/2024 16:40:45
+Created actionBlock for site: tiktok.com
+Created actionUnblock for site: tiktok.com
+Created triggerBlock for site: tiktok.com at 16:42 on Wednesday
+Created triggerUnblock for site: tiktok.com at 16:45 on Wednesday
+Registered scheduled task for blocking site: tiktok.com
+Registered scheduled task for unblocking site: tiktok.com
+Scheduled tasks set up successfully for site: tiktok.com at 06/25/2024 16:40:45
+Starting task setup for site: tiktok.com at 06/25/2024 16:59:03
+Created actionBlock for site: tiktok.com
+Created actionUnblock for site: tiktok.com
+Invalid day of the week: Monday,Tuesday,Wednesday,Thursday
+Starting task setup for site: tiktok.com at 06/25/2024 16:59:28
+Created actionBlock for site: tiktok.com
+Created actionUnblock for site: tiktok.com
+Invalid day of the week: Monday,Tuesday,Wednesday,Thursday
+Starting task setup for site: tiktok.com at 06/25/2024 17:01:49
+Created actionBlock for site: tiktok.com
+Created actionUnblock for site: tiktok.com
+Created triggerBlock for site: tiktok.com at 17:3 on 7
+Created triggerUnblock for site: tiktok.com at 17:6 on 7
+Error setting up scheduled tasks: Impossible de valider l'argument sur le paramï¿½tre ï¿½ï¿½Triggerï¿½ï¿½. Lï¿½argument est Null ou vide. Indiquez un argument qui nï¿½est pas Null ou vide et rï¿½essayez. at 06/25/2024 17:01:49
+Starting task setup for site: tiktok.com at 06/25/2024 17:05:23
+Created actionBlock for site: tiktok.com
+Created actionUnblock for site: tiktok.com
+Parsed day: 7
+Days of week array: 7
+Created triggerBlock for site: tiktok.com at 17:7 on 7
+Created triggerUnblock for site: tiktok.com at 17:10 on 7
+Error setting up scheduled tasks: Impossible de valider l'argument sur le paramï¿½tre ï¿½ï¿½Triggerï¿½ï¿½. Lï¿½argument est Null ou vide. Indiquez un argument qui nï¿½est pas Null ou vide et rï¿½essayez. at 06/25/2024 17:05:23
+Starting task setup for site: tiktok.com at 06/25/2024 17:07:49
+Created actionBlock for site: tiktok.com
+Created actionUnblock for site: tiktok.com
+Parsed day: 7
+Days of week array: 7
+Created triggerBlock for site: tiktok.com at 17:10 on 7
+Created triggerUnblock for site: tiktok.com at 17:13 on 7
+Error setting up scheduled tasks: Impossible de valider l'argument sur le paramï¿½tre ï¿½ï¿½Triggerï¿½ï¿½. Lï¿½argument est Null ou vide. Indiquez un argument qui nï¿½est pas Null ou vide et rï¿½essayez. at 06/25/2024 17:07:50
+Starting task setup for site: tiktok.com at 06/25/2024 17:12:39
+Created actionBlock for site: tiktok.com
+Created actionUnblock for site: tiktok.com
+Parsed day: 7
+Days of week array: 7
+Created triggerBlock for site: tiktok.com at 17:14 on 7
+Created triggerUnblock for site: tiktok.com at 17:17 on 7
+Error setting up scheduled tasks: Impossible de valider l'argument sur le paramï¿½tre ï¿½ï¿½Triggerï¿½ï¿½. Lï¿½argument est Null ou vide. Indiquez un argument qui nï¿½est pas Null ou vide et rï¿½essayez. at 06/25/2024 17:12:39
+Starting task setup for site: tiktok.com at 06/25/2024 17:14:52
+Created actionBlock for site: tiktok.com
+Created actionUnblock for site: tiktok.com
+Invalid day of the week: Tuesday,Wednesday,Thursday
+Starting task setup for site: tiktok.com at 06/25/2024 18:59:29
+Created actionBlock for site: tiktok.com
+Created actionUnblock for site: tiktok.com
+Invalid day of the week: Tuesday,Wednesday,Thursday
+Starting task setup for site: tiktok.com at 06/25/2024 19:04:40
+Created actionBlock for site: tiktok.com
+Created actionUnblock for site: tiktok.com
+Days of week array: Tuesday
+Created triggerBlock for site: tiktok.com at 19:6 on Tuesday
+Created triggerUnblock for site: tiktok.com at 19:8 on Tuesday
+Registered scheduled task for blocking site: tiktok.com
+Registered scheduled task for unblocking site: tiktok.com
+Scheduled tasks set up successfully for site: tiktok.com at 06/25/2024 19:04:41
+Starting task setup for site: tiktok.com at 06/25/2024 19:16:21
+Created actionBlock for site: tiktok.com
+Created actionUnblock for site: tiktok.com
+Days of week array: Tuesday
+Created triggerBlock for site: tiktok.com at 19:18 on Tuesday
+Created triggerUnblock for site: tiktok.com at 19:20 on Tuesday
+Registered scheduled task for blocking site: tiktok.com
+Registered scheduled task for unblocking site: tiktok.com
+Scheduled tasks set up successfully for site: tiktok.com at 06/25/2024 19:16:22
+Starting task setup for site: tiktok.com at 06/25/2024 19:21:58
+Created actionBlock for site: tiktok.com
+Created actionUnblock for site: tiktok.com
+Initial days of week string: Tuesday
+Days of week array: Tuesday
+Created triggerUnblock for site: tiktok.com at 19:26 on Tuesday
+Registered scheduled task for blocking site: tiktok.com
+Registered scheduled task for unblocking site: tiktok.com
+Scheduled tasks set up successfully for site: tiktok.com at 06/25/2024 19:22:00
+Starting task setup for site: tiktok.com at 06/25/2024 19:25:33
+Created actionBlock for site: tiktok.com
+Created actionUnblock for site: tiktok.com
+Initial days of week string: Monday
+Error setting up scheduled tasks: Exception lors de l'appel de ï¿½ï¿½Parseï¿½ï¿½ avec ï¿½ï¿½2ï¿½ï¿½ argument(s)ï¿½: ï¿½ï¿½La valeur demandï¿½e 'Monday,' est introuvable.ï¿½ï¿½ at 06/25/2024 19:25:33
+Starting task setup for site: tiktok.com at 06/25/2024 19:27:13
+Created actionBlock for site: tiktok.com
+Created actionUnblock for site: tiktok.com
+Initial days of week string: Saturday
+Starting task setup for site: tiktok.com at 06/25/2024 19:28:48
+Created actionBlock for site: tiktok.com
+Created actionUnblock for site: tiktok.com
+Initial days of week string: Saturday
+Days of week array: Monday, Tuesday, Wednesday
+Created triggerBlock for site: tiktok.com at 19:30 on Monday, Tuesday, Wednesday
+Created triggerUnblock for site: tiktok.com at 19:32 on Monday, Tuesday, Wednesday
+Registered scheduled task for blocking site: tiktok.com
+Registered scheduled task for unblocking site: tiktok.com
+Scheduled tasks set up successfully for site: tiktok.com at 06/25/2024 19:28:49
+Starting task setup for site: tiktok.com at 06/25/2024 19:41:15
+Created actionBlock for site: tiktok.com
+Created actionUnblock for site: tiktok.com
+Initial days of week string: Tuesday
+Days of week array: Tuesday
+Created triggerBlock for site: tiktok.com at 19:42 on Tuesday
+Created triggerUnblock for site: tiktok.com at 19:44 on Tuesday
+Registered scheduled task for blocking site: tiktok.com
+Registered scheduled task for unblocking site: tiktok.com
+Scheduled tasks set up successfully for site: tiktok.com at 06/25/2024 19:41:16
+Starting task setup for site: sdgfgerz at 06/25/2024 19:43:07
+Created actionBlock for site: sdgfgerz
+Created actionUnblock for site: sdgfgerz
+Initial days of week string: Saturday
+Days of week array: Saturday
+Created triggerBlock for site: sdgfgerz at 19:41 on Saturday
+Created triggerUnblock for site: sdgfgerz at 14:23 on Saturday
+Registered scheduled task for blocking site: sdgfgerz
+Registered scheduled task for unblocking site: sdgfgerz
+Scheduled tasks set up successfully for site: sdgfgerz at 06/25/2024 19:43:08
+Starting task setup for site: tiktok.com at 06/25/2024 19:46:46
+Created actionBlock for site: tiktok.com
+Created actionUnblock for site: tiktok.com
+Initial days of week string: Monday
+Days of week array: Monday
+Created triggerBlock for site: tiktok.com at 19:48 on Monday
+Created triggerUnblock for site: tiktok.com at 19:51 on Monday
+Registered scheduled task for blocking site: tiktok.com
+Registered scheduled task for unblocking site: tiktok.com
+Scheduled tasks set up successfully for site: tiktok.com at 06/25/2024 19:46:47
+Starting task setup for site: tiktok.com at 06/25/2024 19:49:42
+Created actionBlock for site: tiktok.com
+Created actionUnblock for site: tiktok.com
+Initial days of week string: Tuesday
+Days of week array: Tuesday
+Created triggerBlock for site: tiktok.com at 19:51 on Tuesday
+Created triggerUnblock for site: tiktok.com at 19:53 on Tuesday
+Registered scheduled task for blocking site: tiktok.com
+Registered scheduled task for unblocking site: tiktok.com
+Scheduled tasks set up successfully for site: tiktok.com at 06/25/2024 19:49:43
+Starting task setup for site: ko.com at 06/25/2024 19:50:39
+Created actionBlock for site: ko.com
+Created actionUnblock for site: ko.com
+Initial days of week string: Tuesday
+Days of week array: Tuesday
+Created triggerBlock for site: ko.com at 13:52 on Tuesday
+Created triggerUnblock for site: ko.com at 12:56 on Tuesday
+Registered scheduled task for blocking site: ko.com
+Registered scheduled task for unblocking site: ko.com
+Scheduled tasks set up successfully for site: ko.com at 06/25/2024 19:50:40
+Starting task setup for site: tiktok.com at 06/25/2024 19:53:00
+Created actionBlock for site: tiktok.com
+Created actionUnblock for site: tiktok.com
+Initial days of week string: Tuesday
+Days of week array: Tuesday
+Created triggerBlock for site: tiktok.com at 19:54 on Tuesday
+Created triggerUnblock for site: tiktok.com at 19:56 on Tuesday
+Registered scheduled task for blocking site: tiktok.com
+Registered scheduled task for unblocking site: tiktok.com
+Scheduled tasks set up successfully for site: tiktok.com at 06/25/2024 19:53:01
+Starting task setup for site: tiktok.com at 06/25/2024 20:04:18
+Created actionBlock for site: tiktok.com
+Created actionUnblock for site: tiktok.com
+Initial days of week string: Monday
+Days of week array: Monday
+Created triggerBlock for site: tiktok.com at 15:52 on Monday
+Created triggerUnblock for site: tiktok.com at 16:56 on Monday
+Registered scheduled task for blocking site: tiktok.com
+Registered scheduled task for unblocking site: tiktok.com
+Scheduled tasks set up successfully for site: tiktok.com at 06/25/2024 20:04:19
+Starting task setup for site: ko.com at 06/25/2024 20:14:53
+Created actionBlock for site: ko.com
+Created actionUnblock for site: ko.com
+Initial days of week string: Tuesday
+Days of week array: Tuesday
+Created triggerBlock for site: ko.com at 12:52 on Tuesday
+Created triggerUnblock for site: ko.com at 14:45 on Tuesday
+Registered scheduled task for blocking site: ko.com
+Registered scheduled task for unblocking site: ko.com
+Scheduled tasks set up successfully for site: ko.com at 06/25/2024 20:14:54
+Starting task setup for site: ko.com at 06/25/2024 20:17:07
+Created actionBlock for site: ko.com
+Created actionUnblock for site: ko.com
+Initial days of week string: Tuesday
+Days of week array: Tuesday
+Created triggerUnblock for site: ko.com at 20:36 on Tuesday
+Registered scheduled task for blocking site: ko.com
+Registered scheduled task for unblocking site: ko.com
+Scheduled tasks set up successfully for site: ko.com at 06/25/2024 20:17:08
+Starting task setup for site: x.com at 06/25/2024 20:23:49
+Created actionBlock for site: x.com
+Created actionUnblock for site: x.com
+Initial days of week string: Tuesday Thursday Friday
+Days of week array: Tuesday, Thursday, Friday
+Created triggerBlock for site: x.com at 23:12 on Tuesday, Thursday, Friday
+Created triggerUnblock for site: x.com at 15:22 on Tuesday, Thursday, Friday
+Registered scheduled task for blocking site: x.com
+Registered scheduled task for unblocking site: x.com
+Scheduled tasks set up successfully for site: x.com at 06/25/2024 20:23:50
+Starting task setup for site: tiktok.com at 06/25/2024 20:26:16
+Created actionBlock for site: tiktok.com
+Created actionUnblock for site: tiktok.com
+Initial days of week string: Monday Tuesday Wednesday Thursday Friday
+Days of week array: Monday, Tuesday, Wednesday, Thursday, Friday
+Created triggerBlock for site: tiktok.com at 20:27 on Monday, Tuesday, Wednesday, Thursday, Friday
+Created triggerUnblock for site: tiktok.com at 20:30 on Monday, Tuesday, Wednesday, Thursday, Friday
+Registered scheduled task for blocking site: tiktok.com
+Registered scheduled task for unblocking site: tiktok.com
+Scheduled tasks set up successfully for site: tiktok.com at 06/25/2024 20:26:17
+Starting task setup for sites: @(tiktok.com) and apps: @(Excel) at 06/27/2024 07:29:05
+Created actionBlockSites for sites: @(tiktok.com)
+Created actionBlockApps for apps: @(Excel)
+Created actionUnblockSites for sites: @(tiktok.com)
+Created actionUnblockApps for apps: @(Excel)
+Initial days of week string: Tuesday,Wednesday,Thursday
+Days of week array: 7
+Created triggerBlock for sites: @(tiktok.com) and apps: @(Excel) at 7:30 on 7
+Created triggerUnblock for sites: @(tiktok.com) and apps: @(Excel) at 7:33 on 7
+Error setting up scheduled tasks: Impossible de valider l'argument sur le paramï¿½tre ï¿½ï¿½Triggerï¿½ï¿½. Lï¿½argument est Null ou vide. Indiquez un argument qui nï¿½est pas Null ou vide et rï¿½essayez. at 06/27/2024 07:29:06
+Starting task setup for sites: @(tiktok.com) and apps: @(Excel) at 06/27/2024 07:32:15
+Created actionBlockSites for sites: @(tiktok.com)
+Created actionBlockApps for apps: @(Excel)
+Created actionUnblockSites for sites: @(tiktok.com)
+Created actionUnblockApps for apps: @(Excel)
+Initial days of week string: Tuesday,Wednesday,Thursday
+Days of week array: 7
+Created triggerBlock for sites: @(tiktok.com) and apps: @(Excel) at 7:33 on 7
+Created triggerUnblock for sites: @(tiktok.com) and apps: @(Excel) at 7:35 on 7
+Error setting up scheduled tasks: Impossible de valider l'argument sur le paramï¿½tre ï¿½ï¿½Triggerï¿½ï¿½. Lï¿½argument est Null ou vide. Indiquez un argument qui nï¿½est pas Null ou vide et rï¿½essayez. at 06/27/2024 07:32:16
+Starting task setup for sites: @(tiktok.com) and apps: @(Excel) at 06/27/2024 07:34:23
+Created actionBlockSites for sites: @(tiktok.com)
+Created actionBlockApps for apps: @(Excel)
+Created actionUnblockSites for sites: @(tiktok.com)
+Created actionUnblockApps for apps: @(Excel)
+Initial days of week string: Tuesday,Wednesday,Thursday
+Days of week array: Tuesday, Wednesday, Thursday
+Created triggerBlock for sites: @(tiktok.com) and apps: @(Excel) at 7:36 on Tuesday, Wednesday, Thursday
+Created triggerUnblock for sites: @(tiktok.com) and apps: @(Excel) at 7:39 on Tuesday, Wednesday, Thursday
+Registered scheduled task for blocking sites: @(tiktok.com)
+Registered scheduled task for unblocking sites: @(tiktok.com)
+Registered scheduled task for blocking apps: @(Excel)
+Registered scheduled task for unblocking apps: @(Excel)
+Scheduled tasks set up successfully for sites: @(tiktok.com) and apps: @(Excel) at 06/27/2024 07:34:24
+Starting task setup for sites: @(tiktok.com) and apps: @(Excel) at 06/27/2024 08:08:06
+Created actionBlockSites for sites: @(tiktok.com)
+Created actionBlockApps for apps: @(Excel)
+Created actionUnblockSites for sites: @(tiktok.com)
+Created actionUnblockApps for apps: @(Excel)
+Initial days of week string: Tuesday,Wednesday,Thursday
+Days of week array: Tuesday, Wednesday, Thursday
+Created triggerBlock for sites: @(tiktok.com) and apps: @(Excel) at 8:10 on Tuesday, Wednesday, Thursday
+Created triggerUnblock for sites: @(tiktok.com) and apps: @(Excel) at 8:14 on Tuesday, Wednesday, Thursday
+Registered scheduled task for blocking sites: @(tiktok.com)
+Registered scheduled task for unblocking sites: @(tiktok.com)
+Registered scheduled task for blocking apps: @(Excel)
+Registered scheduled task for unblocking apps: @(Excel)
+Scheduled tasks set up successfully for sites: @(tiktok.com) and apps: @(Excel) at 06/27/2024 08:08:07
+Starting task setup for sites: @(tiktok.com) and apps: @(Excel) at 06/27/2024 08:25:05
+Created actionBlockSites for sites: @(tiktok.com)
+Created actionBlockApps for apps: @(Excel)
+Created actionUnblockSites for sites: @(tiktok.com)
+Created actionUnblockApps for apps: @(Excel)
+Initial days of week string: Tuesday,Wednesday,Thursday
+Days of week array: Tuesday, Wednesday, Thursday
+Created triggerBlock for sites: @(tiktok.com) and apps: @(Excel) at 5:4 on Tuesday, Wednesday, Thursday
+Created triggerUnblock for sites: @(tiktok.com) and apps: @(Excel) at 2:57 on Tuesday, Wednesday, Thursday
+Registered scheduled task for blocking sites: @(tiktok.com)
+Registered scheduled task for unblocking sites: @(tiktok.com)
+Registered scheduled task for blocking apps: @(Excel)
+Registered scheduled task for unblocking apps: @(Excel)
+Scheduled tasks set up successfully for sites: @(tiktok.com) and apps: @(Excel) at 06/27/2024 08:25:06
+Starting task setup for sites: @(tiktok.com) and apps: @(Excel) at 06/27/2024 08:26:43
+Created actionBlockSites for sites: @(tiktok.com)
+Created actionBlockApps for apps: @(Excel)
+Created actionUnblockSites for sites: @(tiktok.com)
+Created actionUnblockApps for apps: @(Excel)
+Initial days of week string: Wednesday,Thursday
+Days of week array: Wednesday, Thursday
+Created triggerBlock for sites: @(tiktok.com) and apps: @(Excel) at 8:28 on Wednesday, Thursday
+Created triggerUnblock for sites: @(tiktok.com) and apps: @(Excel) at 8:30 on Wednesday, Thursday
+Registered scheduled task for blocking sites: @(tiktok.com)
+Registered scheduled task for unblocking sites: @(tiktok.com)
+Registered scheduled task for blocking apps: @(Excel)
+Registered scheduled task for unblocking apps: @(Excel)
+Scheduled tasks set up successfully for sites: @(tiktok.com) and apps: @(Excel) at 06/27/2024 08:26:44
+Starting task setup for sites: @(facebook.com) and apps: @(Excel) at 06/27/2024 08:37:33
+Created actionBlockSites for sites: @(facebook.com)
+Created actionBlockApps for apps: @(Excel)
+Created actionUnblockSites for sites: @(facebook.com)
+Created actionUnblockApps for apps: @(Excel)
+Initial days of week string: Tuesday,Wednesday,Saturday
+Days of week array: Tuesday, Wednesday, Saturday
+Created triggerBlock for sites: @(facebook.com) and apps: @(Excel) at 8:40 on Tuesday, Wednesday, Saturday
+Created triggerUnblock for sites: @(facebook.com) and apps: @(Excel) at 8:44 on Tuesday, Wednesday, Saturday
+Registered scheduled task for blocking sites: @(facebook.com)
+Registered scheduled task for unblocking sites: @(facebook.com)
+Registered scheduled task for blocking apps: @(Excel)
+Registered scheduled task for unblocking apps: @(Excel)
+Scheduled tasks set up successfully for sites: @(facebook.com) and apps: @(Excel) at 06/27/2024 08:37:34
+Starting task setup for sites: @(tiktok.com) and apps: @(Excel) at 06/27/2024 08:42:24
+Created actionBlockSites for sites: @(tiktok.com)
+Created actionBlockApps for apps: @(Excel)
+Created actionUnblockSites for sites: @(tiktok.com)
+Created actionUnblockApps for apps: @(Excel)
+Initial days of week string: Wednesday,Thursday,Friday
+Days of week array: Wednesday, Thursday, Friday
+Created triggerBlock for sites: @(tiktok.com) and apps: @(Excel) at 8:43 on Wednesday, Thursday, Friday
+Created triggerUnblock for sites: @(tiktok.com) and apps: @(Excel) at 8:45 on Wednesday, Thursday, Friday
+Registered scheduled task for blocking sites: @(tiktok.com)
+Registered scheduled task for unblocking sites: @(tiktok.com)
+Registered scheduled task for blocking apps: @(Excel)
+Registered scheduled task for unblocking apps: @(Excel)
+Scheduled tasks set up successfully for sites: @(tiktok.com) and apps: @(Excel) at 06/27/2024 08:42:25
+Starting task setup for sites: @(tiktok.com) and apps: @(Excel) at 06/27/2024 08:48:59
+Created actionBlockSites for sites: tiktok.com
+Created actionBlockApps for apps: Excel
+Created actionUnblockSites for sites: tiktok.com
+Created actionUnblockApps for apps: Excel
+Initial days of week string: Tuesday,Wednesday,Thursday,Saturday
+Days of week array: Tuesday, Wednesday, Thursday, Saturday
+Created triggerBlock for sites: tiktok.com and apps: Excel at 8:50 on Tuesday, Wednesday, Thursday, Saturday
+Created triggerUnblock for sites: tiktok.com and apps: Excel at 8:53 on Tuesday, Wednesday, Thursday, Saturday
+Registered scheduled task for blocking sites: tiktok.com
+Registered scheduled task for unblocking sites: tiktok.com
+Registered scheduled task for blocking apps: Excel
+Registered scheduled task for unblocking apps: Excel
+Scheduled tasks set up successfully for sites: tiktok.com and apps: Excel at 06/27/2024 08:49:00
+Starting task setup for sites: @(facebook.com) and apps: @(Excel) at 06/27/2024 09:42:50
+Created actionBlockSites for sites: facebook.com
+Created actionBlockApps for apps: Excel
+Created actionUnblockSites for sites: facebook.com
+Created actionUnblockApps for apps: Excel
+Initial days of week string: Wednesday,Thursday,Tuesday
+Days of week array: Wednesday, Thursday, Tuesday
+Created triggerBlock for sites: facebook.com and apps: Excel at 9:45 on Wednesday, Thursday, Tuesday
+Created triggerUnblock for sites: facebook.com and apps: Excel at 9:49 on Wednesday, Thursday, Tuesday
+Registered scheduled task for blocking sites: facebook.com
+Registered scheduled task for unblocking sites: facebook.com
+Registered scheduled task for blocking apps: Excel
+Registered scheduled task for unblocking apps: Excel
+Scheduled tasks set up successfully for sites: facebook.com and apps: Excel at 06/27/2024 09:42:50
+Starting task setup for sites: @(eklof) and apps: @() at 06/27/2024 09:50:50
+Created actionBlockSites for sites: eklof
+Created actionBlockApps for apps: 
+Created actionUnblockSites for sites: eklof
+Created actionUnblockApps for apps: 
+Initial days of week string: Wednesday
+Days of week array: Wednesday
+Created triggerBlock for sites: eklof and apps:  at 9:52 on Wednesday
+Created triggerUnblock for sites: eklof and apps:  at 9:55 on Wednesday
+Registered scheduled task for blocking sites: eklof
+Registered scheduled task for unblocking sites: eklof
+Registered scheduled task for blocking apps: 
+Registered scheduled task for unblocking apps: 
+Scheduled tasks set up successfully for sites: eklof and apps:  at 06/27/2024 09:50:51
+Starting task setup for sites: @(eklof) and apps: @() at 06/27/2024 09:53:20
+Created actionBlockSites for sites: eklof
+Created actionBlockApps for apps: 
+Created actionUnblockSites for sites: eklof
+Created actionUnblockApps for apps: 
+Initial days of week string: Thursday
+Days of week array: Thursday
+Created triggerBlock for sites: eklof and apps:  at 9:54 on Thursday
+Created triggerUnblock for sites: eklof and apps:  at 9:56 on Thursday
+Registered scheduled task for blocking sites: eklof
+Registered scheduled task for unblocking sites: eklof
+Registered scheduled task for blocking apps: 
+Registered scheduled task for unblocking apps: 
+Scheduled tasks set up successfully for sites: eklof and apps:  at 06/27/2024 09:53:21
+Starting task setup for sites: @(tiktok.com) at 06/27/2024 10:42:54
+Created actionBlockSites for sites: tiktok.com
+Created actionUnblockSites for sites: tiktok.com
+Initial days of week string: Wednesday,Thursday
+Days of week array: Wednesday, Thursday
+Created triggerBlock for sites: tiktok.com at 10:44 on Wednesday, Thursday
+Created triggerUnblock for sites: tiktok.com at 10:47 on Wednesday, Thursday
+Registered scheduled task for blocking sites: tiktok.com
+Registered scheduled task for unblocking sites: tiktok.com
+Scheduled tasks set up successfully for sites: tiktok.com at 06/27/2024 10:42:55
+Starting task setup for sites: @(tiktok.com) at 06/30/2024 09:39:01
+Created actionBlockSites for sites: tiktok.com
+Created actionUnblockSites for sites: tiktok.com
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for sites: tiktok.com at 9:40 on Sunday
+Created triggerUnblock for sites: tiktok.com at 9:43 on Sunday
+Registered scheduled task for blocking sites: tiktok.com
+Registered scheduled task for unblocking sites: tiktok.com
+Scheduled tasks set up successfully for sites: tiktok.com at 06/30/2024 09:39:02
+Starting task setup for sites: @(tiktok.com) at 06/30/2024 10:04:29
+Created actionBlockSites for sites: tiktok.com
+Created actionUnblockSites for sites: tiktok.com
+Initial days of week string: Saturday,Sunday
+Days of week array: Saturday, Sunday
+Created triggerBlock for sites: tiktok.com at 10:7 on Saturday, Sunday
+Created triggerUnblock for sites: tiktok.com at 10:10 on Saturday, Sunday
+Registered scheduled task for blocking sites: tiktok.com
+Registered scheduled task for unblocking sites: tiktok.com
+Scheduled tasks set up successfully for sites: tiktok.com at 06/30/2024 10:04:29
+Starting task setup for sites: @(tiktok.com) at 06/30/2024 10:26:32
+Created actionBlockSites for sites: tiktok.com
+Created actionUnblockSites for sites: tiktok.com
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for sites: tiktok.com at 10:28 on Sunday
+Created triggerUnblock for sites: tiktok.com at 10:30 on Sunday
+Registered scheduled task for blocking sites: tiktok.com
+Registered scheduled task for unblocking sites: tiktok.com
+Scheduled tasks set up successfully for sites: tiktok.com at 06/30/2024 10:26:33
+Starting task setup for sites: @() at 06/30/2024 10:28:36
+Created actionBlockSites for sites: 
+Created actionUnblockSites for sites: 
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for sites:  at 10:38 on Sunday
+Created triggerUnblock for sites:  at 0:58 on Sunday
+Registered scheduled task for blocking sites: 
+Registered scheduled task for unblocking sites: 
+Scheduled tasks set up successfully for sites:  at 06/30/2024 10:28:36
+Starting task setup for sites: @(tiktok.com) and apps: @(Steam) at 06/30/2024 10:40:00
+Created actionBlockSites for sites: tiktok.com
+Created actionUnblockSites for sites: tiktok.com
+Created actionBlockApps for apps: Steam
+Created actionUnblockApps for apps: Steam
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for sites: tiktok.com and apps: Steam at 10:41 on Sunday
+Created triggerUnblock for sites: tiktok.com and apps: Steam at 10:44 on Sunday
+Registered scheduled task for blocking sites: tiktok.com
+Registered scheduled task for unblocking sites: tiktok.com
+Registered scheduled task for blocking apps: Steam
+Registered scheduled task for unblocking apps: Steam
+Scheduled tasks set up successfully for sites: tiktok.com and apps: Steam at 06/30/2024 10:40:01
+Starting task setup for sites: @(tiktok.com) and apps: @(Steam) at 06/30/2024 10:48:38
+Created actionBlockSites for sites: tiktok.com
+Created actionUnblockSites for sites: tiktok.com
+Created actionBlockApps for apps: Steam
+Created actionUnblockApps for apps: Steam
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for sites: tiktok.com and apps: Steam at 10:50 on Sunday
+Created triggerUnblock for sites: tiktok.com and apps: Steam at 10:53 on Sunday
+Registered scheduled task for blocking sites: tiktok.com
+Registered scheduled task for unblocking sites: tiktok.com
+Registered scheduled task for blocking apps: Steam
+Registered scheduled task for unblocking apps: Steam
+Scheduled tasks set up successfully for sites: tiktok.com and apps: Steam at 06/30/2024 10:48:39
+Starting task setup for sites: @(x.com) and apps: @(Steam) at 06/30/2024 11:04:31
+Created actionBlockSites for sites: x.com
+Created actionUnblockSites for sites: x.com
+Created actionBlockApps for apps: Steam
+Created actionUnblockApps for apps: Steam
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for sites: x.com and apps: Steam at 11:5 on Sunday
+Created triggerUnblock for sites: x.com and apps: Steam at 11:6 on Sunday
+Registered scheduled task for blocking sites: x.com
+Registered scheduled task for unblocking sites: x.com
+Registered scheduled task for blocking apps: Steam
+Registered scheduled task for unblocking apps: Steam
+Scheduled tasks set up successfully for sites: x.com and apps: Steam at 06/30/2024 11:04:32
+Starting task setup for sites: @() and apps: @(Steam) at 06/30/2024 11:11:43
+Created actionBlockSites for sites: 
+Created actionUnblockSites for sites: 
+Created actionBlockApps for apps: Steam
+Created actionUnblockApps for apps: Steam
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for sites:  and apps: Steam at 11:12 on Sunday
+Created triggerUnblock for sites:  and apps: Steam at 11:15 on Sunday
+Registered scheduled task for blocking sites: 
+Registered scheduled task for unblocking sites: 
+Registered scheduled task for blocking apps: Steam
+Registered scheduled task for unblocking apps: Steam
+Scheduled tasks set up successfully for sites:  and apps: Steam at 06/30/2024 11:11:44
+Starting task setup for sites: @() and apps: @(Steam.exe) at 06/30/2024 11:16:57
+Created actionBlockSites for sites: 
+Created actionUnblockSites for sites: 
+Created actionBlockApps for apps: Steam.exe
+Created actionUnblockApps for apps: Steam.exe
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for sites:  and apps: Steam.exe at 11:18 on Sunday
+Created triggerUnblock for sites:  and apps: Steam.exe at 11:20 on Sunday
+Registered scheduled task for blocking sites: 
+Registered scheduled task for unblocking sites: 
+Registered scheduled task for blocking apps: Steam.exe
+Registered scheduled task for unblocking apps: Steam.exe
+Scheduled tasks set up successfully for sites:  and apps: Steam.exe at 06/30/2024 11:16:58
+Starting task setup for sites: @() and apps: @(steam.exe) at 06/30/2024 11:18:24
+Created actionBlockSites for sites: 
+Created actionUnblockSites for sites: 
+Created actionBlockApps for apps: steam.exe
+Created actionUnblockApps for apps: steam.exe
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for sites:  and apps: steam.exe at 11:19 on Sunday
+Created triggerUnblock for sites:  and apps: steam.exe at 11:20 on Sunday
+Registered scheduled task for blocking sites: 
+Registered scheduled task for unblocking sites: 
+Registered scheduled task for blocking apps: steam.exe
+Registered scheduled task for unblocking apps: steam.exe
+Scheduled tasks set up successfully for sites:  and apps: steam.exe at 06/30/2024 11:18:25
+Starting task setup for sites: @() and apps: @(steam) at 06/30/2024 11:19:54
+Created actionBlockSites for sites: 
+Created actionUnblockSites for sites: 
+Created actionBlockApps for apps: steam
+Created actionUnblockApps for apps: steam
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for sites:  and apps: steam at 11:20 on Sunday
+Created triggerUnblock for sites:  and apps: steam at 11:31 on Sunday
+Registered scheduled task for blocking sites: 
+Registered scheduled task for unblocking sites: 
+Registered scheduled task for blocking apps: steam
+Registered scheduled task for unblocking apps: steam
+Scheduled tasks set up successfully for sites:  and apps: steam at 06/30/2024 11:19:54
+Starting task setup for sites: @() and apps: @(steam.exe) at 06/30/2024 11:26:19
+Created actionBlockSites for sites: 
+Created actionUnblockSites for sites: 
+Created actionBlockApps for apps: steam.exe
+Created actionUnblockApps for apps: steam.exe
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for sites:  and apps: steam.exe at 11:27 on Sunday
+Created triggerUnblock for sites:  and apps: steam.exe at 11:29 on Sunday
+Registered scheduled task for blocking sites: 
+Registered scheduled task for unblocking sites: 
+Registered scheduled task for blocking apps: steam.exe
+Registered scheduled task for unblocking apps: steam.exe
+Scheduled tasks set up successfully for sites:  and apps: steam.exe at 06/30/2024 11:26:20
+Starting task setup for sites: @() and apps: @(steam.exe) at 06/30/2024 11:29:25
+Created actionBlockSites for sites: 
+Created actionUnblockSites for sites: 
+Created actionBlockApps for apps: steam.exe
+Created actionUnblockApps for apps: steam.exe
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for sites:  and apps: steam.exe at 11:30 on Sunday
+Created triggerUnblock for sites:  and apps: steam.exe at 11:36 on Sunday
+Registered scheduled task for blocking sites: 
+Registered scheduled task for unblocking sites: 
+Registered scheduled task for blocking apps: steam.exe
+Registered scheduled task for unblocking apps: steam.exe
+Scheduled tasks set up successfully for sites:  and apps: steam.exe at 06/30/2024 11:29:25
+Starting task setup for sites: @() and apps: @(Xbox.exe) at 06/30/2024 11:47:17
+Created actionBlockSites for sites: 
+Created actionUnblockSites for sites: 
+Created actionBlockApps for apps: Xbox.exe
+Created actionUnblockApps for apps: Xbox.exe
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for sites:  and apps: Xbox.exe at 11:48 on Sunday
+Created triggerUnblock for sites:  and apps: Xbox.exe at 11:52 on Sunday
+Registered scheduled task for blocking sites: 
+Registered scheduled task for unblocking sites: 
+Registered scheduled task for blocking apps: Xbox.exe
+Registered scheduled task for unblocking apps: Xbox.exe
+Scheduled tasks set up successfully for sites:  and apps: Xbox.exe at 06/30/2024 11:47:18
+Starting task setup for sites: @() and apps: @(xbox.exe) at 06/30/2024 11:49:18
+Created actionBlockSites for sites: 
+Created actionUnblockSites for sites: 
+Created actionBlockApps for apps: xbox.exe
+Created actionUnblockApps for apps: xbox.exe
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for sites:  and apps: xbox.exe at 11:50 on Sunday
+Created triggerUnblock for sites:  and apps: xbox.exe at 11:52 on Sunday
+Registered scheduled task for blocking sites: 
+Registered scheduled task for unblocking sites: 
+Registered scheduled task for blocking apps: xbox.exe
+Registered scheduled task for unblocking apps: xbox.exe
+Scheduled tasks set up successfully for sites:  and apps: xbox.exe at 06/30/2024 11:49:19
+Starting task setup for sites: @() and apps: @(steam.exe) at 06/30/2024 11:51:00
+Created actionBlockSites for sites: 
+Created actionUnblockSites for sites: 
+Created actionBlockApps for apps: steam.exe
+Created actionUnblockApps for apps: steam.exe
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for sites:  and apps: steam.exe at 11:51 on Sunday
+Created triggerUnblock for sites:  and apps: steam.exe at 11:52 on Sunday
+Registered scheduled task for blocking sites: 
+Registered scheduled task for unblocking sites: 
+Registered scheduled task for blocking apps: steam.exe
+Registered scheduled task for unblocking apps: steam.exe
+Scheduled tasks set up successfully for sites:  and apps: steam.exe at 06/30/2024 11:51:00
+Starting task setup for sites: @() and apps: @(steam.exe) at 06/30/2024 11:51:20
+Created actionBlockSites for sites: 
+Created actionUnblockSites for sites: 
+Created actionBlockApps for apps: steam.exe
+Created actionUnblockApps for apps: steam.exe
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for sites:  and apps: steam.exe at 11:52 on Sunday
+Created triggerUnblock for sites:  and apps: steam.exe at 11:54 on Sunday
+Registered scheduled task for blocking sites: 
+Registered scheduled task for unblocking sites: 
+Registered scheduled task for blocking apps: steam.exe
+Registered scheduled task for unblocking apps: steam.exe
+Scheduled tasks set up successfully for sites:  and apps: steam.exe at 06/30/2024 11:51:21
+Starting task setup for sites and apps at 06/30/2024 12:10:36
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock
+Created actions for sites: example.com
+Created actions for apps: steam, tiktok
+Registered scheduled tasks for sites at 06/30/2024 12:10:37
+Registered scheduled tasks for apps at 06/30/2024 12:10:37
+Scheduled tasks setup completed at 06/30/2024 12:10:37
+Starting task setup for sites and apps at 06/30/2024 12:11:05
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock
+Created actions for sites: example.com
+Created actions for apps: steam, tiktok
+Registered scheduled tasks for sites at 06/30/2024 12:11:05
+Registered scheduled tasks for apps at 06/30/2024 12:11:05
+Scheduled tasks setup completed at 06/30/2024 12:11:05
+Starting task setup for sites and apps at 06/30/2024 12:12:23
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock
+Created actions for sites: example.com
+Created actions for apps: steam, tiktok
+Registered scheduled tasks for sites at 06/30/2024 12:12:23
+Registered scheduled tasks for apps at 06/30/2024 12:12:23
+Scheduled tasks setup completed at 06/30/2024 12:12:23
+Starting task setup for sites and apps at 06/30/2024 12:38:03
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock
+Created actions for sites: tiktok.com
+Created actions for apps: tiktok
+Registered scheduled tasks for sites at 06/30/2024 12:38:04
+Registered scheduled tasks for apps at 06/30/2024 12:38:04
+Scheduled tasks setup completed at 06/30/2024 12:38:04
+Starting task setup for sites and apps at 06/30/2024 12:42:33
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock
+Created actions for sites: tiktok.com
+Created actions for apps: TikTok
+Registered scheduled tasks for sites at 06/30/2024 12:42:34
+Registered scheduled tasks for apps at 06/30/2024 12:42:34
+Scheduled tasks setup completed at 06/30/2024 12:42:34
+Starting task setup for sites and apps at 06/30/2024 12:48:16
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock
+Created actions for sites: tiktok.com
+Created actions for apps: TikTok
+Registered scheduled tasks for sites at 06/30/2024 12:48:16
+Registered scheduled tasks for apps at 06/30/2024 12:48:16
+Scheduled tasks setup completed at 06/30/2024 12:48:16
+Starting task setup for sites and apps at 06/30/2024 12:53:50
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock
+Created actions for sites: 
+Created actions for apps: 
+Registered scheduled tasks for sites at 06/30/2024 12:53:51
+Registered scheduled tasks for apps at 06/30/2024 12:53:51
+Scheduled tasks setup completed at 06/30/2024 12:53:51
+Starting task setup for sites and apps at 06/30/2024 13:05:15
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock
+Created actions for sites: example.com
+Created actions for apps: steam
+Registered scheduled tasks for sites at 06/30/2024 13:05:15
+Registered scheduled tasks for apps at 06/30/2024 13:05:15
+Scheduled tasks setup completed at 06/30/2024 13:05:15
+Starting task setup for sites and apps at 06/30/2024 13:06:50
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock
+Created actions for sites: example.com
+Created actions for apps: steam
+Registered scheduled tasks for sites at 06/30/2024 13:06:50
+Registered scheduled tasks for apps at 06/30/2024 13:06:50
+Scheduled tasks setup completed at 06/30/2024 13:06:50
+Starting task setup for sites and apps at 06/30/2024 13:08:11
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock
+Created actions for sites: example.com
+Created actions for apps: steam
+Registered scheduled tasks for sites at 06/30/2024 13:08:12
+Registered scheduled tasks for apps at 06/30/2024 13:08:12
+Scheduled tasks setup completed at 06/30/2024 13:08:12
+Starting task setup for sites and apps at 06/30/2024 13:09:44
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock
+Created actions for sites: example.com
+Created actions for apps: steam
+Registered scheduled tasks for sites at 06/30/2024 13:09:44
+Registered scheduled tasks for apps at 06/30/2024 13:09:44
+Scheduled tasks setup completed at 06/30/2024 13:09:44
+Starting task setup for sites: example.com and apps:  at 06/30/2024 13:14:18
+Created actionBlockSites for sites: example.com
+Created actionBlockApps for apps: 
+Created actionUnblockSites for sites: example.com
+Created actionUnblockApps for apps: 
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for sites: example.com and apps:  at 13:15 on Sunday
+Created triggerUnblock for sites: example.com and apps:  at 13:16 on Sunday
+Error setting up scheduled tasks: La propriété « Interval » est introuvable dans cet objet. Vérifiez qu’elle existe et qu’elle peut être définie. at 06/30/2024 13:14:18
+Starting task setup for sites: example.com and apps:  at 06/30/2024 13:16:43
+Created actionBlockSites for sites: example.com
+Created actionBlockApps for apps: 
+Created actionUnblockSites for sites: example.com
+Created actionUnblockApps for apps: 
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for sites: example.com and apps:  at 13:17 on Sunday
+Created triggerUnblock for sites: example.com and apps:  at 13:19 on Sunday
+Error setting up scheduled tasks: Exception lors de la définition de « RepetitionInterval » : « La propriété « RepetitionInterval » est introuvable dans cet objet. Vérifiez qu’elle existe et qu’elle peut être définie. » at 06/30/2024 13:16:43
+Starting task setup for sites: example.com and apps:  at 06/30/2024 13:21:44
+Created actionBlockSites for sites: example.com
+Created actionBlockApps for apps: 
+Created actionUnblockSites for sites: example.com
+Created actionUnblockApps for apps: 
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for sites: example.com and apps:  at 13:22 on Sunday
+Created triggerUnblock for sites: example.com and apps:  at 13:25 on Sunday
+Error setting up scheduled tasks: La propriété « Interval » est introuvable dans cet objet. Vérifiez qu’elle existe et qu’elle peut être définie. at 06/30/2024 13:21:44
+Starting task setup for sites: @(tiktok.com) and apps:  at 06/30/2024 13:24:50
+Created actionBlockSites for sites: tiktok.com
+Created actionBlockApps for apps: 
+Created actionUnblockSites for sites: tiktok.com
+Created actionUnblockApps for apps: 
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for sites: tiktok.com and apps:  at 13:27 on Sunday
+Created triggerUnblock for sites: tiktok.com and apps:  at 13:30 on Sunday
+Error setting up scheduled tasks: La propriété « Interval » est introuvable dans cet objet. Vérifiez qu’elle existe et qu’elle peut être définie. at 06/30/2024 13:24:51
+Starting task setup for sites: @(tiktok.com) and apps:  at 06/30/2024 13:30:12
+Created actionBlockSites for sites: tiktok.com
+Created actionBlockApps for apps: 
+Created actionUnblockSites for sites: tiktok.com
+Created actionUnblockApps for apps: 
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for sites: tiktok.com and apps:  at 13:31 on Sunday
+Created triggerUnblock for sites: tiktok.com and apps:  at 13:34 on Sunday
+Registered scheduled task for blocking sites: tiktok.com
+Registered scheduled task for unblocking sites: tiktok.com
+Registered scheduled task for blocking apps: 
+Registered scheduled task for unblocking apps: 
+Scheduled tasks set up successfully for sites: tiktok.com and apps:  at 06/30/2024 13:30:12
+Starting task setup for sites: @() at 06/30/2024 16:43:26
+Created actionBlockSites for sites: 
+Created actionUnblockSites for sites: 
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for sites:  at 16:45 on Sunday
+Created triggerUnblock for sites:  at 16:48 on Sunday
+Registered scheduled task for blocking sites: 
+Registered scheduled task for unblocking sites: 
+Scheduled tasks set up successfully for sites:  at 06/30/2024 16:43:26
+Starting task setup for site:  at 06/30/2024 16:58:10
+Created actionBlock for site: 
+Created actionUnblock for site: 
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for site:  at 16:59 on Sunday
+Created triggerUnblock for site:  at 5:0 on Sunday
+Registered scheduled task for blocking site: 
+Registered scheduled task for unblocking site: 
+Scheduled tasks set up successfully for site:  at 06/30/2024 16:58:10
+Starting task setup for site:  at 06/30/2024 17:07:46
+Created actionBlock for site: 
+Created actionUnblock for site: 
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for site:  at 17:9 on Sunday
+Created triggerUnblock for site:  at 17:12 on Sunday
+Registered scheduled task for blocking site: 
+Registered scheduled task for unblocking site: 
+Scheduled tasks set up successfully for site:  at 06/30/2024 17:07:47
+Starting task setup for site:  at 07/01/2024 07:27:29
+Created actionBlock for site: 
+Created actionUnblock for site: 
+Initial days of week string: Monday
+Days of week array: Monday
+Created triggerBlock for site:  at 7:30 on Monday
+Created triggerUnblock for site:  at 7:34 on Monday
+Registered scheduled task for blocking site: 
+Registered scheduled task for unblocking site: 
+Scheduled tasks set up successfully for site:  at 07/01/2024 07:27:30
+Starting task setup for sites: @(tiktok.com) at 07/01/2024 07:47:20
+Created actionBlockSites for sites: tiktok.com
+Created actionUnblockSites for sites: tiktok.com
+Initial days of week string: Monday
+Days of week array: Monday
+Created triggerBlock for sites: tiktok.com at 7:49 on Monday
+Created triggerUnblock for sites: tiktok.com at 7:52 on Monday
+Registered scheduled task for blocking sites: tiktok.com
+Registered scheduled task for unblocking sites: tiktok.com
+Scheduled tasks set up successfully for sites: tiktok.com at 07/01/2024 07:47:20
+Starting task setup for sites: @(x.com) at 07/01/2024 08:38:11
+Created actionBlockSites for sites: x.com
+Created actionUnblockSites for sites: x.com
+Initial days of week string: Wednesday,Tuesday
+Days of week array: Wednesday, Tuesday
+Created triggerBlock for sites: x.com at 8:48 on Wednesday, Tuesday
+Created triggerUnblock for sites: x.com at 11:55 on Wednesday, Tuesday
+Registered scheduled task for blocking sites: x.com
+Registered scheduled task for unblocking sites: x.com
+Scheduled tasks set up successfully for sites: x.com at 07/01/2024 08:38:11
+Starting task setup for sites: @(tiktok.com) at 07/01/2024 08:40:33
+Created actionBlockSites for sites: tiktok.com
+Created actionUnblockSites for sites: tiktok.com
+Initial days of week string: Monday
+Days of week array: Monday
+Created triggerBlock for sites: tiktok.com at 8:42 on Monday
+Created triggerUnblock for sites: tiktok.com at 0:57 on Monday
+Registered scheduled task for blocking sites: tiktok.com
+Registered scheduled task for unblocking sites: tiktok.com
+Scheduled tasks set up successfully for sites: tiktok.com at 07/01/2024 08:40:34
+Starting task setup for sites: @(tiktok.com) at 07/01/2024 08:54:22
+Created actionBlockSites for sites: tiktok.com
+Created actionUnblockSites for sites: tiktok.com
+Initial days of week string: Monday
+Days of week array: Monday
+Created triggerBlock for sites: tiktok.com at 8:57 on Monday
+Created triggerUnblock for sites: tiktok.com at 0:58 on Monday
+Registered scheduled task for blocking sites: tiktok.com
+Registered scheduled task for unblocking sites: tiktok.com
+Scheduled tasks set up successfully for sites: tiktok.com at 07/01/2024 08:54:23
+Starting task setup for sites: @(tiktok.com) at 07/01/2024 09:33:26
+Created actionBlockSites for site: tiktok.com
+Created actionUnblockSites for site: tiktok.com
+Initial days of week string: Monday
+Days of week array: Monday
+Created triggerBlock for site: tiktok.com at 9:35 on Monday
+Created triggerUnblock for site: tiktok.com at 10:50 on Monday
+Registered scheduled task for blocking site: tiktok.com
+Registered scheduled task for unblocking site: tiktok.com
+Scheduled tasks set up successfully for sites: tiktok.com at 07/01/2024 09:33:26
+Starting task setup for sites: @(x.com) at 07/01/2024 11:35:42
+Created actionBlockSites for site: x.com
+Created actionUnblockSites for site: x.com
+Initial days of week string: Monday
+Days of week array: Monday
+Created triggerBlock for site: x.com at 11:38 on Monday
+Created triggerUnblock for site: x.com at 11:44 on Monday
+Registered scheduled task for blocking site: x.com
+Registered scheduled task for unblocking site: x.com
+Scheduled tasks set up successfully for sites: x.com at 07/01/2024 11:35:43
+Starting task setup for sites: @(tiktok.com) at 07/02/2024 09:54:34
+Created actionBlockSites for sites: tiktok.com
+Created actionUnblockSites for sites: tiktok.com
+Initial days of week string: Tuesday
+Days of week array: Tuesday
+Created triggerBlock for sites: tiktok.com at 9:56 on Tuesday
+Created triggerUnblock for sites: tiktok.com at 10:4 on Tuesday
+Registered scheduled task for blocking sites: tiktok.com
+Registered scheduled task for unblocking sites: tiktok.com
+Scheduled tasks set up successfully for sites: tiktok.com at 07/02/2024 09:54:34
+Starting task setup for sites: @(twitch.tv) at 07/02/2024 10:40:48
+Created actionBlockSites for sites: twitch.tv
+Created actionUnblockSites for sites: twitch.tv
+Initial days of week string: Tuesday
+Days of week array: Tuesday
+Created triggerBlock for sites: twitch.tv at 10:44 on Tuesday
+Created triggerUnblock for sites: twitch.tv at 11:0 on Tuesday
+Registered scheduled task for blocking sites: twitch.tv
+Registered scheduled task for unblocking sites: twitch.tv
+Scheduled tasks set up successfully for sites: twitch.tv at 07/02/2024 10:40:49
+Starting task setup for sites: @(ko.com) at 07/02/2024 10:50:27
+Created actionBlockSites for sites: ko.com
+Created actionUnblockSites for sites: ko.com
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for sites: ko.com at 1:1 on Sunday
+Created triggerUnblock for sites: ko.com at 23:2 on Sunday
+Registered scheduled task for blocking sites: ko.com
+Registered scheduled task for unblocking sites: ko.com
+Scheduled tasks set up successfully for sites: ko.com at 07/02/2024 10:50:28
+Starting task setup for sites: @(x.com) at 07/02/2024 12:04:21
+Created actionBlockSites for sites: x.com
+Created actionUnblockSites for sites: x.com
+Initial days of week string: Thursday
+Days of week array: Thursday
+Created triggerBlock for sites: x.com at 0:59 on Thursday
+Created triggerUnblock for sites: x.com at 12:2 on Thursday
+Registered scheduled task for blocking sites: x.com
+Registered scheduled task for unblocking sites: x.com
+Scheduled tasks set up successfully for sites: x.com at 07/02/2024 12:04:21
+Starting task setup for sites: @(youtub.com) at 07/02/2024 12:20:03
+Created actionBlockSites for sites: youtub.com
+Created actionUnblockSites for sites: youtub.com
+Initial days of week string: Tuesday
+Days of week array: Tuesday
+Created triggerBlock for sites: youtub.com at 13:12 on Tuesday
+Created triggerUnblock for sites: youtub.com at 17:2 on Tuesday
+Registered scheduled task for blocking sites: youtub.com
+Registered scheduled task for unblocking sites: youtub.com
+Scheduled tasks set up successfully for sites: youtub.com at 07/02/2024 12:20:03
+Starting task setup for sites: @(ytb.com) at 07/02/2024 12:31:06
+Created actionBlockSites for sites: ytb.com
+Created actionUnblockSites for sites: ytb.com
+Initial days of week string: Saturday
+Days of week array: Saturday
+Created triggerBlock for sites: ytb.com at 4:51 on Saturday
+Created triggerUnblock for sites: ytb.com at 9:4 on Saturday
+Registered scheduled task for blocking sites: ytb.com
+Registered scheduled task for unblocking sites: ytb.com
+Scheduled tasks set up successfully for sites: ytb.com at 07/02/2024 12:31:06
+Starting task setup for sites: @(twitter.com) at 07/02/2024 16:00:20
+Created actionBlockSites for sites: twitter.com
+Created actionUnblockSites for sites: twitter.com
+Initial days of week string: Tuesday
+Days of week array: Tuesday
+Created triggerBlock for sites: twitter.com at 7:58 on Tuesday
+Created triggerUnblock for sites: twitter.com at 10:2 on Tuesday
+Registered scheduled task for blocking sites: twitter.com
+Registered scheduled task for unblocking sites: twitter.com
+Scheduled tasks set up successfully for sites: twitter.com at 07/02/2024 16:00:21
+Starting task setup for sites: @(y.com) at 07/03/2024 09:07:33
+Created actionBlockSites for sites: y.com
+Created actionUnblockSites for sites: y.com
+Initial days of week string: Wednesday
+Days of week array: Wednesday
+Created triggerBlock for sites: y.com at 11:58 on Wednesday
+Created triggerUnblock for sites: y.com at 23:16 on Wednesday
+Registered scheduled task for blocking sites: y.com
+Registered scheduled task for unblocking sites: y.com
+Scheduled tasks set up successfully for sites: y.com at 07/03/2024 09:07:33
+No days of the week specified.
+Starting task setup for sites: @(o.com) at 07/03/2024 09:10:41
+Created actionBlockSites for sites: o.com
+Created actionUnblockSites for sites: o.com
+Initial days of week string: Saturday
+Days of week array: Saturday
+Created triggerBlock for sites: o.com at 7:57 on Saturday
+Created triggerUnblock for sites: o.com at 15:3 on Saturday
+Registered scheduled task for blocking sites: o.com
+Registered scheduled task for unblocking sites: o.com
+Scheduled tasks set up successfully for sites: o.com at 07/03/2024 09:10:41
+Starting task setup for sites: @(y.com) at 07/03/2024 09:19:48
+Created actionBlockSites for sites: y.com
+Created actionUnblockSites for sites: y.com
+Initial days of week string: Wednesday
+Days of week array: Wednesday
+Created triggerBlock for sites: y.com at 10:58 on Wednesday
+Created triggerUnblock for sites: y.com at 23:16 on Wednesday
+Registered scheduled task for blocking sites: y.com
+Registered scheduled task for unblocking sites: y.com
+Scheduled tasks set up successfully for sites: y.com at 07/03/2024 09:19:49
+Starting task setup for sites: @(o.com) at 07/03/2024 09:23:47
+Created actionBlockSites for sites: o.com
+Created actionUnblockSites for sites: o.com
+Initial days of week string: Saturday
+Days of week array: Saturday
+Created triggerBlock for sites: o.com at 6:57 on Saturday
+Created triggerUnblock for sites: o.com at 15:3 on Saturday
+Registered scheduled task for blocking sites: o.com
+Registered scheduled task for unblocking sites: o.com
+Scheduled tasks set up successfully for sites: o.com at 07/03/2024 09:23:48
+Starting task setup for sites: @(g.com) at 07/03/2024 10:29:35
+Created actionBlockSites for sites: g.com
+Created actionUnblockSites for sites: g.com
+Initial days of week string: Friday
+Days of week array: Friday
+Created triggerBlock for sites: g.com at 9:57 on Friday
+Created triggerUnblock for sites: g.com at 14:4 on Friday
+Registered scheduled task for blocking sites: g.com
+Registered scheduled task for unblocking sites: g.com
+Scheduled tasks set up successfully for sites: g.com at 07/03/2024 10:29:35
+Starting task setup for sites: @(h.com) at 07/03/2024 10:50:26
+Created actionBlockSites for sites: h.com
+Created actionUnblockSites for sites: h.com
+Initial days of week string: Friday
+Days of week array: Friday
+Created triggerBlock for sites: h.com at 11:58 on Friday
+Created triggerUnblock for sites: h.com at 19:1 on Friday
+Registered scheduled task for blocking sites: h.com
+Registered scheduled task for unblocking sites: h.com
+Scheduled tasks set up successfully for sites: h.com at 07/03/2024 10:50:26
+Starting task setup for sites: @(s.com) at 07/03/2024 10:52:42
+Created actionBlockSites for sites: s.com
+Created actionUnblockSites for sites: s.com
+Initial days of week string: Thursday
+Days of week array: Thursday
+Created triggerBlock for sites: s.com at 10:57 on Thursday
+Created triggerUnblock for sites: s.com at 23:56 on Thursday
+Registered scheduled task for blocking sites: s.com
+Registered scheduled task for unblocking sites: s.com
+Scheduled tasks set up successfully for sites: s.com at 07/03/2024 10:52:43
+Starting task setup for sites: @(s.com) at 07/03/2024 10:55:39
+Created actionBlockSites for sites: s.com
+Created actionUnblockSites for sites: s.com
+Initial days of week string: Thursday
+Days of week array: Thursday
+Created triggerBlock for sites: s.com at 9:57 on Thursday
+Created triggerUnblock for sites: s.com at 23:56 on Thursday
+Registered scheduled task for blocking sites: s.com
+Registered scheduled task for unblocking sites: s.com
+Scheduled tasks set up successfully for sites: s.com at 07/03/2024 10:55:40
+Starting task setup for sites: @(f.com) at 07/03/2024 11:03:53
+Created actionBlockSites for sites: f.com
+Created actionUnblockSites for sites: f.com
+Initial days of week string: Wednesday
+Days of week array: Wednesday
+Created triggerBlock for sites: f.com at 11:56 on Wednesday
+Created triggerUnblock for sites: f.com at 23:2 on Wednesday
+Registered scheduled task for blocking sites: f.com
+Registered scheduled task for unblocking sites: f.com
+Scheduled tasks set up successfully for sites: f.com at 07/03/2024 11:03:54
+Starting task setup for sites: @(f.com) at 07/03/2024 11:04:59
+Created actionBlockSites for sites: f.com
+Created actionUnblockSites for sites: f.com
+Initial days of week string: Wednesday
+Days of week array: Wednesday
+Created triggerBlock for sites: f.com at 10:56 on Wednesday
+Created triggerUnblock for sites: f.com at 23:2 on Wednesday
+Registered scheduled task for blocking sites: f.com
+Registered scheduled task for unblocking sites: f.com
+Scheduled tasks set up successfully for sites: f.com at 07/03/2024 11:05:00
+Starting task setup for sites: @(s.com) at 07/03/2024 11:20:55
+Created actionBlockSites for sites: s.com
+Created actionUnblockSites for sites: s.com
+Initial days of week string: Thursday
+Days of week array: Thursday
+Created triggerBlock for sites: s.com at 8:57 on Thursday
+Created triggerUnblock for sites: s.com at 23:56 on Thursday
+Registered scheduled task for blocking sites: s.com
+Registered scheduled task for unblocking sites: s.com
+Scheduled tasks set up successfully for sites: s.com at 07/03/2024 11:20:55
+Starting task setup for sites: @(f.com) at 07/03/2024 13:38:41
+Created actionBlockSites for sites: f.com
+Created actionUnblockSites for sites: f.com
+Initial days of week string: Wednesday
+Days of week array: Wednesday
+Created triggerBlock for sites: f.com at 9:56 on Wednesday
+Created triggerUnblock for sites: f.com at 23:2 on Wednesday
+Registered scheduled task for blocking sites: f.com
+Registered scheduled task for unblocking sites: f.com
+Scheduled tasks set up successfully for sites: f.com at 07/03/2024 13:38:42
+Starting task setup for sites: @(tiktok.com) at 07/04/2024 15:47:55
+Created actionBlockSites for sites: tiktok.com
+Created actionUnblockSites for sites: tiktok.com
+Initial days of week string: Friday
+Days of week array: Friday
+Created triggerBlock for sites: tiktok.com at 10:2 on Friday
+Created triggerUnblock for sites: tiktok.com at 13:0 on Friday
+Registered scheduled task for blocking sites: tiktok.com
+Registered scheduled task for unblocking sites: tiktok.com
+Scheduled tasks set up successfully for sites: tiktok.com at 07/04/2024 15:47:56

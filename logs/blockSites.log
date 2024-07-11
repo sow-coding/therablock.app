@@ -1,0 +1,63 @@
+Starting blockSites script at 07/01/2024 07:49:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: tiktok.com
+Attempting to block site: tiktok.com at 07/01/2024 07:49:01
+Site blocked: 127.0.0.1 tiktok.com at 07/01/2024 07:49:01
+Site blocked: 127.0.0.1 www.tiktok.com at 07/01/2024 07:49:01
+Starting blockSites script at 07/01/2024 08:42:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: tiktok.com
+Attempting to block site: tiktok.com at 07/01/2024 08:42:01
+Site blocked: 127.0.0.1 tiktok.com at 07/01/2024 08:42:01
+Site blocked: 127.0.0.1 www.tiktok.com at 07/01/2024 08:42:01
+Starting blockSites script at 07/01/2024 08:57:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: tiktok.com
+Attempting to block site: tiktok.com at 07/01/2024 08:57:00
+Site is already blocked: 127.0.0.1 tiktok.com at 07/01/2024 08:57:00
+Site is already blocked: 127.0.0.1 www.tiktok.com at 07/01/2024 08:57:00
+Starting blockSites script at 07/01/2024 09:35:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: tiktok.com
+Attempting to block site: tiktok.com at 07/01/2024 09:35:00
+Site is already blocked: 127.0.0.1 tiktok.com at 07/01/2024 09:35:00
+Site is already blocked: 127.0.0.1 www.tiktok.com at 07/01/2024 09:35:00
+Starting blockSites script at 07/01/2024 11:38:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: x.com
+Attempting to block site: x.com at 07/01/2024 11:38:00
+Site blocked: 127.0.0.1 x.com at 07/01/2024 11:38:00
+Site blocked: 127.0.0.1 www.x.com at 07/01/2024 11:38:00
+Starting blockSites script at 07/02/2024 09:56:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: tiktok.com
+Attempting to block site: tiktok.com at 07/02/2024 09:56:00
+Site blocked: 127.0.0.1 tiktok.com at 07/02/2024 09:56:00
+Site blocked: 127.0.0.1 www.tiktok.com at 07/02/2024 09:56:01
+Starting blockSites script at 07/02/2024 10:44:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: twitch.tv
+Attempting to block site: twitch.tv at 07/02/2024 10:44:01
+Site blocked: 127.0.0.1 twitch.tv at 07/02/2024 10:44:01
+Site blocked: 127.0.0.1 www.twitch.tv at 07/02/2024 10:44:01
+Starting blockSites script at 07/04/2024 08:57:01
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: s.com
+Attempting to block site: s.com at 07/04/2024 08:57:01
+Site blocked: 127.0.0.1 s.com at 07/04/2024 08:57:01
+Site blocked: 127.0.0.1 www.s.com at 07/04/2024 08:57:01
+Starting blockSites script at 07/05/2024 10:02:00
+Script directory: C:\Users\sow4w\Desktop\Swos\steellock
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Sites to block: tiktok.com
+Attempting to block site: tiktok.com at 07/05/2024 10:02:00
+Site is already blocked: 127.0.0.1 tiktok.com at 07/05/2024 10:02:00
+Site is already blocked: 127.0.0.1 www.tiktok.com at 07/05/2024 10:02:00

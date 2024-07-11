@@ -1,0 +1,468 @@
+Starting task setup for sites: @(facebook.com) at 07/05/2024 19:56:54
+Created actionBlockSites for sites: facebook.com
+Created actionUnblockSites for sites: facebook.com
+Initial days of week string: Friday
+Days of week array: Friday
+Created triggerBlock for sites: facebook.com at 19:58 on Friday
+Created triggerUnblock for sites: facebook.com at 8:4 on Friday
+Registered scheduled task for blocking sites: facebook.com
+Registered scheduled task for unblocking sites: facebook.com
+Scheduled tasks set up successfully for sites: facebook.com at 07/05/2024 19:56:56
+Starting task setup for sites: @(kio.com) at 07/05/2024 20:17:20
+Created actionBlockSites for sites: kio.com
+Created actionUnblockSites for sites: kio.com
+Initial days of week string: Friday
+Days of week array: Friday
+Created triggerBlock for sites: kio.com at 20:18 on Friday
+Created triggerUnblock for sites: kio.com at 20:20 on Friday
+Registered scheduled task for blocking sites: kio.com
+Registered scheduled task for unblocking sites: kio.com
+Scheduled tasks set up successfully for sites: kio.com at 07/05/2024 20:17:21
+Starting task setup for sites: @(amadou.be) at 07/05/2024 20:27:30
+Created actionBlockSites for sites: amadou.be
+Created actionUnblockSites for sites: amadou.be
+Initial days of week string: Friday
+Days of week array: Friday
+Created triggerBlock for sites: amadou.be at 20:18 on Friday
+Created triggerUnblock for sites: amadou.be at 8:20 on Friday
+Registered scheduled task for blocking sites: amadou.be
+Registered scheduled task for unblocking sites: amadou.be
+Scheduled tasks set up successfully for sites: amadou.be at 07/05/2024 20:27:31
+Starting task setup for sites: @(saikou.com) at 07/05/2024 20:29:23
+Created actionBlockSites for sites: saikou.com
+Created actionUnblockSites for sites: saikou.com
+Initial days of week string: Friday
+Days of week array: Friday
+Created triggerBlock for sites: saikou.com at 20:30 on Friday
+Created triggerUnblock for sites: saikou.com at 23:59 on Friday
+Registered scheduled task for blocking sites: saikou.com
+Registered scheduled task for unblocking sites: saikou.com
+Scheduled tasks set up successfully for sites: saikou.com at 07/05/2024 20:29:24
+Starting task setup for sites: @(oumou.com) at 07/05/2024 20:30:14
+Created actionBlockSites for sites: oumou.com
+Created actionUnblockSites for sites: oumou.com
+Initial days of week string: Friday
+Days of week array: Friday
+Created triggerBlock for sites: oumou.com at 20:33 on Friday
+Created triggerUnblock for sites: oumou.com at 20:36 on Friday
+Registered scheduled task for blocking sites: oumou.com
+Registered scheduled task for unblocking sites: oumou.com
+Scheduled tasks set up successfully for sites: oumou.com at 07/05/2024 20:30:14
+Starting task setup for sites: @(aicha.com) at 07/05/2024 20:42:24
+Created actionBlockSites for sites: aicha.com
+Created actionUnblockSites for sites: aicha.com
+Initial days of week string: Friday,Saturday
+Days of week array: Friday, Saturday
+Created triggerBlock for sites: aicha.com at 20:44 on Friday, Saturday
+Created triggerUnblock for sites: aicha.com at 20:50 on Friday, Saturday
+Registered scheduled task for blocking sites: aicha.com
+Registered scheduled task for unblocking sites: aicha.com
+Scheduled tasks set up successfully for sites: aicha.com at 07/05/2024 20:42:25
+Starting task setup for sites: @(amadou.com) at 07/05/2024 20:44:07
+Created actionBlockSites for sites: amadou.com
+Created actionUnblockSites for sites: amadou.com
+Initial days of week string: Friday,Saturday
+Days of week array: Friday, Saturday
+Created triggerBlock for sites: amadou.com at 20:46 on Friday, Saturday
+Created triggerUnblock for sites: amadou.com at 21:50 on Friday, Saturday
+Registered scheduled task for blocking sites: amadou.com
+Registered scheduled task for unblocking sites: amadou.com
+Scheduled tasks set up successfully for sites: amadou.com at 07/05/2024 20:44:08
+Starting task setup for sites: @(oumou1.com,oumou2.com) at 07/05/2024 20:55:56
+Created actionBlockSites for sites: oumou1.com,oumou2.com
+Created actionUnblockSites for sites: oumou1.com,oumou2.com
+Initial days of week string: Thursday
+Days of week array: Thursday
+Created triggerBlock for sites: oumou1.com,oumou2.com at 11:59 on Thursday
+Created triggerUnblock for sites: oumou1.com,oumou2.com at 22:58 on Thursday
+Registered scheduled task for blocking sites: oumou1.com,oumou2.com
+Registered scheduled task for unblocking sites: oumou1.com,oumou2.com
+Scheduled tasks set up successfully for sites: oumou1.com,oumou2.com at 07/05/2024 20:55:57
+Starting task setup for sites: @(t.com,e.com) at 07/05/2024 21:06:01
+Created actionBlockSites for sites: t.com,e.com
+Created actionUnblockSites for sites: t.com,e.com
+Initial days of week string: Thursday
+Days of week array: Thursday
+Created triggerBlock for sites: t.com,e.com at 9:7 on Thursday
+Created triggerUnblock for sites: t.com,e.com at 21:11 on Thursday
+Registered scheduled task for blocking sites: t.com,e.com
+Registered scheduled task for unblocking sites: t.com,e.com
+Scheduled tasks set up successfully for sites: t.com,e.com at 07/05/2024 21:06:02
+Starting task setup for sites: @(t.com,e.com) at 07/05/2024 21:07:58
+Created actionBlockSites for sites: t.com,e.com
+Created actionUnblockSites for sites: t.com,e.com
+Initial days of week string: Thursday
+Days of week array: Thursday
+Created triggerBlock for sites: t.com,e.com at 21:8 on Thursday
+Created triggerUnblock for sites: t.com,e.com at 21:11 on Thursday
+Registered scheduled task for blocking sites: t.com,e.com
+Registered scheduled task for unblocking sites: t.com,e.com
+Scheduled tasks set up successfully for sites: t.com,e.com at 07/05/2024 21:07:59
+Starting task setup for sites: @(t.com,e.com) at 07/05/2024 21:08:23
+Created actionBlockSites for sites: t.com,e.com
+Created actionUnblockSites for sites: t.com,e.com
+Initial days of week string: Thursday
+Days of week array: Thursday
+Created triggerUnblock for sites: t.com,e.com at 21:11 on Thursday
+Registered scheduled task for blocking sites: t.com,e.com
+Registered scheduled task for unblocking sites: t.com,e.com
+Scheduled tasks set up successfully for sites: t.com,e.com at 07/05/2024 21:08:24
+Starting task setup for sites: @(t.com,e.com) at 07/05/2024 21:10:59
+Created actionBlockSites for sites: t.com,e.com
+Created actionUnblockSites for sites: t.com,e.com
+Initial days of week string: Friday
+Days of week array: Friday
+Created triggerBlock for sites: t.com,e.com at 21:11 on Friday
+Created triggerUnblock for sites: t.com,e.com at 21:13 on Friday
+Registered scheduled task for blocking sites: t.com,e.com
+Registered scheduled task for unblocking sites: t.com,e.com
+Scheduled tasks set up successfully for sites: t.com,e.com at 07/05/2024 21:11:00
+Starting task setup for sites: @(t.com,e.com) at 07/05/2024 21:11:11
+Created actionBlockSites for sites: t.com,e.com
+Created actionUnblockSites for sites: t.com,e.com
+Initial days of week string: Friday
+Days of week array: Friday
+Created triggerBlock for sites: t.com,e.com at 21:12 on Friday
+Created triggerUnblock for sites: t.com,e.com at 21:15 on Friday
+Registered scheduled task for blocking sites: t.com,e.com
+Registered scheduled task for unblocking sites: t.com,e.com
+Scheduled tasks set up successfully for sites: t.com,e.com at 07/05/2024 21:11:11
+Starting task setup for sites: @(tiktok.com,facebook.com) at 07/05/2024 21:14:39
+Created actionBlockSites for sites: tiktok.com,facebook.com
+Created actionUnblockSites for sites: tiktok.com,facebook.com
+Initial days of week string: Friday
+Days of week array: Friday
+Created triggerBlock for sites: tiktok.com,facebook.com at 21:16 on Friday
+Created triggerUnblock for sites: tiktok.com,facebook.com at 21:18 on Friday
+Registered scheduled task for blocking sites: tiktok.com,facebook.com
+Registered scheduled task for unblocking sites: tiktok.com,facebook.com
+Scheduled tasks set up successfully for sites: tiktok.com,facebook.com at 07/05/2024 21:14:40
+Starting task setup for sites: youtube.com at 07/05/2024 22:25:59
+Created actionBlockSites for sites: youtube.com
+Created actionUnblockSites for sites: youtube.com
+Initial days of week string: Friday
+Days of week array: Friday
+Created triggerBlock for sites: youtube.com at 22:28 on Friday
+Created triggerUnblock for sites: youtube.com at 22:33 on Friday
+Registered scheduled task for blocking sites: youtube.com
+Registered scheduled task for unblocking sites: youtube.com
+Scheduled tasks set up successfully for sites: youtube.com at 07/05/2024 22:26:00
+Starting task setup for sites: @(x.com,snapchat.com) at 07/05/2024 22:44:16
+Created actionBlockSites for sites: x.com,snapchat.com
+Created actionUnblockSites for sites: x.com,snapchat.com
+Initial days of week string: Friday
+Days of week array: Friday
+Created triggerBlock for sites: x.com,snapchat.com at 22:46 on Friday
+Created triggerUnblock for sites: x.com,snapchat.com at 22:50 on Friday
+Registered scheduled task for blocking sites: x.com,snapchat.com
+Scheduled tasks set up successfully for sites: x.com,snapchat.com at 07/05/2024 22:44:17
+Starting task setup for sites: @(snap.com,chat.com) at 07/05/2024 23:04:11
+Created actionBlockSites for sites: snap.com,chat.com
+Created actionUnblockSites for sites: snap.com,chat.com
+Initial days of week string: Friday
+Days of week array: Friday
+Created triggerBlock for sites: snap.com,chat.com at 23:6 on Friday
+Created triggerUnblock for sites: snap.com,chat.com at 23:9 on Friday
+Registered scheduled task for blocking sites: snap.com,chat.com
+Registered scheduled task for unblocking sites: snap.com,chat.com
+Scheduled tasks set up successfully for sites: snap.com,chat.com at 07/05/2024 23:04:12
+Starting task setup for sites: @(twi.com,ter.com) at 07/05/2024 23:15:13
+Created actionBlockSites for sites: twi.com,ter.com
+Created actionUnblockSites for sites: twi.com,ter.com
+Initial days of week string: Friday
+Days of week array: Friday
+Created triggerBlock for sites: twi.com,ter.com at 23:17 on Friday
+Created triggerUnblock for sites: twi.com,ter.com at 23:20 on Friday
+Registered scheduled task for blocking sites: twi.com,ter.com
+Registered scheduled task for unblocking sites: twi.com,ter.com
+Scheduled tasks set up successfully for sites: twi.com,ter.com at 07/05/2024 23:15:14
+Starting task setup for sites: @(tiktok.com,youtube.com) at 07/05/2024 23:20:44
+Created actionBlockSites for sites: tiktok.com,youtube.com
+Created actionUnblockSites for sites: tiktok.com,youtube.com
+Initial days of week string: Friday
+Days of week array: Friday
+Created triggerBlock for sites: tiktok.com,youtube.com at 23:22 on Friday
+Created triggerUnblock for sites: tiktok.com,youtube.com at 23:26 on Friday
+Registered scheduled task for blocking sites: tiktok.com,youtube.com
+Registered scheduled task for unblocking sites: tiktok.com,youtube.com
+Scheduled tasks set up successfully for sites: tiktok.com,youtube.com at 07/05/2024 23:20:45
+Starting task setup for sites: @(twitch.tv,instagram.com) at 07/05/2024 23:49:18
+Created actionBlockSites for sites: twitch.tv,instagram.com
+Created actionUnblockSites for sites: twitch.tv,instagram.com
+Initial days of week string: Friday
+Days of week array: Friday
+Created triggerBlock for sites: twitch.tv,instagram.com at 23:51 on Friday
+Created triggerUnblock for sites: twitch.tv,instagram.com at 23:55 on Friday
+Registered scheduled task for blocking sites: twitch.tv,instagram.com
+Registered scheduled task for unblocking sites: twitch.tv,instagram.com
+Scheduled tasks set up successfully for sites: twitch.tv,instagram.com at 07/05/2024 23:49:19
+Starting task setup for sites: @(tiktok.com,instagram.com) at 07/06/2024 08:38:39
+Created actionBlockSites for sites: tiktok.com,instagram.com
+Created actionUnblockSites for sites: tiktok.com,instagram.com
+Initial days of week string: Saturday
+Days of week array: Saturday
+Created triggerBlock for sites: tiktok.com,instagram.com at 8:41 on Saturday
+Created triggerUnblock for sites: tiktok.com,instagram.com at 8:46 on Saturday
+Registered scheduled task for blocking sites: tiktok.com,instagram.com
+Registered scheduled task for unblocking sites: tiktok.com,instagram.com
+Scheduled tasks set up successfully for sites: tiktok.com,instagram.com at 07/06/2024 08:38:39
+Starting task setup for sites: @(facebook.com,instagram.com) at 07/06/2024 09:43:30
+Created actionBlockSites for sites: facebook.com,instagram.com
+Created actionUnblockSites for sites: facebook.com,instagram.com
+Initial days of week string: Saturday
+Days of week array: Saturday
+Created triggerBlock for sites: facebook.com,instagram.com at 9:45 on Saturday
+Created triggerUnblock for sites: facebook.com,instagram.com at 10:53 on Saturday
+Registered scheduled task for blocking sites: facebook.com,instagram.com
+Registered scheduled task for unblocking sites: facebook.com,instagram.com
+Scheduled tasks set up successfully for sites: facebook.com,instagram.com at 07/06/2024 09:43:30
+Starting task setup for sites: @(instagram.com,tiktok.com) at 07/06/2024 09:54:18
+Created actionBlockSites for sites: instagram.com,tiktok.com
+Created actionUnblockSites for sites: instagram.com,tiktok.com
+Initial days of week string: Saturday
+Days of week array: Saturday
+Created triggerBlock for sites: instagram.com,tiktok.com at 9:55 on Saturday
+Created triggerUnblock for sites: instagram.com,tiktok.com at 9:59 on Saturday
+Registered scheduled task for blocking sites: instagram.com,tiktok.com
+Registered scheduled task for unblocking sites: instagram.com,tiktok.com
+Scheduled tasks set up successfully for sites: instagram.com,tiktok.com at 07/06/2024 09:54:19
+Starting task setup for sites: @(instagram.com,youtube.com) at 07/06/2024 10:16:34
+Created actionBlockSites for sites: instagram.com,youtube.com
+Created actionUnblockSites for sites: instagram.com,youtube.com
+Initial days of week string: Saturday
+Days of week array: Saturday
+Created triggerBlock for sites: instagram.com,youtube.com at 10:18 on Saturday
+Created triggerUnblock for sites: instagram.com,youtube.com at 10:20 on Saturday
+Registered scheduled task for blocking sites: instagram.com,youtube.com
+Registered scheduled task for unblocking sites: instagram.com,youtube.com
+Scheduled tasks set up successfully for sites: instagram.com,youtube.com at 07/06/2024 10:16:35
+Starting task setup for sites: @(tiktok.com,instagram.com) at 07/06/2024 10:25:43
+Created actionBlockSites for sites: tiktok.com,instagram.com
+Created actionUnblockSites for sites: tiktok.com,instagram.com
+Initial days of week string: Saturday
+Days of week array: Saturday
+Created triggerBlock for sites: tiktok.com,instagram.com at 10:29 on Saturday
+Created triggerUnblock for sites: tiktok.com,instagram.com at 10:35 on Saturday
+Registered scheduled task for blocking sites: tiktok.com,instagram.com
+Registered scheduled task for unblocking sites: tiktok.com,instagram.com
+Scheduled tasks set up successfully for sites: tiktok.com,instagram.com at 07/06/2024 10:25:44
+Starting task setup for sites: @(k.com,p.com) at 07/06/2024 10:36:08
+Created actionBlockSites for sites: k.com,p.com
+Created actionUnblockSites for sites: k.com,p.com
+Initial days of week string: Saturday
+Days of week array: Saturday
+Created triggerBlock for sites: k.com,p.com at 10:38 on Saturday
+Created triggerUnblock for sites: k.com,p.com at 10:41 on Saturday
+Registered scheduled task for blocking sites: k.com,p.com
+Registered scheduled task for unblocking sites: k.com,p.com
+Scheduled tasks set up successfully for sites: k.com,p.com at 07/06/2024 10:36:08
+Starting task setup for sites: @(tiktok.com,snap.com) at 07/07/2024 07:59:13
+Created actionBlockSites for sites: tiktok.com,snap.com
+Created actionUnblockSites for sites: tiktok.com,snap.com
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for sites: tiktok.com,snap.com at 8:0 on Sunday
+Created triggerUnblock for sites: tiktok.com,snap.com at 8:4 on Sunday
+Registered scheduled task for blocking sites: tiktok.com,snap.com
+Registered scheduled task for unblocking sites: tiktok.com,snap.com
+Scheduled tasks set up successfully for sites: tiktok.com,snap.com at 07/07/2024 07:59:13
+Starting task setup for sites: @(instagram.com,facebook.com) at 07/07/2024 08:13:12
+Created actionBlockSites for sites: instagram.com,facebook.com
+Created actionUnblockSites for sites: instagram.com,facebook.com
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for sites: instagram.com,facebook.com at 8:14 on Sunday
+Created triggerUnblock for sites: instagram.com,facebook.com at 8:20 on Sunday
+Registered scheduled task for blocking sites: instagram.com,facebook.com
+Registered scheduled task for unblocking sites: instagram.com,facebook.com
+Scheduled tasks set up successfully for sites: instagram.com,facebook.com at 07/07/2024 08:13:13
+Starting task setup for sites: kp.com,www.kp.com,kl.com,www.kl.com at 07/07/2024 08:40:29
+Created actionBlockSites for sites: kp.com,www.kp.com,kl.com,www.kl.com
+Created actionUnblockSites for sites: kp.com,www.kp.com,kl.com,www.kl.com
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for sites: kp.com,www.kp.com,kl.com,www.kl.com at 8:42 on Sunday
+Created triggerUnblock for sites: kp.com,www.kp.com,kl.com,www.kl.com at 8:46 on Sunday
+Registered scheduled task for blocking sites: kp.com,www.kp.com,kl.com,www.kl.com
+Registered scheduled task for unblocking sites: kp.com,www.kp.com,kl.com,www.kl.com
+Scheduled tasks set up successfully for sites: kp.com,www.kp.com,kl.com,www.kl.com at 07/07/2024 08:40:30
+Starting task setup for sites: kp.com,www.kp.com,kl.com,www.kl.com at 07/07/2024 08:50:16
+Created actionBlockSites for sites: kp.com,www.kp.com,kl.com,www.kl.com
+Created actionUnblockSites for sites: kp.com,www.kp.com,kl.com,www.kl.com
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for sites: kp.com,www.kp.com,kl.com,www.kl.com at 8:52 on Sunday
+Created triggerUnblock for sites: kp.com,www.kp.com,kl.com,www.kl.com at 8:55 on Sunday
+Registered scheduled task for blocking sites: kp.com,www.kp.com,kl.com,www.kl.com
+Registered scheduled task for unblocking sites: kp.com,www.kp.com,kl.com,www.kl.com
+Scheduled tasks set up successfully for sites: kp.com,www.kp.com,kl.com,www.kl.com at 07/07/2024 08:50:16
+Starting task setup for sites: uk.com,www.uk.com,usa.com,www.usa.com at 07/07/2024 08:54:53
+Created actionBlockSites for sites: uk.com,www.uk.com,usa.com,www.usa.com
+Created actionUnblockSites for sites: uk.com,www.uk.com,usa.com,www.usa.com
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for sites: uk.com,www.uk.com,usa.com,www.usa.com at 8:56 on Sunday
+Created triggerUnblock for sites: uk.com,www.uk.com,usa.com,www.usa.com at 8:59 on Sunday
+Registered scheduled task for blocking sites: uk.com,www.uk.com,usa.com,www.usa.com
+Registered scheduled task for unblocking sites: uk.com,www.uk.com,usa.com,www.usa.com
+Scheduled tasks set up successfully for sites: uk.com,www.uk.com,usa.com,www.usa.com at 07/07/2024 08:54:54
+Starting task setup for sites: t.com,t.comkkk,l.com,l.comkkk at 07/07/2024 09:04:52
+Created actionBlockSites for sites: t.com,t.comkkk,l.com,l.comkkk
+Created actionUnblockSites for sites: t.com,t.comkkk,l.com,l.comkkk
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for sites: t.com,t.comkkk,l.com,l.comkkk at 9:6 on Sunday
+Created triggerUnblock for sites: t.com,t.comkkk,l.com,l.comkkk at 9:10 on Sunday
+Registered scheduled task for blocking sites: t.com,t.comkkk,l.com,l.comkkk
+Registered scheduled task for unblocking sites: t.com,t.comkkk,l.com,l.comkkk
+Scheduled tasks set up successfully for sites: t.com,t.comkkk,l.com,l.comkkk at 07/07/2024 09:04:52
+Starting task setup for sites: www.justine.com at 07/07/2024 09:07:57
+Created actionBlockSites for sites: www.justine.com
+Created actionUnblockSites for sites: www.justine.com
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for sites: www.justine.com at 9:9 on Sunday
+Created triggerUnblock for sites: www.justine.com at 9:12 on Sunday
+Registered scheduled task for blocking sites: www.justine.com
+Registered scheduled task for unblocking sites: www.justine.com
+Scheduled tasks set up successfully for sites: www.justine.com at 07/07/2024 09:07:58
+Starting task setup for sites: www.fatou.com,www.amadou.com,www.saikou.com at 07/07/2024 09:09:49
+Created actionBlockSites for sites: www.fatou.com,www.amadou.com,www.saikou.com
+Created actionUnblockSites for sites: www.fatou.com,www.amadou.com,www.saikou.com
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for sites: www.fatou.com,www.amadou.com,www.saikou.com at 9:13 on Sunday
+Created triggerUnblock for sites: www.fatou.com,www.amadou.com,www.saikou.com at 9:16 on Sunday
+Registered scheduled task for blocking sites: www.fatou.com,www.amadou.com,www.saikou.com
+Registered scheduled task for unblocking sites: www.fatou.com,www.amadou.com,www.saikou.com
+Scheduled tasks set up successfully for sites: www.fatou.com,www.amadou.com,www.saikou.com at 07/07/2024 09:09:50
+Starting task setup for sites: www.fatou.com,www.amadou.com,www.saikou.com at 07/07/2024 09:17:04
+Created actionBlockSites for sites: www.fatou.com,www.amadou.com,www.saikou.com
+Created actionUnblockSites for sites: www.fatou.com,www.amadou.com,www.saikou.com
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for sites: www.fatou.com,www.amadou.com,www.saikou.com at 9:18 on Sunday
+Created triggerUnblock for sites: www.fatou.com,www.amadou.com,www.saikou.com at 9:21 on Sunday
+Registered scheduled task for blocking sites: www.fatou.com,www.amadou.com,www.saikou.com
+Registered scheduled task for unblocking sites: www.fatou.com,www.amadou.com,www.saikou.com
+Scheduled tasks set up successfully for sites: www.fatou.com,www.amadou.com,www.saikou.com at 07/07/2024 09:17:04
+Starting task setup for site: www.papa.com at 07/07/2024 09:33:11
+Created actionBlockSite for site: www.papa.com
+Created actionUnblockSite for site: www.papa.com
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for site: www.papa.com at 9:35 on Sunday
+Created triggerUnblock for site: www.papa.com at 9:41 on Sunday
+Registered scheduled task for blocking site: www.papa.com
+Registered scheduled task for unblocking site: www.papa.com
+Scheduled tasks set up successfully for site: www.papa.com at 07/07/2024 09:33:12
+Starting task setup for site: www.maman.com at 07/07/2024 09:33:12
+Created actionBlockSite for site: www.maman.com
+Created actionUnblockSite for site: www.maman.com
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for site: www.maman.com at 9:35 on Sunday
+Created triggerUnblock for site: www.maman.com at 9:41 on Sunday
+Registered scheduled task for blocking site: www.maman.com
+Registered scheduled task for unblocking site: www.maman.com
+Scheduled tasks set up successfully for site: www.maman.com at 07/07/2024 09:33:13
+Starting task setup for site: www.facebook.com at 07/07/2024 16:35:10
+Created actionBlockSite for site: www.facebook.com
+Created actionUnblockSite for site: www.facebook.com
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for site: www.facebook.com at 16:38 on Sunday
+Created triggerUnblock for site: www.facebook.com at 16:44 on Sunday
+Registered scheduled task for blocking site: www.facebook.com
+Registered scheduled task for unblocking site: www.facebook.com
+Scheduled tasks set up successfully for site: www.facebook.com at 07/07/2024 16:35:11
+Starting task setup for site: www.tiktok.com at 07/07/2024 16:35:11
+Created actionBlockSite for site: www.tiktok.com
+Created actionUnblockSite for site: www.tiktok.com
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for site: www.tiktok.com at 16:38 on Sunday
+Created triggerUnblock for site: www.tiktok.com at 16:44 on Sunday
+Registered scheduled task for blocking site: www.tiktok.com
+Registered scheduled task for unblocking site: www.tiktok.com
+Scheduled tasks set up successfully for site: www.tiktok.com at 07/07/2024 16:35:12
+Starting task setup for site: www.facebook.com at 07/07/2024 16:47:20
+Created actionBlockSite for site: www.facebook.com
+Created actionUnblockSite for site: www.facebook.com
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for site: www.facebook.com at 16:49 on Sunday
+Created triggerUnblock for site: www.facebook.com at 16:53 on Sunday
+Registered scheduled task for blocking site: www.facebook.com
+Registered scheduled task for unblocking site: www.facebook.com
+Scheduled tasks set up successfully for site: www.facebook.com at 07/07/2024 16:47:20
+Starting task setup for site: www.tiktok.com at 07/07/2024 16:47:21
+Created actionBlockSite for site: www.tiktok.com
+Created actionUnblockSite for site: www.tiktok.com
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for site: www.tiktok.com at 16:49 on Sunday
+Created triggerUnblock for site: www.tiktok.com at 16:53 on Sunday
+Registered scheduled task for blocking site: www.tiktok.com
+Registered scheduled task for unblocking site: www.tiktok.com
+Scheduled tasks set up successfully for site: www.tiktok.com at 07/07/2024 16:47:22
+Starting task setup for site: www.tiktok.com at 07/07/2024 17:04:34
+Created actionBlockSite for site: www.tiktok.com
+Created actionUnblockSite for site: www.tiktok.com
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for site: www.tiktok.com at 17:6 on Sunday
+Created triggerUnblock for site: www.tiktok.com at 17:9 on Sunday
+Registered scheduled task for blocking site: www.tiktok.com
+Registered scheduled task for unblocking site: www.tiktok.com
+Scheduled tasks set up successfully for site: www.tiktok.com at 07/07/2024 17:04:34
+Starting task setup for site: www.facebook.com at 07/07/2024 17:04:49
+Created actionBlockSite for site: www.facebook.com
+Created actionUnblockSite for site: www.facebook.com
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for site: www.facebook.com at 17:6 on Sunday
+Created triggerUnblock for site: www.facebook.com at 17:17 on Sunday
+Registered scheduled task for blocking site: www.facebook.com
+Registered scheduled task for unblocking site: www.facebook.com
+Scheduled tasks set up successfully for site: www.facebook.com at 07/07/2024 17:04:49
+Starting task setup for site: www.snapchat.com at 07/07/2024 17:30:15
+Created actionBlockSite for site: www.snapchat.com
+Created actionUnblockSite for site: www.snapchat.com
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for site: www.snapchat.com at 17:32 on Sunday
+Created triggerUnblock for site: www.snapchat.com at 17:36 on Sunday
+Registered scheduled task for blocking site: www.snapchat.com
+Registered scheduled task for unblocking site: www.snapchat.com
+Scheduled tasks set up successfully for site: www.snapchat.com at 07/07/2024 17:30:16
+Starting task setup for site: www.tiktok.com at 07/07/2024 18:06:03
+Created actionBlockSite for site: www.tiktok.com
+Created actionUnblockSite for site: www.tiktok.com
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for site: www.tiktok.com at 18:7 on Sunday
+Created triggerUnblock for site: www.tiktok.com at 18:11 on Sunday
+Starting task setup for site: www.facebook.com at 07/07/2024 18:06:04
+Registered scheduled task for blocking site: www.tiktok.com
+Registered scheduled task for unblocking site: www.tiktok.com
+Scheduled tasks set up successfully for site: www.tiktok.com at 07/07/2024 18:06:04
+Created actionBlockSite for site: www.facebook.com
+Created actionUnblockSite for site: www.facebook.com
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for site: www.facebook.com at 18:7 on Sunday
+Created triggerUnblock for site: www.facebook.com at 18:11 on Sunday
+Registered scheduled task for blocking site: www.facebook.com
+Registered scheduled task for unblocking site: www.facebook.com
+Scheduled tasks set up successfully for site: www.facebook.com at 07/07/2024 18:06:04
+Starting task setup for site: www.tiktok.com at 07/07/2024 21:47:01
+Created actionBlockSite for site: www.tiktok.com
+Created actionUnblockSite for site: www.tiktok.com
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for site: www.tiktok.com at 10:3 on Sunday
+Created triggerUnblock for site: www.tiktok.com at 14:3 on Sunday
+Registered scheduled task for blocking site: www.tiktok.com
+Registered scheduled task for unblocking site: www.tiktok.com
+Scheduled tasks set up successfully for site: www.tiktok.com at 07/07/2024 21:47:01
