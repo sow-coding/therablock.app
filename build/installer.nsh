@@ -7,6 +7,11 @@
 !insertmacro MUI_UNPAGE_FINISH
 
 Section "CreateUninstaller"
+  ; Ensure the installation directory exists
+  IfFileExists "$INSTDIR\" "" 0
+  CreateDirectory "$INSTDIR"
+
+  ; Write the uninstaller
   WriteUninstaller "$INSTDIR\uninstall.exe"
 SectionEnd
 
