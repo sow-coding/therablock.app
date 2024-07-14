@@ -1,5 +1,8 @@
 !include "MUI2.nsh"
 
+; Request application privileges for Windows Vista and above
+RequestExecutionLevel admin
+
 ; Define uninstaller pages
 !insertmacro MUI_UNPAGE_WELCOME
 !insertmacro MUI_UNPAGE_CONFIRM
@@ -22,12 +25,15 @@ Section "Uninstall"
   ; Check if uninstallation was cancelled
   StrCmp $R2 1 cancelUninstall
 
+  ; Execute the PowerShell script to remove scheduled tasks and clear hosts file
+  ExecWait '"$SYSDIR\WindowsPowerShell\v1.0\powershell.exe" -ExecutionPolicy Bypass -File "$INSTDIR\resources\scripts\uninstall.ps1"'
+
   ; Proceed with actual uninstallation
   Delete "$DESKTOP\Therablock.lnk"
   RMDir /r "$INSTDIR"
   DeleteRegKey HKLM "Software\Therablock"
   DeleteRegKey HKCU "Software\Therablock"
-  MessageBox MB_OK "Therablock has been successfully removed from your computer."
+
   Return
 
 cancelUninstall:
@@ -38,7 +44,7 @@ SectionEnd
 
 Function un.OnConfirm
   StrCpy $R0 1
-  StrCpy $R1 1000
+  StrCpy $R1 3  ; For testing, set to 3 confirmations. Change to 1000 for production.
   StrCpy $R2 0  ; Variable to track cancellation
 
   Loop:

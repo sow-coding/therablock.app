@@ -3,3 +3,10 @@ Deleted scheduled task: MSFT_ScheduledTask (TaskName = "BlockSite_www.tiktok.com
 Deleted scheduled task: MSFT_ScheduledTask (TaskName = "UnblockSite_www.tiktok.com", TaskPath = "\").TaskName at 07/07/2024 21:49:48
 Cleared hosts file at 07/07/2024 21:49:48
 Completed uninstall script at 07/07/2024 21:49:48
+Starting uninstall script at 07/13/2024 16:14:09
+Deleted scheduled task: MSFT_ScheduledTask (TaskName = "BlockSite_www.snapchat.com", TaskPath = "\").TaskName at 07/13/2024 16:14:10
+Deleted scheduled task: MSFT_ScheduledTask (TaskName = "BlockSite_www.tiktok.com", TaskPath = "\").TaskName at 07/13/2024 16:14:11
+Deleted scheduled task: MSFT_ScheduledTask (TaskName = "UnblockSite_www.snapchat.com", TaskPath = "\").TaskName at 07/13/2024 16:14:12
+Deleted scheduled task: MSFT_ScheduledTask (TaskName = "UnblockSite_www.tiktok.com", TaskPath = "\").TaskName at 07/13/2024 16:14:12
+Cleared hosts file at 07/13/2024 16:14:12
+Completed uninstall script at 07/13/2024 16:14:12
