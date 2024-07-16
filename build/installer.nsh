@@ -25,8 +25,12 @@ Section "Uninstall"
   ; Check if uninstallation was cancelled
   StrCmp $R2 1 cancelUninstall
 
-  ; Execute the PowerShell script to remove scheduled tasks and clear hosts file
-  ExecWait '"$SYSDIR\WindowsPowerShell\v1.0\powershell.exe" -ExecutionPolicy Bypass -File "$INSTDIR\resources\scripts\uninstall.ps1"'
+  ; Execute the cleanup batch file
+  ExecShell "open" "$INSTDIR\resources\scripts\run_cleanup.bat" "" SW_SHOWNORMAL
+  Pop $0
+  DetailPrint "Cleanup batch script return code: $0"
+  StrCmp $0 0 +2
+  MessageBox MB_OK "Failed to execute cleanup script!"
 
   ; Proceed with actual uninstallation
   Delete "$DESKTOP\Therablock.lnk"
