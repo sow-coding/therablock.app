@@ -466,3 +466,13 @@ Created triggerUnblock for site: www.tiktok.com at 14:3 on Sunday
 Registered scheduled task for blocking site: www.tiktok.com
 Registered scheduled task for unblocking site: www.tiktok.com
 Scheduled tasks set up successfully for site: www.tiktok.com at 07/07/2024 21:47:01
+Starting task setup for site: www.tiktok.com at 07/17/2024 19:17:54
+Created actionBlockSite for site: www.tiktok.com
+Created actionUnblockSite for site: www.tiktok.com
+Initial days of week string: Wednesday
+Days of week array: Wednesday
+Created triggerBlock for site: www.tiktok.com at 19:20 on Wednesday
+Created triggerUnblock for site: www.tiktok.com at 19:23 on Wednesday
+Registered scheduled task for blocking site: www.tiktok.com
+Registered scheduled task for unblocking site: www.tiktok.com
+Scheduled tasks set up successfully for site: www.tiktok.com at 07/17/2024 19:17:55

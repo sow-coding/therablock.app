@@ -339,3 +339,116 @@ Removing entry: 127.0.0.1 www.facebook.com at 07/07/2024 18:10:50
 Checking line: 127.0.0.1 www.tiktok.com
 Nouveau fichier hosts: 127.0.0.1 www.tiktok.com
 Completed unblockSites script at 07/07/2024 18:10:50
+Starting unblockSites script at 07/17/2024 19:23:00
+Script directory: C:\Users\sow4w\Desktop\Swos\therablock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to unblock: www.tiktok.com
+Fichier hosts actuel: 127.0.0.1 www.tiktok.com
+Checking line: 127.0.0.1 www.tiktok.com
+Removing entry: 127.0.0.1 www.tiktok.com at 07/17/2024 19:23:00
+Nouveau fichier hosts: 
+Completed unblockSites script at 07/17/2024 19:23:01
+Starting unblockSites script at 07/17/2024 19:27:14
+Script directory: C:\Users\sow4w\Desktop\Swos\therablock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to unblock: www.facebook.com
+Fichier hosts actuel: 127.0.0.1 www.facebook.com`n127.0.0.1 www.tiktok.com
+Checking line: 127.0.0.1 www.facebook.com
+Removing entry: 127.0.0.1 www.facebook.com at 07/17/2024 19:27:14
+Checking line: 127.0.0.1 www.tiktok.com
+Nouveau fichier hosts: 127.0.0.1 www.tiktok.com
+Completed unblockSites script at 07/17/2024 19:27:14
+Starting unblockSites script at 07/17/2024 19:33:03
+Script directory: C:\Users\sow4w\Desktop\Swos\therablock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to unblock: www.tiktok.com
+Fichier hosts actuel: 127.0.0.1 www.tiktok.com`n127.0.0.1 www.facebook.com
+Checking line: 127.0.0.1 www.tiktok.com
+Removing entry: 127.0.0.1 www.tiktok.com at 07/17/2024 19:33:03
+Checking line: 127.0.0.1 www.facebook.com
+Nouveau fichier hosts: 127.0.0.1 www.facebook.com
+Completed unblockSites script at 07/17/2024 19:33:03
+Starting unblockSites script at 07/17/2024 19:34:09
+Script directory: C:\Users\sow4w\Desktop\Swos\therablock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to unblock: www.tiktok.com
+Fichier hosts actuel: 127.0.0.1 www.facebook.com`n127.0.0.1 www.tiktok.com
+Checking line: 127.0.0.1 www.facebook.com
+Checking line: 127.0.0.1 www.tiktok.com
+Removing entry: 127.0.0.1 www.tiktok.com at 07/17/2024 19:34:09
+Nouveau fichier hosts: 127.0.0.1 www.facebook.com
+Completed unblockSites script at 07/17/2024 19:34:10
+Starting unblockSites script at 07/17/2024 19:37:22
+Script directory: C:\Users\sow4w\Desktop\Swos\therablock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to unblock: www.tiktok.com
+Fichier hosts actuel: 127.0.0.1 www.tiktok.com`n127.0.0.1 www.facebook.com
+Checking line: 127.0.0.1 www.tiktok.com
+Removing entry: 127.0.0.1 www.tiktok.com at 07/17/2024 19:37:22
+Checking line: 127.0.0.1 www.facebook.com
+Nouveau fichier hosts: 127.0.0.1 www.facebook.com
+Completed unblockSites script at 07/17/2024 19:37:22
+Starting unblockSites script at 07/17/2024 19:44:28
+Script directory: C:\Users\sow4w\Desktop\Swos\therablock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to unblock: www.facebook.com
+Fichier hosts actuel: 127.0.0.1 www.tiktok.com`n127.0.0.1 www.facebook.com`n127.0.0.1 www.twiter.com
+Checking line: 127.0.0.1 www.tiktok.com
+Checking line: 127.0.0.1 www.facebook.com
+Removing entry: 127.0.0.1 www.facebook.com at 07/17/2024 19:44:28
+Checking line: 127.0.0.1 www.twiter.com
+Nouveau fichier hosts: 127.0.0.1 www.tiktok.com`n127.0.0.1 www.twiter.com
+Completed unblockSites script at 07/17/2024 19:44:29
+Starting unblockSites script at 07/17/2024 19:50:22
+Script directory: C:\Users\sow4w\Desktop\Swos\therablock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to unblock: www.tiktok.com
+Fichier hosts actuel: 127.0.0.1 www.tiktok.com`n127.0.0.1 www.facebook.com`n127.0.0.1 www.twitter.com
+Checking line: 127.0.0.1 www.tiktok.com
+Removing entry: 127.0.0.1 www.tiktok.com at 07/17/2024 19:50:22
+Checking line: 127.0.0.1 www.facebook.com
+Checking line: 127.0.0.1 www.twitter.com
+Nouveau fichier hosts: 127.0.0.1 www.facebook.com`n127.0.0.1 www.twitter.com
+Writing to hosts file...
+Successfully wrote to hosts file.
+Completed unblockSites script at 07/17/2024 19:50:23
+Starting unblockSites script at 07/17/2024 19:55:44
+Script directory: C:\Users\sow4w\Desktop\Swos\therablock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to unblock: www.tiktok.com
+Fichier hosts actuel: 127.0.0.1 www.tiktok.com`n127.0.0.1 www.facebook.com`n127.0.0.1 www.twitter.com
+Checking line: 127.0.0.1 www.tiktok.com
+Removing entry: 127.0.0.1 www.tiktok.com at 07/17/2024 19:55:44
+Checking line: 127.0.0.1 www.facebook.com
+Checking line: 127.0.0.1 www.twitter.com
+Nouveau fichier hosts: 127.0.0.1 www.facebook.com`n127.0.0.1 www.twitter.com
+Writing to hosts file...
+Successfully wrote to hosts file.
+Completed unblockSites script at 07/17/2024 19:55:44
+Starting unblockSites script at 07/17/2024 20:01:49
+Script directory: C:\Users\sow4w\Desktop\Swos\therablock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to unblock: www.tiktok.com
+Fichier hosts actuel: 127.0.0.1 www.tiktok.com`n127.0.0.1 www.facebook.com`n127.0.0.1 www.snapchat.com
+Checking line: 127.0.0.1 www.tiktok.com
+Removing entry: 127.0.0.1 www.tiktok.com at 07/17/2024 20:01:49
+Checking line: 127.0.0.1 www.facebook.com
+Checking line: 127.0.0.1 www.snapchat.com
+Nouveau fichier hosts: 127.0.0.1 www.facebook.com`n127.0.0.1 www.snapchat.com
+Type de newHostsContent: System.Object[]
+Writing to hosts file...
+Successfully wrote to hosts file.
+Completed unblockSites script at 07/17/2024 20:01:49
+Starting unblockSites script at 07/17/2024 20:12:27
+Script directory: C:\Users\sow4w\Desktop\Swos\therablock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to unblock: www.snapchat.com
+Fichier hosts actuel: 127.0.0.1 www.snapchat.com`n127.0.0.1 www.facebook.com`n127.0.0.1 www.tiktok.com
+Checking line: 127.0.0.1 www.snapchat.com
+Removing entry: 127.0.0.1 www.snapchat.com at 07/17/2024 20:12:27
+Checking line: 127.0.0.1 www.facebook.com
+Checking line: 127.0.0.1 www.tiktok.com
+Nouveau fichier hosts: 127.0.0.1 www.facebook.com`n127.0.0.1 www.tiktok.com
+Writing to hosts file...
+Successfully wrote to hosts file.
+Completed unblockSites script at 07/17/2024 20:12:27

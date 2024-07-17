@@ -39,10 +39,13 @@ try {
     Add-Content -Path $logPath -Value "Nouveau fichier hosts: $($newHostsContent -join '`n')"
 
     # Écrire le nouveau contenu dans le fichier hosts
-    Clear-Content $hostsPath
-    Add-Content -Path $hostsPath -Value ($newHostsContent -join "`n")
+    Add-Content -Path $logPath -Value "Writing to hosts file..."
+    $newHostsContent | Out-File -FilePath $hostsPath -Encoding ASCII -Force
+    Add-Content -Path $logPath -Value "Successfully wrote to hosts file."
+    
     ipconfig /flushdns
     Add-Content -Path $logPath -Value "Completed unblockSites script at $(Get-Date)"
 } catch {
     Add-Content -Path $logPath -Value "Error removing site from hosts file: $_ at $(Get-Date)"
+    Write-Error "Error: $_"
 }
