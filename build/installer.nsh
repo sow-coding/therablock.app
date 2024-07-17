@@ -30,7 +30,7 @@ Section "Uninstall"
   Pop $0
   DetailPrint "Cleanup batch script return code: $0"
   StrCmp $0 0 +2
-  MessageBox MB_OK "Failed to execute cleanup script!"
+  MessageBox MB_OK "A window opens, please grant the necessary permissions"
 
   ; Proceed with actual uninstallation
   Delete "$DESKTOP\Therablock.lnk"
