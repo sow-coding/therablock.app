@@ -476,3 +476,113 @@ Created triggerUnblock for site: www.tiktok.com at 19:23 on Wednesday
 Registered scheduled task for blocking site: www.tiktok.com
 Registered scheduled task for unblocking site: www.tiktok.com
 Scheduled tasks set up successfully for site: www.tiktok.com at 07/17/2024 19:17:55
+Starting task setup for site: www.x.com at 07/17/2024 20:28:06
+Created actionBlockSite for site: www.x.com
+Created actionUnblockSite for site: www.x.com
+Initial days of week string: Friday
+Days of week array: Friday
+Created triggerBlock for site: www.x.com at 9:0 on Friday
+Created triggerUnblock for site: www.x.com at 11:5 on Friday
+Registered scheduled task for blocking site: www.x.com
+Registered scheduled task for unblocking site: www.x.com
+Scheduled tasks set up successfully for site: www.x.com at 07/17/2024 20:28:07
+Starting task setup for site: www.x.com at 07/17/2024 20:33:51
+Created actionBlockSite for site: www.x.com
+Created actionUnblockSite for site: www.x.com
+Initial days of week string: Wednesday
+Days of week array: Wednesday
+Created triggerBlock for site: www.x.com at 20:37 on Wednesday
+Created triggerUnblock for site: www.x.com at 8:41 on Wednesday
+Registered scheduled task for blocking site: www.x.com
+Registered scheduled task for unblocking site: www.x.com
+Scheduled tasks set up successfully for site: www.x.com at 07/17/2024 20:33:52
+Starting task setup for site: www.x.com at 07/17/2024 20:34:44
+Created actionBlockSite for site: www.x.com
+Created actionUnblockSite for site: www.x.com
+Initial days of week string: Wednesday
+Days of week array: Wednesday
+Created triggerBlock for site: www.x.com at 20:45 on Wednesday
+Created triggerUnblock for site: www.x.com at 8:49 on Wednesday
+Registered scheduled task for blocking site: www.x.com
+Registered scheduled task for unblocking site: www.x.com
+Scheduled tasks set up successfully for site: www.x.com at 07/17/2024 20:34:45
+Starting task setup for site: www.x.com at 07/17/2024 20:35:51
+Created actionBlockSite for site: www.x.com
+Created actionUnblockSite for site: www.x.com
+Initial days of week string: Wednesday
+Days of week array: Wednesday
+Created triggerBlock for site: www.x.com at 20:40 on Wednesday
+Created triggerUnblock for site: www.x.com at 20:45 on Wednesday
+Registered scheduled task for blocking site: www.x.com
+Registered scheduled task for unblocking site: www.x.com
+Scheduled tasks set up successfully for site: www.x.com at 07/17/2024 20:35:51
+Starting task setup for site: www.x.com at 07/17/2024 20:36:06
+Created actionBlockSite for site: www.x.com
+Created actionUnblockSite for site: www.x.com
+Initial days of week string: Wednesday
+Days of week array: Wednesday
+Created triggerBlock for site: www.x.com at 20:49 on Wednesday
+Created triggerUnblock for site: www.x.com at 20:54 on Wednesday
+Registered scheduled task for blocking site: www.x.com
+Registered scheduled task for unblocking site: www.x.com
+Scheduled tasks set up successfully for site: www.x.com at 07/17/2024 20:36:06
+Starting task setup for site: www.tiktok.com at 07/17/2024 21:06:54
+Created actionBlockSite for site: www.tiktok.com
+Created actionUnblockSite for site: www.tiktok.com
+Initial days of week string: Thursday
+Days of week array: Thursday
+Created triggerBlock for site: www.tiktok.com at 7:0 on Thursday
+Created triggerUnblock for site: www.tiktok.com at 9:0 on Thursday
+Registered scheduled task for blocking site: www.tiktok.com with task name: BlockSite_20240717210655
+Registered scheduled task for unblocking site: www.tiktok.com with task name: UnblockSite_20240717210655
+Scheduled tasks set up successfully for site: www.tiktok.com at 07/17/2024 21:06:55
+Starting task setup for site: www.tiktok.com at 07/17/2024 21:07:07
+Created actionBlockSite for site: www.tiktok.com
+Created actionUnblockSite for site: www.tiktok.com
+Initial days of week string: Thursday
+Days of week array: Thursday
+Created triggerBlock for site: www.tiktok.com at 10:0 on Thursday
+Created triggerUnblock for site: www.tiktok.com at 0:0 on Thursday
+Registered scheduled task for blocking site: www.tiktok.com with task name: BlockSite_20240717210707
+Registered scheduled task for unblocking site: www.tiktok.com with task name: UnblockSite_20240717210707
+Scheduled tasks set up successfully for site: www.tiktok.com at 07/17/2024 21:07:07
+Starting task setup for site: www.tiktok.com at 07/18/2024 07:57:54
+Created actionBlockSite for site: www.tiktok.com
+Created actionUnblockSite for site: www.tiktok.com
+Initial days of week string: Wednesday
+Days of week array: Wednesday
+Created triggerBlock for site: www.tiktok.com at 7:0 on Wednesday
+Created triggerUnblock for site: www.tiktok.com at 9:0 on Wednesday
+Registered scheduled task for blocking site: www.tiktok.com with task name: BlockSite_20240718075755_www.tiktok.com
+Registered scheduled task for unblocking site: www.tiktok.com with task name: UnblockSite_20240718075755_www.tiktok.com
+Scheduled tasks set up successfully for site: www.tiktok.com at 07/18/2024 07:57:56
+Starting task setup for site: www.tiktok.com at 07/18/2024 07:58:02
+Created actionBlockSite for site: www.tiktok.com
+Created actionUnblockSite for site: www.tiktok.com
+Initial days of week string: Wednesday
+Days of week array: Wednesday
+Created triggerBlock for site: www.tiktok.com at 10:0 on Wednesday
+Created triggerUnblock for site: www.tiktok.com at 0:0 on Wednesday
+Registered scheduled task for blocking site: www.tiktok.com with task name: BlockSite_20240718075803_www.tiktok.com
+Registered scheduled task for unblocking site: www.tiktok.com with task name: UnblockSite_20240718075803_www.tiktok.com
+Scheduled tasks set up successfully for site: www.tiktok.com at 07/18/2024 07:58:03
+Starting task setup for site: www.tiktok.com at 07/18/2024 08:05:00
+Created actionBlockSite for site: www.tiktok.com
+Created actionUnblockSite for site: www.tiktok.com
+Initial days of week string: Wednesday
+Days of week array: Wednesday
+Created triggerBlock for site: www.tiktok.com at 7:0 on Wednesday
+Created triggerUnblock for site: www.tiktok.com at 9:0 on Wednesday
+Registered scheduled task for blocking site: www.tiktok.com with task name: BlockSite_20240718080500_www.tiktok.com
+Registered scheduled task for unblocking site: www.tiktok.com with task name: UnblockSite_20240718080500_www.tiktok.com
+Scheduled tasks set up successfully for site: www.tiktok.com at 07/18/2024 08:05:01
+Starting task setup for site: www.tiktok.com at 07/18/2024 08:05:23
+Created actionBlockSite for site: www.tiktok.com
+Created actionUnblockSite for site: www.tiktok.com
+Initial days of week string: Wednesday
+Days of week array: Wednesday
+Created triggerBlock for site: www.tiktok.com at 10:0 on Wednesday
+Created triggerUnblock for site: www.tiktok.com at 0:0 on Wednesday
+Registered scheduled task for blocking site: www.tiktok.com with task name: BlockSite_20240718080524_www.tiktok.com
+Registered scheduled task for unblocking site: www.tiktok.com with task name: UnblockSite_20240718080524_www.tiktok.com
+Scheduled tasks set up successfully for site: www.tiktok.com at 07/18/2024 08:05:24

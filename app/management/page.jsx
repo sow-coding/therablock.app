@@ -114,27 +114,32 @@ export default function TaskManagement() {
 
   const combineTasks = (taskList) => {
     const combinedTasks = {};
-
+  
     taskList.forEach(task => {
-      const siteName = task.TaskName.split('_')[1];
-      if (!combinedTasks[siteName]) {
-        combinedTasks[siteName] = { name: siteName, daysOfWeek: '', start: null, end: null };
+      // Extraire la date et le nom du site du nom de la tâche
+      const parts = task.TaskName.split('_');
+      const timestamp = parts[1];
+      const siteName = parts.slice(2).join('_'); // Inclut toutes les parties après le deuxième underscore
+      const key = `${timestamp}_${siteName}`; // Utiliser timestamp_siteName comme clé unique
+  
+      if (!combinedTasks[key]) {
+        combinedTasks[key] = { name: siteName, daysOfWeek: '', start: null, end: null, timestamp: timestamp };
       }
-
+  
       const formattedDays = Array.isArray(task.Triggers.DaysOfWeek) ? task.Triggers.DaysOfWeek.join(', ') : task.Triggers.DaysOfWeek;
-
+  
       if (task.TaskName.startsWith('BlockSite')) {
-        combinedTasks[siteName].start = task.Triggers.StartBoundary;
-        combinedTasks[siteName].daysOfWeek = formattedDays;
+        combinedTasks[key].start = task.Triggers.StartBoundary;
+        combinedTasks[key].daysOfWeek = formattedDays;
       } else if (task.TaskName.startsWith('UnblockSite')) {
-        combinedTasks[siteName].end = task.Triggers.StartBoundary;
-        combinedTasks[siteName].daysOfWeek = formattedDays;
+        combinedTasks[key].end = task.Triggers.StartBoundary;
+        combinedTasks[key].daysOfWeek = formattedDays;
       }
     });
-
+  
     return Object.values(combinedTasks);
   };
-
+  
   const formatTime = (dateString) => {
     const date = new Date(dateString);
     return date.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });

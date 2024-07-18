@@ -1175,3 +1175,10 @@ Site to block: www.tiktok.com
 Adding entry: 127.0.0.1 www.tiktok.com
 Site blocked: 127.0.0.1 www.tiktok.com at 07/17/2024 20:12:14
 Completed blockSites script at 07/17/2024 20:12:14
+Starting blockSites script at 07/17/2024 20:49:00
+Script directory: C:\Users\sow4w\Desktop\Swos\therablock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to block: www.x.com
+Adding entry: 127.0.0.1 www.x.com
+Site blocked: 127.0.0.1 www.x.com at 07/17/2024 20:49:00
+Completed blockSites script at 07/17/2024 20:49:00

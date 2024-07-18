@@ -452,3 +452,16 @@ Nouveau fichier hosts: 127.0.0.1 www.facebook.com`n127.0.0.1 www.tiktok.com
 Writing to hosts file...
 Successfully wrote to hosts file.
 Completed unblockSites script at 07/17/2024 20:12:27
+Starting unblockSites script at 07/17/2024 20:54:00
+Script directory: C:\Users\sow4w\Desktop\Swos\therablock\scripts
+Hosts path: C:\Windows\System32\drivers\etc\hosts
+Site to unblock: www.x.com
+Fichier hosts actuel: 127.0.0.1 www.facebook.com`n127.0.0.1 www.tiktok.com`n127.0.0.1 www.x.com
+Checking line: 127.0.0.1 www.facebook.com
+Checking line: 127.0.0.1 www.tiktok.com
+Checking line: 127.0.0.1 www.x.com
+Removing entry: 127.0.0.1 www.x.com at 07/17/2024 20:54:00
+Nouveau fichier hosts: 127.0.0.1 www.facebook.com`n127.0.0.1 www.tiktok.com
+Writing to hosts file...
+Successfully wrote to hosts file.
+Completed unblockSites script at 07/17/2024 20:54:00

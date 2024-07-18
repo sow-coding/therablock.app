@@ -78,13 +78,18 @@ try {
 
     $principal = New-ScheduledTaskPrincipal -UserId "SYSTEM" -LogonType ServiceAccount -RunLevel Highest
 
+    # Générer un identifiant unique pour chaque tâche avec la date et le nom du site
+    $timestamp = (Get-Date).ToString("yyyyMMddHHmmss")
+    $taskNameBlock = "BlockSite_${timestamp}_$site"
+    $taskNameUnblock = "UnblockSite_${timestamp}_$site"
+
     $taskBlockSite = New-ScheduledTask -Action $actionBlockSite -Trigger $triggerBlock -Principal $principal -Settings (New-ScheduledTaskSettingsSet -AllowStartIfOnBatteries -DontStopIfGoingOnBatteries)
-    Register-ScheduledTask -TaskName "BlockSite_$site" -InputObject $taskBlockSite -Force
-    Add-Content -Path $logPath -Value "Registered scheduled task for blocking site: $site"
+    Register-ScheduledTask -TaskName $taskNameBlock -InputObject $taskBlockSite -Force
+    Add-Content -Path $logPath -Value "Registered scheduled task for blocking site: $site with task name: $taskNameBlock"
 
     $taskUnblockSite = New-ScheduledTask -Action $actionUnblockSite -Trigger $triggerUnblock -Principal $principal -Settings (New-ScheduledTaskSettingsSet -AllowStartIfOnBatteries -DontStopIfGoingOnBatteries)
-    Register-ScheduledTask -TaskName "UnblockSite_$site" -InputObject $taskUnblockSite -Force
-    Add-Content -Path $logPath -Value "Registered scheduled task for unblocking site: $site"
+    Register-ScheduledTask -TaskName $taskNameUnblock -InputObject $taskUnblockSite -Force
+    Add-Content -Path $logPath -Value "Registered scheduled task for unblocking site: $site with task name: $taskNameUnblock"
 
     Write-Output "Scheduled tasks set up successfully for site: $site"
     Add-Content -Path $logPath -Value "Scheduled tasks set up successfully for site: $site at $(Get-Date)"

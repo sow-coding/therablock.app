@@ -1,5 +1,6 @@
-$logDir = "C:\Users\sow4w\Desktop\Swos\steellock"
-$logPath = "$logDir\getScheduledTasks.log"
+$logDir = "C:\Users\sow4w\Desktop\Swos\therablock\scripts"
+$scriptDirectory = Split-Path -Parent $MyInvocation.MyCommand.Definition
+$logPath = "$scriptDirectory\logs\getScheduledTasks.log"
 
 # Assurez-vous que le répertoire de log existe
 if (-not (Test-Path -Path $logDir)) {
@@ -44,6 +45,10 @@ try {
     $taskList = @()
 
     foreach ($task in $tasks) {
+        # Extraire le nom du site en prenant en compte le nouveau format de nom de tâche
+        $taskNameParts = $task.TaskName -split '_'
+        $siteName = $taskNameParts[2]
+
         $triggers = $task.Triggers | ForEach-Object {
             @{
                 StartBoundary = $_.StartBoundary
@@ -54,6 +59,7 @@ try {
         
         $taskDetails = @{
             TaskName = $task.TaskName
+            SiteName = $siteName
             State = $task.State
             Actions = ($task.Actions | ForEach-Object { $_.Execute })
             Triggers = $triggers
