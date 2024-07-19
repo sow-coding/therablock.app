@@ -82,3 +82,4 @@ try {
 }
 
 Add-Content -Path $logPath -Value "Script ended at $(Get-Date)"
+

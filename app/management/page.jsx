@@ -67,6 +67,7 @@ import {
 } from "@/components/ui/tooltip"
 import { useEffect, useState } from "react"
 import { useRouter } from "next/navigation"
+import {EditDaysMultipleSelection} from "@/components/nextui/editDaysMultipleSelection"
 
 export default function TaskManagement() {
   const [tasks, setTasks] = useState([]);
@@ -83,6 +84,7 @@ export default function TaskManagement() {
   const [isRisky, setIsRisky] = useState(false)
   const [moreOrNothing, setMoreOrNothing] = useState(false)
   const router = useRouter()
+  const [daysOfWeekArray, setDaysOfWeekArray] = useState([])
 
   useEffect(() => {
     loadTasks();
@@ -123,7 +125,7 @@ export default function TaskManagement() {
       const key = `${timestamp}_${siteName}`; // Utiliser timestamp_siteName comme clé unique
   
       if (!combinedTasks[key]) {
-        combinedTasks[key] = { name: siteName, daysOfWeek: '', start: null, end: null, timestamp: timestamp };
+        combinedTasks[key] = {  taskName: key, name: siteName, daysOfWeek: '', start: null, end: null, timestamp: timestamp };
       }
   
       const formattedDays = Array.isArray(task.Triggers.DaysOfWeek) ? task.Triggers.DaysOfWeek.join(', ') : task.Triggers.DaysOfWeek;
@@ -152,10 +154,10 @@ export default function TaskManagement() {
     setNewEnd(task.end ? formatTime(task.end) : '');
   };
 
-  const getOriginalTaskNames = (siteName) => {
+  const getOriginalTaskNames = (taskName) => {
     return {
-      blockTaskName: `BlockSite_${siteName}`,
-      unblockTaskName: `UnblockSite_${siteName}`
+      blockTaskName: `BlockSite_${taskName}`,
+      unblockTaskName: `UnblockSite_${taskName}`
     };
   };
 
@@ -189,10 +191,10 @@ export default function TaskManagement() {
       daysOfWeek: newDays.join(', '),
       start: { hour: startHour, minute: startMinute },
       end: { hour: endHour, minute: endMinute },
-      sites: [editingTask.name]
+      site: [editingTask.name]
     };
   
-    const originalTaskNames = getOriginalTaskNames(editingTask.name);
+    const originalTaskNames = getOriginalTaskNames(editingTask.taskName);
 
     window.electronAPI.updateTask(originalTaskNames, newTask);
     setEditingTask(null);
@@ -392,7 +394,7 @@ export default function TaskManagement() {
                   <div>
                     <label htmlFor="daysOfWeek" className="block text-sm font-medium text-gray-700">Days of Week</label>
                     {/* changer ici c'est pas readonly c'est juste que les jours deja pris seront inselectionnable nextUI component */}
-                    <Input type="text" id="daysOfWeek" value={newDays.join(', ')} readOnly />
+                    <EditDaysMultipleSelection setDaysOfWeek={setDaysOfWeekArray} disabledItems={newDays}/>
                   </div>
                   <div>
                     <label htmlFor="newStart" className="block text-sm font-medium text-gray-700">Start Time</label>

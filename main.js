@@ -123,7 +123,11 @@ ipcMain.on('update-task', (event, { oldTask, newTask }) => {
         return;
       }
 
-      const setupCommand = `powershell -File "${path.join(scriptDirectory, 'setupTasks.ps1')}" -sites @(${newTask.sites.map(site => `"${site}"`).join(',')}) -startHour ${newTask.start.hour} -startMinute ${newTask.start.minute} -endHour ${newTask.end.hour} -endMinute ${newTask.end.minute} -daysOfWeek "${newTask.daysOfWeek}"`;
+      const scriptDirectory = app.isPackaged
+      ? path.join(process.resourcesPath, 'scripts')
+      : path.join(__dirname, 'scripts');
+
+      const setupCommand = `powershell -File "${path.join(scriptDirectory, 'setupTasks.ps1')}" -site ${newTask.site} -startHour ${newTask.start.hour} -startMinute ${newTask.start.minute} -endHour ${newTask.end.hour} -endMinute ${newTask.end.minute} -daysOfWeek "${newTask.daysOfWeek}"`;
 
       log.info(`Setting up new task with command: ${setupCommand}`);
 
