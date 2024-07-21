@@ -1,4 +1,4 @@
-const { app, BrowserWindow, ipcMain, dialog } = require('electron');
+const { app, BrowserWindow, ipcMain, dialog, Menu } = require('electron');
 const path = require('path');
 const sudo = require('sudo-prompt');
 const log = require('electron-log');
@@ -21,6 +21,7 @@ function createWindow() {
       contextIsolation: true,
     }
   });
+  //Menu.setApplicationMenu(null);
 
   if (app.isPackaged) {
     win.loadURL("https://therablock.app/home");

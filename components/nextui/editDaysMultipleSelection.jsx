@@ -5,11 +5,11 @@ import {days} from "./days";
 
 export function EditDaysMultipleSelection ({setDaysOfWeek, disabledItems}) {
   const [values, setValues] = useState(new Set([]));
-
+  
   useEffect(() => {
     const selectedDays = Array.from(values);
-    setDaysOfWeek(selectedDays)
-  }, [values, setDaysOfWeek]);
+    setDaysOfWeek([disabledItems, selectedDays])
+  }, [values, setDaysOfWeek, disabledItems]);
 
   return (
     <Select

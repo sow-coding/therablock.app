@@ -181,14 +181,14 @@ export default function TaskManagement() {
     const oldDuration = oldEnd - oldStart;
     const newDuration = newEndDate - newStartDate;
   
-    if (newDuration <= oldDuration) {
+    if (newDuration < oldDuration) {
       setMoreOrNothing(true)
       return;
     }
   
     const newTask = {
       ...editingTask,
-      daysOfWeek: newDays.join(', '),
+      daysOfWeek: daysOfWeekArray.join(', '),
       start: { hour: startHour, minute: startMinute },
       end: { hour: endHour, minute: endMinute },
       site: [editingTask.name]
