@@ -254,3 +254,11 @@ Script ended at 07/19/2024 21:02:38
 Tasks found: 2
 JSON Output: [{"TaskName":"BlockSite_20240719205425_@(@(www.tiktok.com))","Triggers":{"DaysOfWeek":"Friday, Wednesday, Thursday","EndBoundary":null,"StartBoundary":"2024-07-19T09:00:00+02:00"},"Actions":"powershell.exe","SiteName":"@(@(www.tiktok.com))","State":3},{"TaskName":"UnblockSite_20240719205425_@(@(www.tiktok.com))","Triggers":{"DaysOfWeek":"Friday, Wednesday, Thursday","EndBoundary":null,"StartBoundary":"2024-07-19T00:00:00+02:00"},"Actions":"powershell.exe","SiteName":"@(@(www.tiktok.com))","State":3}]
 Script ended at 07/19/2024 21:02:38
+Script started at 07/21/2024 20:16:43
+Script started at 07/21/2024 20:16:44
+Tasks found: 2
+JSON Output: [{"TaskName":"BlockSite_20240721200021_www.facebook.com","Triggers":{"DaysOfWeek":"Thursday","EndBoundary":null,"StartBoundary":"2024-07-21T01:59:00+02:00"},"Actions":"powershell.exe","SiteName":"www.facebook.com","State":3},{"TaskName":"UnblockSite_20240721200021_www.facebook.com","Triggers":{"DaysOfWeek":"Thursday","EndBoundary":null,"StartBoundary":"2024-07-21T00:00:00+02:00"},"Actions":"powershell.exe","SiteName":"www.facebook.com","State":3}]
+Script ended at 07/21/2024 20:16:45
+Tasks found: 2
+JSON Output: [{"TaskName":"BlockSite_20240721200021_www.facebook.com","Triggers":{"DaysOfWeek":"Thursday","EndBoundary":null,"StartBoundary":"2024-07-21T01:59:00+02:00"},"Actions":"powershell.exe","SiteName":"www.facebook.com","State":3},{"TaskName":"UnblockSite_20240721200021_www.facebook.com","Triggers":{"DaysOfWeek":"Thursday","EndBoundary":null,"StartBoundary":"2024-07-21T00:00:00+02:00"},"Actions":"powershell.exe","SiteName":"www.facebook.com","State":3}]
+Script ended at 07/21/2024 20:16:45

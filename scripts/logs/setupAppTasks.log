@@ -1,0 +1,27 @@
+Starting task setup for application: Steam at 07/21/2024 20:17:17
+Error setting up scheduled tasks: Impossible de trouver un paramètre correspondant au nom « Name ». at 07/21/2024 20:17:18
+Starting task setup for application: steam at 07/21/2024 20:25:02
+Error setting up scheduled tasks: Impossible de trouver un paramètre correspondant au nom « Name ». at 07/21/2024 20:25:02
+Starting task setup for application: steam at 07/21/2024 20:25:30
+Application path not found for: steam
+Starting task setup for application: steam at 07/21/2024 21:03:39
+Created actionMonitorApp for application: steam
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerMonitor for application: steam at 21:6 on Sunday
+Registered scheduled task for monitoring application: steam with task name: MonitorApp_20240721210339_steam
+Scheduled tasks set up successfully for application: steam at 07/21/2024 21:03:39
+Starting task setup for application: steam at 07/21/2024 21:08:32
+Created actionMonitorApp for application: steam
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerMonitor for application: steam at 21:13 on Sunday
+Registered scheduled task for monitoring application: steam with task name: MonitorApp_20240721210832_steam
+Scheduled tasks set up successfully for application: steam at 07/21/2024 21:08:33
+Starting task setup for application: steam at 07/21/2024 21:28:53
+Created actionMonitorApp for application: steam
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerMonitor for application: steam at 21:33 on Sunday
+Registered scheduled task for monitoring application: steam with task name: MonitorApp_20240721212853_steam
+Scheduled tasks set up successfully for application: steam at 07/21/2024 21:28:54

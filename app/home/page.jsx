@@ -63,6 +63,7 @@ export default function Dashboard() {
 
   const handleSchedule = () => {
     const sitesArray = websites.map((site) => site.trim());
+    const appsArray = apps.map((app) => app.trim());
     const start = { hour: parseInt(startHour), minute: parseInt(startMinute) };
     const end = { hour: parseInt(endHour), minute: parseInt(endMinute) };
     const daysArray = daysOfWeek.map((day) => day.trim());
@@ -72,7 +73,8 @@ export default function Dashboard() {
       return;
     }
 
-    window.electronAPI.scheduleBlock(sitesArray, start, end, daysArray);
+    //window.electronAPI.scheduleBlock(sitesArray, start, end, daysArray);
+    window.electronAPI.scheduleBlockApp(appsArray, start, end, daysArray);
   };
   const router = useRouter()
 

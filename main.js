@@ -71,6 +71,27 @@ ipcMain.on('schedule-block', (event, { sites, start, end, daysOfWeek }) => {
   });
 });
 
+ipcMain.on('schedule-block-app', (event, { apps, start, end, daysOfWeek }) => {
+  const scriptDirectory = app.isPackaged
+    ? path.join(process.resourcesPath, 'scripts')
+    : path.join(__dirname, 'scripts');
+
+  apps.forEach(app => {
+    const setupCommand = `powershell -File "${path.join(scriptDirectory, 'setupAppTasks.ps1')}" -appName "${app.trim()}" -startHour ${start.hour} -startMinute ${start.minute} -endHour ${end.hour} -endMinute ${end.minute} -daysOfWeek "${daysOfWeek}"`;
+
+    log.info(`Setting up schedule block for ${app} with command: ${setupCommand}`);
+
+    sudo.exec(setupCommand, options, (error, stdout, stderr) => {
+      if (error) {
+        log.error(`Error setting up scheduled tasks for ${app}: ${error.message}`);
+        return;
+      }
+      log.info(`Scheduled tasks set up for app: ${app}`);
+      log.info(stdout);
+    });
+  });
+});
+
 ipcMain.on('get-scheduled-tasks', (event) => {
   const scriptPath = app.isPackaged
     ? path.join(process.resourcesPath, 'scripts', 'getScheduledTasks.ps1')

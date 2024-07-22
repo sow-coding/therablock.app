@@ -606,3 +606,111 @@ Created triggerUnblock for site: @(@(www.tiktok.com)) at 0:0 on Wednesday, Thurs
 Registered scheduled task for blocking site: @(@(www.tiktok.com)) with task name: BlockSite_20240719205425_@(@(www.tiktok.com))
 Registered scheduled task for unblocking site: @(@(www.tiktok.com)) with task name: UnblockSite_20240719205425_@(@(www.tiktok.com))
 Scheduled tasks set up successfully for site: @(@(www.tiktok.com)) at 07/19/2024 20:54:25
+Starting task setup for application: steam at 07/21/2024 21:37:29
+Created actionMonitorApp for application: steam
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for application: steam at 21:40 on Sunday
+Created triggerUnblock for application: steam at 21:46 on Sunday
+Registered scheduled task for blocking application: steam with task name: BlockApp_20240721213730_steam
+Registered scheduled task for unblocking application: steam with task name: UnblockApp_20240721213730_steam
+Scheduled tasks set up successfully for application: steam at 07/21/2024 21:37:30
+Starting task setup for application: steam at 07/21/2024 23:24:01
+Created actionMonitorApp for application: steam
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for application: steam at 23:28 on Sunday
+Created triggerUnblock for application: steam at 23:33 on Sunday
+Registered scheduled task for blocking application: steam with task name: BlockApp_20240721232401_steam
+Registered scheduled task for unblocking application: steam with task name: UnblockApp_20240721232401_steam
+Scheduled tasks set up successfully for application: steam at 07/21/2024 23:24:02
+Starting task setup for application: steam at 07/21/2024 23:36:04
+Created actionMonitorApp for application: steam
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for application: steam at 23:39 on Sunday
+Created triggerUnblock for application: steam at 11:44 on Sunday
+Registered scheduled task for blocking application: steam with task name: BlockApp_20240721233604_steam
+Registered scheduled task for unblocking application: steam with task name: UnblockApp_20240721233604_steam
+Scheduled tasks set up successfully for application: steam at 07/21/2024 23:36:04
+Starting task setup for application: steam at 07/21/2024 23:41:44
+Created actionMonitorApp for application: steam
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for application: steam at 23:44 on Sunday
+Created triggerUnblock for application: steam at 23:49 on Sunday
+Registered scheduled task for blocking application: steam with task name: BlockApp_20240721234145_steam
+Registered scheduled task for unblocking application: steam with task name: UnblockApp_20240721234145_steam
+Scheduled tasks set up successfully for application: steam at 07/21/2024 23:41:45
+Starting task setup for application: steam at 07/21/2024 23:55:07
+Created actionMonitorApp for application: steam
+Initial days of week string: Sunday
+Days of week array: Sunday
+Created triggerBlock for application: steam at 23:56 on Sunday
+Created triggerUnblock for application: steam at 23:59 on Sunday
+Registered scheduled task for blocking application: steam with task name: BlockApp_20240721235508_steam
+Registered scheduled task for unblocking application: steam with task name: UnblockApp_20240721235508_steam
+Scheduled tasks set up successfully for application: steam at 07/21/2024 23:55:08
+Starting task setup for application: steam at 07/22/2024 10:43:02
+Created actionMonitorApp for application: steam
+Initial days of week string: Monday
+Days of week array: Monday
+Created triggerBlock for application: steam at 10:45 on Monday
+Created triggerUnblock for application: steam at 10:52 on Monday
+Registered scheduled task for blocking application: steam with task name: BlockApp_20240722104303_steam
+Registered scheduled task for unblocking application: steam with task name: UnblockApp_20240722104303_steam
+Scheduled tasks set up successfully for application: steam at 07/22/2024 10:43:03
+Starting task setup for application: steam at 07/22/2024 10:49:53
+Created actionMonitorApp for application: steam
+Initial days of week string: Monday
+Days of week array: Monday
+Created triggerBlock for application: steam at 10:51 on Monday
+Created triggerUnblock for application: steam at 10:55 on Monday
+Registered scheduled task for blocking application: steam with task name: BlockApp_20240722104954_steam
+Registered scheduled task for unblocking application: steam with task name: UnblockApp_20240722104954_steam
+Scheduled tasks set up successfully for application: steam at 07/22/2024 10:49:54
+Starting task setup for application: steam at 07/22/2024 11:07:59
+Created actionMonitorApp for application: steam
+Initial days of week string: Monday
+Days of week array: Monday
+Created triggerBlock for application: steam at 11:10 on Monday
+Created triggerUnblock for application: steam at 11:15 on Monday
+Registered scheduled task for blocking application: steam with task name: BlockApp_20240722110759_steam
+Registered scheduled task for unblocking application: steam with task name: UnblockApp_20240722110759_steam
+Scheduled tasks set up successfully for application: steam at 07/22/2024 11:07:59
+Starting task setup for application: steam at 07/22/2024 11:15:27
+Created actionMonitorApp for application: steam
+Initial days of week string: Monday
+Days of week array: Monday
+Created triggerBlock for application: steam at 11:17 on Monday
+Created triggerUnblock for application: steam at 11:21 on Monday
+Registered scheduled task for blocking application: steam with task name: BlockApp_20240722111528_steam
+Registered scheduled task for unblocking application: steam with task name: UnblockApp_20240722111528_steam
+Scheduled tasks set up successfully for application: steam at 07/22/2024 11:15:28
+Starting task setup for application: steam at 07/22/2024 11:22:10
+Created actionMonitorApp for application: steam
+Initial days of week string: Monday
+Days of week array: Monday
+Created triggerBlock for application: steam at 11:23 on Monday
+Created triggerUnblock for application: steam at 11:25 on Monday
+Registered scheduled task for blocking application: steam with task name: BlockApp_20240722112210_steam
+Registered scheduled task for unblocking application: steam with task name: UnblockApp_20240722112210_steam
+Scheduled tasks set up successfully for application: steam at 07/22/2024 11:22:10
+Starting task setup for application: steam at 07/22/2024 11:31:30
+Created actionMonitorApp for application: steam
+Initial days of week string: Monday
+Days of week array: Monday
+Created triggerBlock for application: steam at 11:33 on Monday
+Created triggerUnblock for application: steam at 11:37 on Monday
+Registered scheduled task for blocking application: steam with task name: BlockApp_20240722113130_steam
+Registered scheduled task for unblocking application: steam with task name: UnblockApp_20240722113130_steam
+Scheduled tasks set up successfully for application: steam at 07/22/2024 11:31:30
+Starting task setup for application: steam at 07/22/2024 11:42:23
+Created actionMonitorApp for application: steam
+Initial days of week string: Monday
+Days of week array: Monday
+Created triggerBlock for application: steam at 11:44 on Monday
+Created triggerUnblock for application: steam at 11:47 on Monday
+Registered scheduled task for blocking application: steam with task name: BlockApp_20240722114223_steam
+Registered scheduled task for unblocking application: steam with task name: UnblockApp_20240722114223_steam
+Scheduled tasks set up successfully for application: steam at 07/22/2024 11:42:23
