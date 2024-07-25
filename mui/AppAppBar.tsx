@@ -147,7 +147,7 @@ function AppAppBar({ mode, toggleColorMode }: AppAppBarProps) {
                 variant="text"
                 size="small"
                 component="a"
-                href="/login"
+                href="/download"
               >
                 Sign in
               </Button>
@@ -156,7 +156,7 @@ function AppAppBar({ mode, toggleColorMode }: AppAppBarProps) {
                 variant="contained"
                 size="small"
                 component="a"
-                href="/signup"
+                href="/download"
               >
                 Free trial
               </Button>

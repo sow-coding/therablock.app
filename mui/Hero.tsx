@@ -73,12 +73,12 @@ export default function Hero() {
             variant="contained"
             size="small"
             component="a"
-            href="/signup"
+            href="/download"
             style={{width: "256px", height: "56px"}}
           >
             Download Therablock
           </Button>
-          <a className='mt-2 hover:underline' href='/termsAndConditions' style={{fontSize: "11px"}}>The landing page is under construction*</a>
+          <a className='mt-2 underline' style={{fontSize: "11px"}}>The landing page is under construction*</a>
         </div>
         {/*
         <Box

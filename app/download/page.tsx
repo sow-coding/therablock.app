@@ -16,7 +16,7 @@ export default function DownloadPage() {
         </CardDescription>
       </CardHeader>
       <form className="mx-4 my-4">
-        <a href="">
+        <a href="https://github.com/sow-coding/therablock/releases/download/v1.0.0/Therablock.Setup.0.1.0.exe">
             <Button type="button" className="w-full">
                 Download
             </Button>
