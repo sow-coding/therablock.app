@@ -54,7 +54,7 @@ export default function Hero() {
               fontSize: 'clamp(3.5rem, 10vw, 4rem)',
             }}
           >
-            The (only) productivity tool an entrepreneur need
+            The (only) productivity tool an entrepreneur needs
           </Typography>
           <Typography
             textAlign="center"
