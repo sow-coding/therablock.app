@@ -21,7 +21,7 @@ function createWindow() {
       contextIsolation: true,
     }
   });
-  //Menu.setApplicationMenu(null);
+  Menu.setApplicationMenu(null);
 
   if (app.isPackaged) {
     win.loadURL("https://therablock.app/home");

@@ -70,23 +70,15 @@ try {
     $triggerBlock = New-ScheduledTaskTrigger -Weekly -DaysOfWeek $daysOfWeekArray -At "$($startHour):$($startMinute)"
     Add-Content -Path $logPath -Value "Created triggerBlock for application: $appName at $($startHour):$($startMinute) on $($daysOfWeekArray -join ', ')"
 
-    $triggerUnblock = New-ScheduledTaskTrigger -Weekly -DaysOfWeek $daysOfWeekArray -At "$($endHour):$($endMinute)"
-    Add-Content -Path $logPath -Value "Created triggerUnblock for application: $appName at $($endHour):$($endMinute) on $($daysOfWeekArray -join ', ')"
-
     $principal = New-ScheduledTaskPrincipal -UserId "SYSTEM" -LogonType ServiceAccount -RunLevel Highest
 
     # Générer un identifiant unique pour chaque tâche avec la date et le nom de l'application
     $timestamp = (Get-Date).ToString("yyyyMMddHHmmss")
     $taskNameBlock = "BlockApp_${timestamp}_$appName"
-    $taskNameUnblock = "UnblockApp_${timestamp}_$appName"
 
     $taskBlockApp = New-ScheduledTask -Action $actionMonitorApp -Trigger $triggerBlock -Principal $principal -Settings (New-ScheduledTaskSettingsSet -AllowStartIfOnBatteries -DontStopIfGoingOnBatteries)
     Register-ScheduledTask -TaskName $taskNameBlock -InputObject $taskBlockApp -Force
     Add-Content -Path $logPath -Value "Registered scheduled task for blocking application: $appName with task name: $taskNameBlock"
-
-    $taskUnblockApp = New-ScheduledTask -Action $actionMonitorApp -Trigger $triggerUnblock -Principal $principal -Settings (New-ScheduledTaskSettingsSet -AllowStartIfOnBatteries -DontStopIfGoingOnBatteries)
-    Register-ScheduledTask -TaskName $taskNameUnblock -InputObject $taskUnblockApp -Force
-    Add-Content -Path $logPath -Value "Registered scheduled task for unblocking application: $appName with task name: $taskNameUnblock"
 
     Write-Output "Scheduled tasks set up successfully for application: $appName"
     Add-Content -Path $logPath -Value "Scheduled tasks set up successfully for application: $appName at $(Get-Date)"

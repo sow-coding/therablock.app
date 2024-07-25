@@ -714,3 +714,28 @@ Created triggerUnblock for application: steam at 11:47 on Monday
 Registered scheduled task for blocking application: steam with task name: BlockApp_20240722114223_steam
 Registered scheduled task for unblocking application: steam with task name: UnblockApp_20240722114223_steam
 Scheduled tasks set up successfully for application: steam at 07/22/2024 11:42:23
+Starting task setup for application: tiktok at 07/25/2024 16:13:20
+Created actionMonitorApp for application: tiktok
+Initial days of week string: Thursday
+Days of week array: Thursday
+Created triggerBlock for application: tiktok at 16:15 on Thursday
+Created triggerUnblock for application: tiktok at 16:20 on Thursday
+Registered scheduled task for blocking application: tiktok with task name: BlockApp_20240725161321_tiktok
+Registered scheduled task for unblocking application: tiktok with task name: UnblockApp_20240725161321_tiktok
+Scheduled tasks set up successfully for application: tiktok at 07/25/2024 16:13:22
+Starting task setup for application: steam at 07/25/2024 16:22:27
+Created actionMonitorApp for application: steam
+Initial days of week string: Thursday
+Days of week array: Thursday
+Created triggerBlock for application: steam at 16:24 on Thursday
+Created triggerUnblock for application: steam at 16:25 on Thursday
+Registered scheduled task for blocking application: steam with task name: BlockApp_20240725162227_steam
+Registered scheduled task for unblocking application: steam with task name: UnblockApp_20240725162227_steam
+Scheduled tasks set up successfully for application: steam at 07/25/2024 16:22:27
+Starting task setup for application: steam at 07/25/2024 16:26:05
+Created actionMonitorApp for application: steam
+Initial days of week string: Thursday
+Days of week array: Thursday
+Created triggerBlock for application: steam at 16:27 on Thursday
+Registered scheduled task for blocking application: steam with task name: BlockApp_20240725162605_steam
+Scheduled tasks set up successfully for application: steam at 07/25/2024 16:26:05
