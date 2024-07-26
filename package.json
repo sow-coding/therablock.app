@@ -11,6 +11,10 @@
       "target": "nsis",
       "requestedExecutionLevel": "requireAdministrator"
     },
+    "files": [
+      "!dist/**/*",
+      "!node_modules/**/*"
+    ],
     "nsis": {
       "oneClick": false,
       "allowToChangeInstallationDirectory": true,
@@ -18,6 +22,8 @@
       "createStartMenuShortcut": true,
       "include": "build/installer.nsh"
     },
+    "asar": true,
+    "compression": "maximum",
     "extraResources": [
       {
         "from": "scripts/",
