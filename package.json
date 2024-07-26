@@ -12,8 +12,17 @@
       "requestedExecutionLevel": "requireAdministrator"
     },
     "files": [
+      "main.js",
       "!dist/**/*",
-      "!node_modules/**/*"
+      "node_modules/electron/*",
+      "node_modules/sudo-prompt/*",
+      "!node_modules/**/*",
+      "!app/**/*",
+      "!components/**/*",
+      "!logs/**/*",
+      "!styles/**/*",
+      "!utils/**/*",
+      "!mui/**/*"
     ],
     "nsis": {
       "oneClick": false,
