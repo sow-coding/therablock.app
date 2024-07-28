@@ -61,6 +61,9 @@ export default function Dashboard() {
 
   const [daysOfWeek, setDaysOfWeek] = useState([]);
 
+  const [missingParams, setMissingParams] = useState(false)
+  const [blockedMissing, setBlockedMissing] = useState(false)
+
   const handleSchedule = () => {
     const sitesArray = websites.map((site) => site.trim());
     const appsArray = apps.map((app) => app.trim());
@@ -69,12 +72,20 @@ export default function Dashboard() {
     const daysArray = daysOfWeek.map((day) => day.trim());
     
     if (start.hour === null || start.minute === null || end.hour === null || end.minute === null || daysArray.length === 0) {
-      console.error("Please set all scheduling parameters.");
+      setMissingParams(true)
       return;
     }
 
-    //window.electronAPI.scheduleBlock(sitesArray, start, end, daysArray);
-    window.electronAPI.scheduleBlockApp(appsArray, start, end, daysArray);
+    if (sitesArray.length != 0) {
+      window.electronAPI.scheduleBlock(sitesArray, start, end, daysArray);
+    } else if (appsArray.length != 0) {
+      window.electronAPI.scheduleBlockApp(appsArray, start, end, daysArray);
+    } else {
+      if (missingParams == false) {
+        setBlockedMissing(true)
+      }
+    }
+
   };
   const router = useRouter()
 
@@ -273,6 +284,38 @@ export default function Dashboard() {
               </Button>
             </form>
           </div>
+
+          {missingParams && (
+              <Card className="fixed bottom-4 right-4 z-50 w-1/3 bg-white shadow-lg">
+              <CardHeader>
+                <CardTitle>Missing parameters</CardTitle>
+              </CardHeader>
+              <CardContent>
+                <div className="grid gap-4">
+                  <h1>{`Please complete all parameters.`}</h1>
+                  <Button variant="outline" onClick={() => {
+                    setMissingParams(false)
+                  }}>Ok</Button>
+                </div>
+              </CardContent>
+            </Card>
+          )}
+
+            {blockedMissing && (
+              <Card className="fixed bottom-4 right-4 z-50 w-1/3 bg-white shadow-lg">
+              <CardHeader>
+                <CardTitle>Missing apps or websites to block</CardTitle>
+              </CardHeader>
+              <CardContent>
+                <div className="grid gap-4">
+                  <h1>{`Please complete either the apps' input or the websites one to block one of them or both`}</h1>
+                  <Button variant="outline" onClick={() => {
+                    setBlockedMissing(false)
+                  }}>Ok</Button>
+                </div>
+              </CardContent>
+            </Card>
+          )}
         </main>
       </div>
     </div>

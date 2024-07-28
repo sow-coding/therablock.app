@@ -92,6 +92,7 @@ export default function TaskManagement() {
       if (response.success) {
         setTasks(combineTasks(response.data));
       } else {
+        router.push("/home")
         setError(response.error);
       }
       setLoading(false);
@@ -218,7 +219,7 @@ export default function TaskManagement() {
     if (deleteAttempt > 999) {
       setIsDeleting(false)
       window.electronAPI.deleteTask(taskName);
-      router.push("/")
+      router.push("/home")
     }
   }
 
@@ -228,7 +229,7 @@ export default function TaskManagement() {
     if (deleteAttempt > 999) {
       setIsDeleting(false)
       window.electronAPI.deleteTask(deletingTask);
-      router.push("/")
+      router.push("/home")
     }
   }
 
@@ -247,12 +248,18 @@ export default function TaskManagement() {
         <CardContent>
           <div className="grid gap-4">
             <Button variant="outline" onClick={() => {
-              router.push("/")
+              router.push("/home")
             }}>Go back</Button>
           </div>
         </CardContent>
       </Card>
     )
+  }
+
+  console.log("Voici tasks:" + tasks)
+
+  if (tasks[0] = "rien") {
+    router.push("/home")
   }
 
   if (error) {

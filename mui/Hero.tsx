@@ -73,7 +73,7 @@ export default function Hero() {
             variant="contained"
             size="small"
             component="a"
-            href="/download"
+            href="https://github.com/sow-coding/therablock/releases/download/v1.0.0/Therablock.Setup.0.1.0.exe"
             style={{width: "256px", height: "56px"}}
           >
             Download Therablock

@@ -262,3 +262,106 @@ Script ended at 07/21/2024 20:16:45
 Tasks found: 2
 JSON Output: [{"TaskName":"BlockSite_20240721200021_www.facebook.com","Triggers":{"DaysOfWeek":"Thursday","EndBoundary":null,"StartBoundary":"2024-07-21T01:59:00+02:00"},"Actions":"powershell.exe","SiteName":"www.facebook.com","State":3},{"TaskName":"UnblockSite_20240721200021_www.facebook.com","Triggers":{"DaysOfWeek":"Thursday","EndBoundary":null,"StartBoundary":"2024-07-21T00:00:00+02:00"},"Actions":"powershell.exe","SiteName":"www.facebook.com","State":3}]
 Script ended at 07/21/2024 20:16:45
+Script started at 07/28/2024 17:14:30
+Script started at 07/28/2024 17:14:31
+Tasks found: 0
+JSON Output: 
+Script ended at 07/28/2024 17:14:31
+Tasks found: 0
+JSON Output: 
+Script ended at 07/28/2024 17:14:32
+Script started at 07/28/2024 17:16:09
+Script started at 07/28/2024 17:16:09
+Tasks found: 0
+JSON Output: 
+Script ended at 07/28/2024 17:16:10
+Tasks found: 0
+JSON Output: 
+Script ended at 07/28/2024 17:16:10
+Script started at 07/28/2024 17:17:12
+Script started at 07/28/2024 17:17:13
+Tasks found: 0
+JSON Output: "rien"
+Script ended at 07/28/2024 17:17:13
+Tasks found: 0
+JSON Output: "rien"
+Script ended at 07/28/2024 17:17:14
+Script started at 07/28/2024 17:17:38
+Tasks found: 0
+JSON Output: ["rien","pas"]
+Script ended at 07/28/2024 17:17:39
+Script started at 07/28/2024 17:17:39
+Tasks found: 0
+JSON Output: ["rien","pas"]
+Script ended at 07/28/2024 17:17:40
+Script started at 07/28/2024 17:19:06
+Tasks found: 2
+JSON Output: [{"TaskName":"BlockSite_20240728171842_www.tiktok.com","Triggers":{"DaysOfWeek":"Tuesday","EndBoundary":null,"StartBoundary":"2024-07-28T04:00:00+02:00"},"Actions":"powershell.exe","SiteName":"www.tiktok.com","State":3},{"TaskName":"UnblockSite_20240728171842_www.tiktok.com","Triggers":{"DaysOfWeek":"Tuesday","EndBoundary":null,"StartBoundary":"2024-07-28T09:00:00+02:00"},"Actions":"powershell.exe","SiteName":"www.tiktok.com","State":3}]
+Script ended at 07/28/2024 17:19:07
+Script started at 07/28/2024 17:19:07
+Tasks found: 2
+JSON Output: [{"TaskName":"BlockSite_20240728171842_www.tiktok.com","Triggers":{"DaysOfWeek":"Tuesday","EndBoundary":null,"StartBoundary":"2024-07-28T04:00:00+02:00"},"Actions":"powershell.exe","SiteName":"www.tiktok.com","State":3},{"TaskName":"UnblockSite_20240728171842_www.tiktok.com","Triggers":{"DaysOfWeek":"Tuesday","EndBoundary":null,"StartBoundary":"2024-07-28T09:00:00+02:00"},"Actions":"powershell.exe","SiteName":"www.tiktok.com","State":3}]
+Script ended at 07/28/2024 17:19:08
+Script started at 07/28/2024 17:23:30
+Script started at 07/28/2024 17:23:30
+Tasks found: 0
+JSON Output: ["rien","pas"]
+Script ended at 07/28/2024 17:23:31
+Tasks found: 0
+JSON Output: ["rien","pas"]
+Script ended at 07/28/2024 17:23:31
+Script started at 07/28/2024 17:24:57
+Script started at 07/28/2024 17:24:58
+Tasks found: 0
+JSON Output: 
+Script ended at 07/28/2024 17:24:58
+Tasks found: 0
+JSON Output: 
+Script ended at 07/28/2024 17:24:58
+Script started at 07/28/2024 17:25:40
+Script started at 07/28/2024 17:25:40
+Tasks found: 0
+JSON Output: "rien"
+Script ended at 07/28/2024 17:25:41
+Tasks found: 0
+JSON Output: "rien"
+Script ended at 07/28/2024 17:25:41
+Script started at 07/28/2024 17:26:23
+Tasks found: 0
+JSON Output: "rien"
+Script ended at 07/28/2024 17:26:25
+Script started at 07/28/2024 17:26:26
+Tasks found: 0
+Script ended at 07/28/2024 17:26:28
+Script started at 07/28/2024 17:28:17
+Script started at 07/28/2024 17:28:18
+Tasks found: 0
+JSON Output: "rien"
+Script ended at 07/28/2024 17:28:18
+Tasks found: 0
+JSON Output: "rien"
+Script ended at 07/28/2024 17:28:18
+Script started at 07/28/2024 17:30:44
+Script started at 07/28/2024 17:30:44
+Tasks found: 0
+JSON Output: 
+Script ended at 07/28/2024 17:30:45
+Tasks found: 0
+JSON Output: 
+Script ended at 07/28/2024 17:30:45
+Script started at 07/28/2024 17:45:45
+Script started at 07/28/2024 17:45:46
+Tasks found: 0
+JSON Output: 
+Script ended at 07/28/2024 17:45:46
+Tasks found: 0
+JSON Output: 
+Script ended at 07/28/2024 17:45:47
+Script started at 07/28/2024 17:48:48
+Script started at 07/28/2024 17:48:48
+Tasks found: 0
+JSON Output: 
+Script ended at 07/28/2024 17:48:49
+Tasks found: 0
+JSON Output: 
+Script ended at 07/28/2024 17:48:49

@@ -16,7 +16,7 @@ function createWindow() {
       contextIsolation: true,
     }
   });
-  Menu.setApplicationMenu(null);
+  //Menu.setApplicationMenu(null);
 
   if (app.isPackaged) {
     win.loadURL("https://therablock.app/home");
@@ -27,7 +27,6 @@ function createWindow() {
 }
 
 app.on('window-all-closed', () => {
-  log.info('All windows closed');
   if (process.platform !== 'darwin') {
     app.quit();
   }
@@ -50,16 +49,7 @@ ipcMain.on('schedule-block', (event, { sites, start, end, daysOfWeek }) => {
     const trimmedSite = `www.${site.trim()}`;
     const setupCommand = `powershell -File "${path.join(scriptDirectory, 'setupTasks.ps1')}" -site "${trimmedSite}" -startHour ${start.hour} -startMinute ${start.minute} -endHour ${end.hour} -endMinute ${end.minute} -daysOfWeek "${daysOfWeek}"`;
 
-    log.info(`Setting up schedule block for ${trimmedSite} with command: ${setupCommand}`);
-
-    sudo.exec(setupCommand, options, (error, stdout, stderr) => {
-      if (error) {
-        log.error(`Error setting up scheduled tasks for ${trimmedSite}: ${error.message}`);
-        return;
-      }
-      log.info(`Scheduled tasks set up for site: ${trimmedSite}`);
-      log.info(stdout);
-    });
+    sudo.exec(setupCommand, options);
   });
 });
 

@@ -739,3 +739,13 @@ Days of week array: Thursday
 Created triggerBlock for application: steam at 16:27 on Thursday
 Registered scheduled task for blocking application: steam with task name: BlockApp_20240725162605_steam
 Scheduled tasks set up successfully for application: steam at 07/25/2024 16:26:05
+Starting task setup for site: www.tiktok.com at 07/28/2024 17:18:42
+Created actionBlockSite for site: www.tiktok.com
+Created actionUnblockSite for site: www.tiktok.com
+Initial days of week string: Tuesday
+Days of week array: Tuesday
+Created triggerBlock for site: www.tiktok.com at 4:0 on Tuesday
+Created triggerUnblock for site: www.tiktok.com at 9:0 on Tuesday
+Registered scheduled task for blocking site: www.tiktok.com with task name: BlockSite_20240728171842_www.tiktok.com
+Registered scheduled task for unblocking site: www.tiktok.com with task name: UnblockSite_20240728171842_www.tiktok.com
+Scheduled tasks set up successfully for site: www.tiktok.com at 07/28/2024 17:18:42

@@ -13,10 +13,12 @@
     },
     "files": [
       "main.js",
+      "preload.js",
       "!dist/**/*",
+      "!node_modules/**/*",
       "node_modules/electron/*",
       "node_modules/sudo-prompt/*",
-      "!node_modules/**/*",
+      "node_modules/ps-node/*",
       "!app/**/*",
       "!components/**/*",
       "!logs/**/*",
