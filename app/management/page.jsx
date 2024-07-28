@@ -200,9 +200,9 @@ export default function TaskManagement() {
     setEditingTask(null);
   };
 
-  const handleDeleteTask = (taskName) => {
+  const handleDeleteTask = (task) => {
     setIsDeleting(true)
-    setDeletingTask(taskName)
+    setDeletingTask(task)
   };
 
   const confirmDeleteTask = () => {
@@ -359,7 +359,7 @@ export default function TaskManagement() {
                               <DropdownMenuContent align="end">
                                 <DropdownMenuLabel>Actions</DropdownMenuLabel>
                                 <DropdownMenuItem onClick={() => handleEditTask(task)}>Edit</DropdownMenuItem>
-                                <DropdownMenuItem onClick={() => handleDeleteTask(task.name)}>Delete</DropdownMenuItem>
+                                <DropdownMenuItem onClick={() => handleDeleteTask(task)}>Delete</DropdownMenuItem>
                               </DropdownMenuContent>
                             </DropdownMenu>
                           </TableCell>

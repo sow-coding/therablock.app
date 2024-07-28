@@ -125,9 +125,9 @@ ipcMain.on('update-task', (event, { oldTask, newTask }) => {
   });
 });
 
-ipcMain.on('delete-task', (event, taskName) => {
-  const blockTaskName = `BlockSite_${taskName}`;
-  const unblockTaskName = `UnblockSite_${taskName}`;
+ipcMain.on('delete-task', (event, task) => {
+  const blockTaskName = `BlockSite_${task.taskName}`;
+  const unblockTaskName = `UnblockSite_${task.taskName}`;
 
   const deleteBlockCommand = `powershell -Command "Unregister-ScheduledTask -TaskName '${blockTaskName}' -Confirm:\$false"`;
   const deleteUnblockCommand = `powershell -Command "Unregister-ScheduledTask -TaskName '${unblockTaskName}' -Confirm:\$false"`;
