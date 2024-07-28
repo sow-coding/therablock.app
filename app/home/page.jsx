@@ -230,7 +230,8 @@ export default function Dashboard() {
                   </CardHeader>
                   <CardContent>
                     <Input
-                      placeholder="e.g: TikTok"
+                      placeholder="Coming very soon..."
+                      disabled={true}
                       value={app}
                       onChange={(e) => {
                         setApp(e.currentTarget.value);
@@ -262,6 +263,7 @@ export default function Dashboard() {
                   <CardFooter className="border-t px-6 py-4">
                     <Button
                       type="button"
+                      disabled={true}
                       onClick={() => {
                         setApps([...apps, app]);
                         setApp("");

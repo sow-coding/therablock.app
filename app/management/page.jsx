@@ -92,7 +92,6 @@ export default function TaskManagement() {
       if (response.success) {
         setTasks(combineTasks(response.data));
       } else {
-        router.push("/home")
         setError(response.error);
       }
       setLoading(false);
@@ -216,17 +215,17 @@ export default function TaskManagement() {
       setDeleteAttempt(deleteAttempt + 1)
       setDeleteInput("")
     }
-    if (deleteAttempt > 999) {
+    if (deleteAttempt > 5) {
       setIsDeleting(false)
       window.electronAPI.deleteTask(taskName);
-      router.push("/home")
+      router.push("/")
     }
   }
 
   const confirmConfirmationContinueDeleting = () => {
     setDeleteAttempt(deleteAttempt + 1)
     setDeleteInput("")
-    if (deleteAttempt > 999) {
+    if (deleteAttempt > 5) {
       setIsDeleting(false)
       window.electronAPI.deleteTask(deletingTask);
       router.push("/home")
@@ -254,12 +253,6 @@ export default function TaskManagement() {
         </CardContent>
       </Card>
     )
-  }
-
-  console.log("Voici tasks:" + tasks)
-
-  if (tasks[0] = "rien") {
-    router.push("/home")
   }
 
   if (error) {
@@ -296,7 +289,7 @@ export default function TaskManagement() {
         <nav className="mt-auto flex flex-col items-center gap-4 px-2 py-4">
           <Tooltip>
             <TooltipTrigger asChild>
-              <Link href="/settings" className="flex h-9 w-9 items-center justify-center rounded-lg text-muted-foreground transition-colors hover:text-foreground md:h-8 md:w-8">
+              <Link href="" className="flex h-9 w-9 items-center justify-center rounded-lg text-muted-foreground transition-colors hover:text-foreground md:h-8 md:w-8">
                 <Settings className="h-5 w-5" />
                 <span className="sr-only">Settings</span>
               </Link>
@@ -426,7 +419,7 @@ export default function TaskManagement() {
                 <CardTitle>Confirm Deletion</CardTitle>
                 <CardDescription>
                 {deleteAttempt % 2 === 0 ? (
-                    `To delete ${deletingTask}, type: "I confirm I want to delete this block" below : (Get yourself a coffee, you'll have to do it ${1000 - deleteAttempt} times ;))`
+                    `To delete ${deletingTask}, type: "I confirm I want to delete this block" below : (Get yourself a coffee, you'll have to do it ${5 - deleteAttempt} times ;))`
                   ) : (
                     `You have confirmed ${deleteAttempt} times. Do you want to continue deleting ${deletingTask}?`
                   )}
