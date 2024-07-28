@@ -217,7 +217,7 @@ export default function TaskManagement() {
     }
     if (deleteAttempt > 5) {
       setIsDeleting(false)
-      window.electronAPI.deleteTask(taskName);
+      window.electronAPI.deleteTask(deletingTask);
       router.push("/")
     }
   }
