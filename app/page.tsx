@@ -88,7 +88,6 @@ export default function LandingPage() {
         <Divider />
         <Highlights />
         <Divider />
-        <Demo />
         <Divider />
         <Pricing />
         <Divider />
@@ -96,6 +95,7 @@ export default function LandingPage() {
         <Divider />
         <Footer />
       </Box> */}
+    <Demo />
     </ThemeProvider>
   );
 }

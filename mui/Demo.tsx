@@ -41,17 +41,9 @@ const items = [
 ];
 
 export default function Demo() {
-  const [selectedItemIndex, setSelectedItemIndex] = React.useState(0);
-
-  const handleItemClick = (index: number) => {
-    setSelectedItemIndex(index);
-  };
-
-  const selectedFeature = items[selectedItemIndex];
-
   return (
-    <Container id="demo" sx={{ py: { xs: 8, sm: 16 } }}>
-      
+    <Container id="demo" sx={{ py: { xs: 8, sm: 16 } }} style={{display: "flex", justifyContent: "center"}}>
+      <iframe width="878" height="493" src="https://www.youtube.com/embed/h8CjRCavoYs?si=_m7G5fCB_ZCshHd2" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
     </Container>
   );
 }
